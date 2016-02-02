@@ -1,6 +1,6 @@
 This is a repo of KiCad footprint libraries as submodules. A submodule is a way of including another git repo in your repo holding it at a particular version until you want to update it. This is useful as you can easily keep a local copy of all the libraries, freeze them and only update when you want to. 
 
-All the official libraries are under the `Kicad/` sub-directory.
+All the official libraries are under the `Kicad/` sub-directory. I will keep adding to this and updating when the libraries update.
 
 To clone all the repos 
 
