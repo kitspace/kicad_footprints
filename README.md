@@ -1,6 +1,4 @@
-This is an entire repo of KiCad footprint libraries as submodules. A submodule is a way of including another git repo in your repo holding it at a particular version until you want to update it. All the official libraries are under the `Kicad/` sub-directory.
-
-This is useful as you can easily keep a local copy of all the libraries, freeze them and only update when you want to. 
+This is a repo of KiCad footprint libraries as submodules. A submodule is a way of including another git repo in your repo holding it at a particular version until you want to update it. This is useful as you can easily keep a local copy of all the libraries, freeze them and only update when you want to. 
 
 All the official libraries are under the `Kicad/` sub-directory.
 
@@ -10,5 +8,12 @@ To clone all the repos
 
 If you want to update all libraries 
 
-    git pull && git submodule update 
+    cd kicad_footprints && git pull && git submodule update 
+
+You can use `generate_fp-lib-table.sh` to generate an fp-lib-table with all
+these local repos. You could use this to replace your existing fp-lib-table, e.g. on Linux:
+    
+    cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
+    ./generate_fp-lib-table.sh > ~/.config/kicad/fp-lib-table
+
 
