@@ -241,3 +241,48 @@
 [submodule "kicad-open-modules"]
 	path = brunoeagle/kicad-open-modules
 	url = https://github.com/brunoeagle/kicad-open-modules
+[submodule "StefanHamminga/SH_Antennas.pretty"]
+	path = StefanHamminga/SH_Antennas.pretty
+	url = https://github.com/StefanHamminga/SH_Antennas.pretty
+[submodule "StefanHamminga/SH_Audio.pretty"]
+	path = StefanHamminga/SH_Audio.pretty
+	url = https://github.com/StefanHamminga/SH_Audio.pretty
+[submodule "StefanHamminga/SH_Batteries.pretty"]
+	path = StefanHamminga/SH_Batteries.pretty
+	url = https://github.com/StefanHamminga/SH_Batteries.pretty
+[submodule "StefanHamminga/SH_BGA.pretty"]
+	path = StefanHamminga/SH_BGA.pretty
+	url = https://github.com/StefanHamminga/SH_BGA.pretty
+[submodule "StefanHamminga/SH_Capacitors.pretty"]
+	path = StefanHamminga/SH_Capacitors.pretty
+	url = https://github.com/StefanHamminga/SH_Capacitors.pretty
+[submodule "StefanHamminga/SH_Connectors.pretty"]
+	path = StefanHamminga/SH_Connectors.pretty
+	url = https://github.com/StefanHamminga/SH_Connectors.pretty
+[submodule "StefanHamminga/SH_Crystals_Oscillators.pretty"]
+	path = StefanHamminga/SH_Crystals_Oscillators.pretty
+	url = https://github.com/StefanHamminga/SH_Crystals_Oscillators.pretty
+[submodule "StefanHamminga/SH_Diodes.pretty"]
+	path = StefanHamminga/SH_Diodes.pretty
+	url = https://github.com/StefanHamminga/SH_Diodes.pretty
+[submodule "StefanHamminga/SH_Filters.pretty"]
+	path = StefanHamminga/SH_Filters.pretty
+	url = https://github.com/StefanHamminga/SH_Filters.pretty
+[submodule "StefanHamminga/SH_IC_Custom.pretty"]
+	path = StefanHamminga/SH_IC_Custom.pretty
+	url = https://github.com/StefanHamminga/SH_IC_Custom.pretty
+[submodule "StefanHamminga/SH_Inductors.pretty"]
+	path = StefanHamminga/SH_Inductors.pretty
+	url = https://github.com/StefanHamminga/SH_Inductors.pretty
+[submodule "StefanHamminga/SH_Jumper_Pins.pretty"]
+	path = StefanHamminga/SH_Jumper_Pins.pretty
+	url = https://github.com/StefanHamminga/SH_Jumper_Pins.pretty
+[submodule "StefanHamminga/SH_Mechanical.pretty"]
+	path = StefanHamminga/SH_Mechanical.pretty
+	url = https://github.com/StefanHamminga/SH_Mechanical.pretty
+[submodule "StefanHamminga/SH_Modules.pretty"]
+	path = StefanHamminga/SH_Modules.pretty
+	url = https://github.com/StefanHamminga/SH_Modules.pretty
+[submodule "StefanHamminga/SH_QFN_QFP.pretty"]
+	path = StefanHamminga/SH_QFN_QFP.pretty
+	url = https://github.com/StefanHamminga/SH_QFN_QFP.pretty
