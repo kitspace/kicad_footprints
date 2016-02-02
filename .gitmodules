@@ -235,3 +235,9 @@
 [submodule "Wire_Pads.pretty"]
 	path = KiCad/Wire_Pads.pretty
 	url = https://github.com/KiCad/Wire_Pads.pretty/
+[submodule "kicad-libraries"]
+	path = Tinkerforge/kicad-libraries
+	url = https://github.com/Tinkerforge/kicad-libraries
+[submodule "kicad-open-modules"]
+	path = brunoeagle/kicad-open-modules
+	url = https://github.com/brunoeagle/kicad-open-modules
