@@ -286,3 +286,6 @@
 [submodule "StefanHamminga/SH_QFN_QFP.pretty"]
 	path = StefanHamminga/SH_QFN_QFP.pretty
 	url = https://github.com/StefanHamminga/SH_QFN_QFP.pretty
+[submodule "cpavlina/kicad-pcblib"]
+	path = cpavlina/kicad-pcblib
+	url = https://github.com/cpavlina/kicad-pcblib
