@@ -8,7 +8,7 @@ To clone all the repos
 
 If you want to update all libraries 
 
-    cd kicad_footprints && git pull && git submodule update 
+    cd kicad_footprints && git pull && git submodule update --init
 
 You can use `generate_fp-lib-table.py` to generate an fp-lib-table with all
 these local repos. You could use this to replace your existing fp-lib-table, e.g. on Linux:
