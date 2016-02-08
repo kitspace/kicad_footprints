@@ -289,3 +289,6 @@
 [submodule "cpavlina/kicad-pcblib"]
 	path = cpavlina/kicad-pcblib
 	url = https://github.com/cpavlina/kicad-pcblib
+[submodule "adamgreig/agg-kicad"]
+	path = adamgreig/agg-kicad
+	url = https://github.com/adamgreig/agg-kicad
