@@ -4,16 +4,16 @@ All the official libraries are under the `Kicad/` sub-directory. I will keep add
 
 To clone all the repos 
 
-    git clone --recursive https://github.com/kasbah/kicad_footprints
+    git clone https://github.com/kasbah/kicad_footprints
+    cd kicad_footprints
+    ./update.sh
 
 If you want to update all libraries 
 
-    cd kicad_footprints && git pull && git submodule update --init
+    git pull && ./update.sh
 
 You can use `generate_fp-lib-table.py` to generate an fp-lib-table with all
 these local repos. You could use this to replace your existing fp-lib-table, e.g. on Linux:
     
     cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
     ./generate_fp-lib-table.py > ~/.config/kicad/fp-lib-table
-
-
