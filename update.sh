@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 set -e
-for path in $(cat paths); do
+for path in $(cat .submodule_paths); do
   git submodule update --init "$path" &
 done;
 
