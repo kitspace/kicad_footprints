@@ -292,3 +292,6 @@
 [submodule "adamgreig/agg-kicad"]
 	path = adamgreig/agg-kicad
 	url = https://github.com/adamgreig/agg-kicad
+[submodule "freetronics/freetronics_kicad_library"]
+	path = freetronics/freetronics_kicad_library
+	url = https://github.com/freetronics/freetronics_kicad_library
