@@ -10,9 +10,5 @@ done;
 
 wait
 
-for path in $(cat .submodule_paths); do
-  cd "$path" && git pull &
-done;
-
 wait
 
