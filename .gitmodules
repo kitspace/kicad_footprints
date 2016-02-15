@@ -295,3 +295,6 @@
 [submodule "freetronics/freetronics_kicad_library"]
 	path = freetronics/freetronics_kicad_library
 	url = https://github.com/freetronics/freetronics_kicad_library
+[submodule "imciner2/KiCad-Libraries"]
+	path = imciner2/KiCad-Libraries
+	url = https://github.com/imciner2/KiCad-Libraries
