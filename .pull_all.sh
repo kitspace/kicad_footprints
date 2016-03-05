@@ -3,7 +3,7 @@
 set -e;
 
 for path in $(cat .submodule_paths); do
-  cd "$path" && git pull &
+  cd "$path" && git pull || echo "ERROR: $path" &
 done;
 
 wait
