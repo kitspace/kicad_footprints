@@ -298,3 +298,6 @@
 [submodule "imciner2/KiCad-Libraries"]
 	path = imciner2/KiCad-Libraries
 	url = https://github.com/imciner2/KiCad-Libraries
+[submodule "mcous/kicad-lib"]
+	path = mcous/kicad-lib
+	url = https://github.com/mcous/kicad-lib
