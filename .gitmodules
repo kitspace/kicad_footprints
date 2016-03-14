@@ -301,3 +301,6 @@
 [submodule "mcous/kicad-lib"]
 	path = mcous/kicad-lib
 	url = https://github.com/mcous/kicad-lib
+[submodule "pelrun/libKiCad"]
+	path = pelrun/libKiCad
+	url = https://github.com/pelrun/libKiCad
