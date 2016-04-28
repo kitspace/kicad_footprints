@@ -34,15 +34,9 @@
 [submodule "Choke_Toroid_ThroughHole.pretty"]
 	path = KiCad/Choke_Toroid_ThroughHole.pretty
 	url = https://github.com/KiCad/Choke_Toroid_ThroughHole.pretty/
-[submodule "Connectors_JST_PH.pretty"]
-	path = KiCad/Connectors_JST_PH.pretty
-	url = https://github.com/KiCad/Connectors_JST_PH.pretty/
 [submodule "Connectors_JST.pretty"]
 	path = KiCad/Connectors_JST.pretty
 	url = https://github.com/KiCad/Connectors_JST.pretty/
-[submodule "Connectors_JST_SH.pretty"]
-	path = KiCad/Connectors_JST_SH.pretty
-	url = https://github.com/KiCad/Connectors_JST_SH.pretty/
 [submodule "Connectors_Molex.pretty"]
 	path = KiCad/Connectors_Molex.pretty
 	url = https://github.com/KiCad/Connectors_Molex.pretty/

@@ -12,8 +12,6 @@ KiCad/Choke_SMD.pretty
 KiCad/Choke_Toroid_ThroughHole.pretty
 KiCad/Connect.pretty
 KiCad/Connectors_JST.pretty
-KiCad/Connectors_JST_PH.pretty
-KiCad/Connectors_JST_SH.pretty
 KiCad/Connectors_Molex.pretty
 KiCad/Connectors_Multicomp.pretty
 KiCad/Converters_DCDC_ACDC.pretty
