@@ -11,8 +11,8 @@ This downloads all the libraries asyncronously but it can still take a while. If
 
     ./update.sh
 
-You can use `generate_fp-lib-table.py` to generate an fp-lib-table with all
+You can use `generate_table.py` to generate an fp-lib-table with all
 these local repos. You could use this to replace your existing fp-lib-table, e.g. on Linux:
     
     cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
-    ./generate_fp-lib-table.py > ~/.config/kicad/fp-lib-table
+    ./generate_table.py > ~/.config/kicad/fp-lib-table
