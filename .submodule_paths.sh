@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-submodule_paths=$(git config --file .gitmodules --get-regexp path | awk '{ print $2 }')
+submodule_paths=$(git submodule | awk '{ print $2 }')
