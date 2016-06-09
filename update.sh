@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-set -e;
+set -e
 
-git submodule init;
+source ./.submodule_paths.sh
 
-for path in $(cat .submodule_paths); do
-  git submodule $1 update "$path" &
+for path in $submodule_paths; do
+  cd "./$path" && git pull || echo "ERROR: $path" &
 done;
 
-wait;
+wait

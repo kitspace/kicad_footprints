@@ -2,15 +2,14 @@ This is a repo of KiCad footprint libraries as submodules. A submodule is a way 
 
 All the official libraries are under the `KiCad/` sub-directory. I will keep adding to this and updating when the libraries update.
 
-To clone all the repos 
+To initialise
 
     git clone https://github.com/kasbah/kicad_footprints
-    cd kicad_footprints
-    ./update.sh
+    cd kicad_footprints && ./init.sh 
 
 If you want to update all libraries 
 
-    git pull && ./update.sh
+    ./update.sh
 
 You can use `generate_fp-lib-table.py` to generate an fp-lib-table with all
 these local repos. You could use this to replace your existing fp-lib-table, e.g. on Linux:
