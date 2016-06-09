@@ -7,7 +7,7 @@ source ./.submodule_paths.sh
 git submodule init
 
 for path in $submodule_paths; do
-  git submodule $1 update "$path" && git submodule foreach "git checkout master" &
+  git submodule $1 update "$path" &
 done
 
 wait

@@ -5,7 +5,7 @@ set -e
 source ./.submodule_paths.sh
 
 for path in $submodule_paths; do
-  cd "./$path" && git pull || echo "ERROR: $path" &
+  cd "./$path" && git pull origin master || echo "ERROR: $path" &
 done;
 
 wait
