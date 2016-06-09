@@ -7,7 +7,7 @@ To initialise:
     git clone https://github.com/kasbah/kicad_footprints
     cd kicad_footprints && ./init.sh 
 
-This downloads all the libraries asyncronously but it can still take a while. If you want to update all libraries to their latest versions do:
+This downloads all the libraries asynchronously but it can still take a while. If you want to update all libraries to their latest versions do:
 
     ./update.sh
 
