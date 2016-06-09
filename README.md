@@ -16,3 +16,5 @@ these local repos. You could use this to replace your existing fp-lib-table, e.g
     
     cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
     ./generate_table.py > ~/.config/kicad/fp-lib-table
+
+You will need to restart KiCad for this change to take proper effect. 
