@@ -2,12 +2,12 @@ This is a repo of KiCad footprint libraries as submodules. A submodule is a way 
 
 All the official libraries are under the `KiCad/` sub-directory. I will keep adding to this and updating when the libraries update.
 
-To initialise
+To initialise:
 
     git clone https://github.com/kasbah/kicad_footprints
     cd kicad_footprints && ./init.sh 
 
-If you want to update all libraries 
+This downloads all the libraries asyncronously but it can still take a while. If you want to update all libraries to their latest versions do:
 
     ./update.sh
 

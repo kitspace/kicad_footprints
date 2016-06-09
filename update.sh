@@ -1,11 +1,3 @@
 #!/usr/bin/env bash
 
-set -e
-
-source ./.submodule_paths.sh
-
-for path in $submodule_paths; do
-  cd "./$path" && git pull origin master || echo "ERROR: $path" &
-done;
-
-wait
+git submodule foreach "git pull origin master&"

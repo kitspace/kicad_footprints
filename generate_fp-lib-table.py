@@ -4,10 +4,10 @@ from __future__ import print_function
 import os
 
 print('(fp_lib_table')
+#look for all folders with .kicad_mod files and add those folders as libraries
 for dirname, dirnames, filenames in os.walk(os.path.curdir):
-    # editing the 'dirnames' list will stop os.walk() from recursing into there.
+    # don't go into any .git directories.
     if '.git' in dirnames:
-        # don't go into any .git directories.
         dirnames.remove('.git')
 
     for filename in filenames:
