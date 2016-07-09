@@ -8,7 +8,7 @@ submodule_paths=$(git submodule | awk '{ print $2 }')
 
 pids=()
 for path in $submodule_paths; do
-  git submodule update "$path" &
+  git submodule update --depth 1 "$path" &
   pids+=($!)
 done
 
