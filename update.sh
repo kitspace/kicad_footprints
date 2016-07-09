@@ -2,6 +2,10 @@
 set -eu
 set -o pipefail
 
-git submodule foreach "git pull origin master&"
+submodule_paths=$(git submodule | awk '{ print $2 }')
+
+for path in $submodule_paths; do
+  cd "$path" && git pull origin master &
+done
 
 wait
