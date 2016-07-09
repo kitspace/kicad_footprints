@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-set -e
+set -eu
+set -o pipefail
 
 git submodule init
 
@@ -11,5 +12,3 @@ for path in $submodule_paths; do
 done
 
 wait
-
-./update.sh
