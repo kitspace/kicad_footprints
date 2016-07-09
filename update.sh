@@ -5,6 +5,7 @@ set -o pipefail
 submodule_paths=$(git submodule | awk '{ print $2 }')
 
 for path in $submodule_paths; do
+  echo "$path"
   cd "$path" && git pull origin master &
 done
 
