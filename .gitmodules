@@ -298,3 +298,6 @@
 [submodule "pelrun/libKiCad"]
 	path = pelrun/libKiCad
 	url = https://github.com/pelrun/libKiCad
+[submodule "ohdsp/KiCad-Libs"]
+	path = ohdsp/KiCad-Libs
+	url = https://github.com/ohdsp/KiCad-Libs
