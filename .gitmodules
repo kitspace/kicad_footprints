@@ -301,3 +301,6 @@
 [submodule "ohdsp/KiCad-Libs"]
 	path = ohdsp/KiCad-Libs
 	url = https://github.com/ohdsp/KiCad-Libs
+[submodule "xesscorp/xess.pretty"]
+	path = xesscorp/xess.pretty
+	url = https://github.com/xesscorp/xess.pretty
