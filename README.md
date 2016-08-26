@@ -9,18 +9,18 @@ adding to this and updating when the libraries update.
 To initialise:
 
     git clone https://github.com/kasbah/kicad_footprints
-    cd kicad_footprints && ./init.sh 
+    cd kicad_footprints && ./init
 
 This downloads all the libraries asynchronously but it can still take a while.
 If you want to update all libraries to their latest versions do:
 
-    ./update.sh
+    ./update
 
-You can use `generate_table.py` to generate an fp-lib-table with all these
+You can use `generate_table` to generate an fp-lib-table with all these
 local repos. You could use this to replace your existing fp-lib-table, e.g. on
 Linux:
     
     cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
-    ./generate_table.py > ~/.config/kicad/fp-lib-table
+    ./generate_table > ~/.config/kicad/fp-lib-table
 
 You will need to restart KiCad for this change to take proper effect. 
