@@ -307,3 +307,6 @@
 [submodule "OLIMEX/KiCAD"]
 	path = OLIMEX/KiCAD
 	url = https://github.com/OLIMEX/KiCAD
+[submodule "ruuvi/kicad-library"]
+	path = ruuvi/kicad-library
+	url = https://github.com/ruuvi/kicad-library
