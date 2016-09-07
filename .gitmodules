@@ -310,3 +310,6 @@
 [submodule "ruuvi/kicad-library"]
 	path = ruuvi/kicad-library
 	url = https://github.com/ruuvi/kicad-library
+[submodule "monostable/CommonPartsLibrary.pretty"]
+	path = monostable/CommonPartsLibrary.pretty
+	url = https://github.com/monostable/CommonPartsLibrary.pretty
