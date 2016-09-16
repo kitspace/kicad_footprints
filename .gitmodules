@@ -313,3 +313,6 @@
 [submodule "monostable/CommonPartsLibrary.pretty"]
 	path = monostable/CommonPartsLibrary.pretty
 	url = https://github.com/monostable/CommonPartsLibrary.pretty
+[submodule "jdunmire/kicad-ESP8266"]
+	path = jdunmire/kicad-ESP8266
+	url = https://github.com/jdunmire/kicad-ESP8266
