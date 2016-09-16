@@ -316,3 +316,12 @@
 [submodule "jdunmire/kicad-ESP8266"]
 	path = jdunmire/kicad-ESP8266
 	url = https://github.com/jdunmire/kicad-ESP8266
+[submodule "adamjvr/ESP32-kiCAD-Footprints"]
+	path = adamjvr/ESP32-kiCAD-Footprints
+	url = https://github.com/adamjvr/ESP32-kiCAD-Footprints
+[submodule "adamjvr/KiCAD-OnHand-Lib"]
+	path = adamjvr/KiCAD-OnHand-Lib
+	url = https://github.com/adamjvr/KiCAD-OnHand-Lib
+[submodule "adamjvr/KiCAD-IPC-SMT"]
+	path = adamjvr/KiCAD-IPC-SMT
+	url = https://github.com/adamjvr/KiCAD-IPC-SMT
