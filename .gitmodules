@@ -325,3 +325,18 @@
 [submodule "adamjvr/KiCAD-IPC-SMT"]
 	path = adamjvr/KiCAD-IPC-SMT
 	url = https://github.com/adamjvr/KiCAD-IPC-SMT
+[submodule "descampsa/molex.pretty"]
+	path = descampsa/molex.pretty
+	url = https://github.com/descampsa/molex.pretty
+[submodule "descampsa/fuse.pretty"]
+	path = descampsa/fuse.pretty
+	url = https://github.com/descampsa/fuse.pretty
+[submodule "descampsa/CreativeCommon.pretty"]
+	path = descampsa/CreativeCommon.pretty
+	url = https://github.com/descampsa/CreativeCommon.pretty
+[submodule "descampsa/arduino.pretty"]
+	path = descampsa/arduino.pretty
+	url = https://github.com/descampsa/arduino.pretty
+[submodule "descampsa/LEDs.pretty"]
+	path = descampsa/LEDs.pretty
+	url = https://github.com/descampsa/LEDs.pretty
