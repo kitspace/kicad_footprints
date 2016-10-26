@@ -340,3 +340,6 @@
 [submodule "descampsa/LEDs.pretty"]
 	path = descampsa/LEDs.pretty
 	url = https://github.com/descampsa/LEDs.pretty
+[submodule "MacroFab/EDALibraries"]
+	path = MacroFab/EDALibraries
+	url = https://github.com/MacroFab/EDALibraries
