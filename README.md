@@ -30,4 +30,4 @@ You will need to restart KiCAD for this change to take proper effect.
 If you want to pull in any libraries that have been added since your initial clone:
 
     git pull 
-    ./update
+    ./init
