@@ -322,9 +322,6 @@
 [submodule "adamjvr/KiCAD-OnHand-Lib"]
 	path = adamjvr/KiCAD-OnHand-Lib
 	url = https://github.com/adamjvr/KiCAD-OnHand-Lib
-[submodule "adamjvr/KiCAD-IPC-SMT"]
-	path = adamjvr/KiCAD-IPC-SMT
-	url = https://github.com/adamjvr/KiCAD-IPC-SMT
 [submodule "descampsa/molex.pretty"]
 	path = descampsa/molex.pretty
 	url = https://github.com/descampsa/molex.pretty
