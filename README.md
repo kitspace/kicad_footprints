@@ -1,4 +1,9 @@
+# KiCAD footprint collection
 This is a collection of all the KiCAD footprints I know of. If you know of any more, please let me know!
+
+It's best used with footprint search that is part of kicad "product" (daily) builds.
+
+![](screenshot.png)
 
 This repo uses git submodules.
 A submodule is a way of including another git repo in your repo holding it at a particular version until you want to update it.
