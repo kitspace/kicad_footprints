@@ -346,3 +346,6 @@
 [submodule "jerome-labidurie/d1_mini_kicad"]
 	path = jerome-labidurie/d1_mini_kicad
 	url = https://github.com/jerome-labidurie/d1_mini_kicad
+[submodule "stormboard/Keyboard.pretty"]
+	path = stormboard/Keyboard.pretty
+	url = https://github.com/stormbard/Keyboard.pretty
