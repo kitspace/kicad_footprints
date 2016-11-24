@@ -343,3 +343,6 @@
 [submodule "nqbit/NQBit.pretty"]
 	path = nqbit/NQBit.pretty
 	url = https://github.com/nqbit/NQBit.pretty
+[submodule "jerome-labidurie/d1_mini_kicad"]
+	path = jerome-labidurie/d1_mini_kicad
+	url = https://github.com/jerome-labidurie/d1_mini_kicad
