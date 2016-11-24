@@ -349,3 +349,672 @@
 [submodule "stormboard/Keyboard.pretty"]
 	path = stormboard/Keyboard.pretty
 	url = https://github.com/stormbard/Keyboard.pretty
+[submodule "stormbard/Keyboard.pretty"]
+	path = stormbard/Keyboard.pretty
+	url = git@github.com:stormbard/Keyboard.pretty.git
+[submodule "tylercrumpton/CrumpPrints.pretty"]
+	path = tylercrumpton/CrumpPrints.pretty
+	url = git@github.com:tylercrumpton/CrumpPrints.pretty.git
+[submodule "madworm/WS2812B.pretty"]
+	path = madworm/WS2812B.pretty
+	url = git@github.com:madworm/WS2812B.pretty.git
+[submodule "tmk/keyboard_parts.pretty"]
+	path = tmk/keyboard_parts.pretty
+	url = git@github.com:tmk/keyboard_parts.pretty.git
+[submodule "g4lvanix/kilibs.pretty"]
+	path = g4lvanix/kilibs.pretty
+	url = git@github.com:g4lvanix/kilibs.pretty.git
+[submodule "madworm/Panelization.pretty"]
+	path = madworm/Panelization.pretty
+	url = git@github.com:madworm/Panelization.pretty.git
+[submodule "coredump-ch/particle.pretty"]
+	path = coredump-ch/particle.pretty
+	url = git@github.com:coredump-ch/particle.pretty.git
+[submodule "myelin/myelin-kicad.pretty"]
+	path = myelin/myelin-kicad.pretty
+	url = git@github.com:myelin/myelin-kicad.pretty.git
+[submodule "rohbotics/IPC7351-Nominal.pretty"]
+	path = rohbotics/IPC7351-Nominal.pretty
+	url = git@github.com:rohbotics/IPC7351-Nominal.pretty.git
+[submodule "andybest/Kicad.pretty"]
+	path = andybest/Kicad.pretty
+	url = git@github.com:andybest/Kicad.pretty.git
+[submodule "codemercenary-os/kicad.pretty"]
+	path = codemercenary-os/kicad.pretty
+	url = git@github.com:codemercenary-os/kicad.pretty.git
+[submodule "graycatlabs/OSD335x.pretty"]
+	path = graycatlabs/OSD335x.pretty
+	url = git@github.com:graycatlabs/OSD335x.pretty.git
+[submodule "ojousima/logos.pretty"]
+	path = ojousima/logos.pretty
+	url = git@github.com:ojousima/logos.pretty.git
+[submodule "cormoran/kicad.pretty"]
+	path = cormoran/kicad.pretty
+	url = git@github.com:cormoran/kicad.pretty.git
+[submodule "JonasNorling/Footprints.pretty"]
+	path = JonasNorling/Footprints.pretty
+	url = git@github.com:JonasNorling/Footprints.pretty.git
+[submodule "xesscorp/RPi_Hat.pretty"]
+	path = xesscorp/RPi_Hat.pretty
+	url = git@github.com:xesscorp/RPi_Hat.pretty.git
+[submodule "Kujimoto/fujimoto.pretty"]
+	path = Kujimoto/fujimoto.pretty
+	url = git@github.com:Kujimoto/fujimoto.pretty.git
+[submodule "ViktorKicad/mystuff.pretty"]
+	path = ViktorKicad/mystuff.pretty
+	url = git@github.com:ViktorKicad/mystuff.pretty.git
+[submodule "chenchiel/BGA.pretty"]
+	path = chenchiel/BGA.pretty
+	url = git@github.com:chenchiel/BGA.pretty.git
+[submodule "andresmanelli/TOROID-KiCad.pretty"]
+	path = andresmanelli/TOROID-KiCad.pretty
+	url = git@github.com:andresmanelli/TOROID-KiCad.pretty.git
+[submodule "UMONS-GFA/kicad-gfa.pretty"]
+	path = UMONS-GFA/kicad-gfa.pretty
+	url = git@github.com:UMONS-GFA/kicad-gfa.pretty.git
+[submodule "GSMCustomEffects/Kicad_GSM_Footprint.pretty"]
+	path = GSMCustomEffects/Kicad_GSM_Footprint.pretty
+	url = git@github.com:GSMCustomEffects/Kicad_GSM_Footprint.pretty.git
+[submodule "jnedbal/jakub.pretty"]
+	path = jnedbal/jakub.pretty
+	url = git@github.com:jnedbal/jakub.pretty.git
+[submodule "Zetaohm/Zetaohm.pretty"]
+	path = Zetaohm/Zetaohm.pretty
+	url = git@github.com:Zetaohm/Zetaohm.pretty.git
+[submodule "lowstar/various.pretty"]
+	path = lowstar/various.pretty
+	url = git@github.com:lowstar/various.pretty.git
+[submodule "realthunder/Misc.pretty"]
+	path = realthunder/Misc.pretty
+	url = git@github.com:realthunder/Misc.pretty.git
+[submodule "cosmikwolf/Zetaohm.pretty"]
+	path = cosmikwolf/Zetaohm.pretty
+	url = git@github.com:cosmikwolf/Zetaohm.pretty.git
+[submodule "OpenMusicKontrollers/omk.pretty"]
+	path = OpenMusicKontrollers/omk.pretty
+	url = git@github.com:OpenMusicKontrollers/omk.pretty.git
+[submodule "pbrook/Parts.pretty"]
+	path = pbrook/Parts.pretty
+	url = git@github.com:pbrook/Parts.pretty.git
+[submodule "Cylindric3D/KicadComponents.pretty"]
+	path = Cylindric3D/KicadComponents.pretty
+	url = git@github.com:Cylindric3D/KicadComponents.pretty.git
+[submodule "patiqs/KicadLib.pretty"]
+	path = patiqs/KicadLib.pretty
+	url = git@github.com:patiqs/KicadLib.pretty.git
+[submodule "theFork/Solderjumpers.pretty"]
+	path = theFork/Solderjumpers.pretty
+	url = git@github.com:theFork/Solderjumpers.pretty.git
+[submodule "johslarsen/Misc.pretty"]
+	path = johslarsen/Misc.pretty
+	url = git@github.com:johslarsen/Misc.pretty.git
+[submodule "ariejan/ariejan.pretty"]
+	path = ariejan/ariejan.pretty
+	url = git@github.com:ariejan/ariejan.pretty.git
+[submodule "johslarsen/SMD.pretty"]
+	path = johslarsen/SMD.pretty
+	url = git@github.com:johslarsen/SMD.pretty.git
+[submodule "johslarsen/Connectors.pretty"]
+	path = johslarsen/Connectors.pretty
+	url = git@github.com:johslarsen/Connectors.pretty.git
+[submodule "apexelectrix/Apex.pretty"]
+	path = apexelectrix/Apex.pretty
+	url = git@github.com:apexelectrix/Apex.pretty.git
+[submodule "NathanielPerkins/NPFootprints.pretty"]
+	path = NathanielPerkins/NPFootprints.pretty
+	url = git@github.com:NathanielPerkins/NPFootprints.pretty.git
+[submodule "aesora/aesora.pretty"]
+	path = aesora/aesora.pretty
+	url = git@github.com:aesora/aesora.pretty.git
+[submodule "vontrapp/vontrapp.pretty"]
+	path = vontrapp/vontrapp.pretty
+	url = git@github.com:vontrapp/vontrapp.pretty.git
+[submodule "mkleinschmidt/Mundorf.pretty"]
+	path = mkleinschmidt/Mundorf.pretty
+	url = git@github.com:mkleinschmidt/Mundorf.pretty.git
+[submodule "johslarsen/Switches.pretty"]
+	path = johslarsen/Switches.pretty
+	url = git@github.com:johslarsen/Switches.pretty.git
+[submodule "eblanton/kicad-footprints.pretty"]
+	path = eblanton/kicad-footprints.pretty
+	url = git@github.com:eblanton/kicad-footprints.pretty.git
+[submodule "ruriwo/KiCad_Ceralock.pretty"]
+	path = ruriwo/KiCad_Ceralock.pretty
+	url = git@github.com:ruriwo/KiCad_Ceralock.pretty.git
+[submodule "kikaiken/kicad_dip.pretty"]
+	path = kikaiken/kicad_dip.pretty
+	url = git@github.com:kikaiken/kicad_dip.pretty.git
+[submodule "kikaiken/kicad_smd.pretty"]
+	path = kikaiken/kicad_smd.pretty
+	url = git@github.com:kikaiken/kicad_smd.pretty.git
+[submodule "stubbyone/kicad-footprints.pretty"]
+	path = stubbyone/kicad-footprints.pretty
+	url = git@github.com:stubbyone/kicad-footprints.pretty.git
+[submodule "asensar/kicad-asensar-library.pretty"]
+	path = asensar/kicad-asensar-library.pretty
+	url = git@github.com:asensar/kicad-asensar-library.pretty.git
+[submodule "usagi1975/kicad_mod.pretty"]
+	path = usagi1975/kicad_mod.pretty
+	url = git@github.com:usagi1975/kicad_mod.pretty.git
+[submodule "madworm/KiCad-Footprints.pretty"]
+	path = madworm/KiCad-Footprints.pretty
+	url = git@github.com:madworm/KiCad-Footprints.pretty.git
+[submodule "rascalmicro/rascalmicro-kicad-footprints.pretty"]
+	path = rascalmicro/rascalmicro-kicad-footprints.pretty
+	url = git@github.com:rascalmicro/rascalmicro-kicad-footprints.pretty.git
+[submodule "kleusbalut/kleus_kicad_library.pretty"]
+	path = kleusbalut/kleus_kicad_library.pretty
+	url = git@github.com:kleusbalut/kleus_kicad_library.pretty.git
+[submodule "ANDnXOR/ANDnXOR-Kicad.pretty"]
+	path = ANDnXOR/ANDnXOR-Kicad.pretty
+	url = git@github.com:ANDnXOR/ANDnXOR-Kicad.pretty.git
+[submodule "cuzdaori/KiCad.pretty"]
+	path = cuzdaori/KiCad.pretty
+	url = git@github.com:cuzdaori/KiCad.pretty.git
+[submodule "ruriwo/KiCad_Switches.pretty"]
+	path = ruriwo/KiCad_Switches.pretty
+	url = git@github.com:ruriwo/KiCad_Switches.pretty.git
+[submodule "GSMCustomEffects/kicad_other_footprint.pretty"]
+	path = GSMCustomEffects/kicad_other_footprint.pretty
+	url = git@github.com:GSMCustomEffects/kicad_other_footprint.pretty.git
+[submodule "samdolt/kicad-fp.pretty"]
+	path = samdolt/kicad-fp.pretty
+	url = git@github.com:samdolt/kicad-fp.pretty.git
+[submodule "q61org/kicad_nixie.pretty"]
+	path = q61org/kicad_nixie.pretty
+	url = git@github.com:q61org/kicad_nixie.pretty.git
+[submodule "hiroieee/kicad-lib.pretty"]
+	path = hiroieee/kicad-lib.pretty
+	url = git@github.com:hiroieee/kicad-lib.pretty.git
+[submodule "mron/kicad_footprints.pretty"]
+	path = mron/kicad_footprints.pretty
+	url = git@github.com:mron/kicad_footprints.pretty.git
+[submodule "nightmechanic/nightmechanic_pcb.pretty"]
+	path = nightmechanic/nightmechanic_pcb.pretty
+	url = git@github.com:nightmechanic/nightmechanic_pcb.pretty.git
+[submodule "granskog/DGS_Connectors.pretty"]
+	path = granskog/DGS_Connectors.pretty
+	url = git@github.com:granskog/DGS_Connectors.pretty.git
+[submodule "ProjectSettler/STR_Device.pretty"]
+	path = ProjectSettler/STR_Device.pretty
+	url = git@github.com:ProjectSettler/STR_Device.pretty.git
+[submodule "KUT-KiCad/KUT_uController.pretty"]
+	path = KUT-KiCad/KUT_uController.pretty
+	url = git@github.com:KUT-KiCad/KUT_uController.pretty.git
+[submodule "jerkey/kicad-jerry.pretty"]
+	path = jerkey/kicad-jerry.pretty
+	url = git@github.com:jerkey/kicad-jerry.pretty.git
+[submodule "HiZLabs/KiCad_Footprints.pretty"]
+	path = HiZLabs/KiCad_Footprints.pretty
+	url = git@github.com:HiZLabs/KiCad_Footprints.pretty.git
+[submodule "chriswags/KiCad_mods.pretty"]
+	path = chriswags/KiCad_mods.pretty
+	url = git@github.com:chriswags/KiCad_mods.pretty.git
+[submodule "tommueller/KiCAD-SDIY.pretty"]
+	path = tommueller/KiCAD-SDIY.pretty
+	url = git@github.com:tommueller/KiCAD-SDIY.pretty.git
+[submodule "celeritous/KiCad.pretty"]
+	path = celeritous/KiCad.pretty
+	url = git@github.com:celeritous/KiCad.pretty.git
+[submodule "johaa1993/KiCad-Dev.pretty"]
+	path = johaa1993/KiCad-Dev.pretty
+	url = git@github.com:johaa1993/KiCad-Dev.pretty.git
+[submodule "mrmoje/mojes-kicad-footprints.pretty"]
+	path = mrmoje/mojes-kicad-footprints.pretty
+	url = git@github.com:mrmoje/mojes-kicad-footprints.pretty.git
+[submodule "Kazu-zamasu/kicad-test.pretty"]
+	path = Kazu-zamasu/kicad-test.pretty
+	url = git@github.com:Kazu-zamasu/kicad-test.pretty.git
+[submodule "panicjp/KiCad_Mod.pretty"]
+	path = panicjp/KiCad_Mod.pretty
+	url = git@github.com:panicjp/KiCad_Mod.pretty.git
+[submodule "kikaiken/kicad_others.pretty"]
+	path = kikaiken/kicad_others.pretty
+	url = git@github.com:kikaiken/kicad_others.pretty.git
+[submodule "kikaiken/kicad_conn.pretty"]
+	path = kikaiken/kicad_conn.pretty
+	url = git@github.com:kikaiken/kicad_conn.pretty.git
+[submodule "hoskinstech/bjh-kicad-relays.pretty"]
+	path = hoskinstech/bjh-kicad-relays.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-relays.pretty.git
+[submodule "c-base/kicad-cbase.pretty"]
+	path = c-base/kicad-cbase.pretty
+	url = git@github.com:c-base/kicad-cbase.pretty.git
+[submodule "labitat/labitat_kicad_footprints.pretty"]
+	path = labitat/labitat_kicad_footprints.pretty
+	url = git@github.com:labitat/labitat_kicad_footprints.pretty.git
+[submodule "UgoesSky/kicad_test.pretty"]
+	path = UgoesSky/kicad_test.pretty
+	url = git@github.com:UgoesSky/kicad_test.pretty.git
+[submodule "S-SINKER/KiCad_Footprint.pretty"]
+	path = S-SINKER/KiCad_Footprint.pretty
+	url = git@github.com:S-SINKER/KiCad_Footprint.pretty.git
+[submodule "madworm/Potentiometers.pretty"]
+	path = madworm/Potentiometers.pretty
+	url = git@github.com:madworm/Potentiometers.pretty.git
+[submodule "ohporter/beaglebone_cape.pretty"]
+	path = ohporter/beaglebone_cape.pretty
+	url = git@github.com:ohporter/beaglebone_cape.pretty.git
+[submodule "ojousima/Terminal_blocks.pretty"]
+	path = ojousima/Terminal_blocks.pretty
+	url = git@github.com:ojousima/Terminal_blocks.pretty.git
+[submodule "ProjectSettler/STR_Switch.pretty"]
+	path = ProjectSettler/STR_Switch.pretty
+	url = git@github.com:ProjectSettler/STR_Switch.pretty.git
+[submodule "ProjectSettler/STR_Sensor.pretty"]
+	path = ProjectSettler/STR_Sensor.pretty
+	url = git@github.com:ProjectSettler/STR_Sensor.pretty.git
+[submodule "KUT-KiCad/KUT_Passive.pretty"]
+	path = KUT-KiCad/KUT_Passive.pretty
+	url = git@github.com:KUT-KiCad/KUT_Passive.pretty.git
+[submodule "KUT-KiCad/KUT_Device.pretty"]
+	path = KUT-KiCad/KUT_Device.pretty
+	url = git@github.com:KUT-KiCad/KUT_Device.pretty.git
+[submodule "simontretter/mediaarchitectu.re.pretty"]
+	path = simontretter/mediaarchitectu.re.pretty
+	url = git@github.com:simontretter/mediaarchitectu.re.pretty.git
+[submodule "ojousima/Test_points.pretty"]
+	path = ojousima/Test_points.pretty
+	url = git@github.com:ojousima/Test_points.pretty.git
+[submodule "granskog/DGS_Modules.pretty"]
+	path = granskog/DGS_Modules.pretty
+	url = git@github.com:granskog/DGS_Modules.pretty.git
+[submodule "aniline/akn_misc.pretty"]
+	path = aniline/akn_misc.pretty
+	url = git@github.com:aniline/akn_misc.pretty.git
+[submodule "ProjectSettler/STR_Connector.pretty"]
+	path = ProjectSettler/STR_Connector.pretty
+	url = git@github.com:ProjectSettler/STR_Connector.pretty.git
+[submodule "ProjectSettler/STR_Passive.pretty"]
+	path = ProjectSettler/STR_Passive.pretty
+	url = git@github.com:ProjectSettler/STR_Passive.pretty.git
+[submodule "ProjectSettler/STR_uController.pretty"]
+	path = ProjectSettler/STR_uController.pretty
+	url = git@github.com:ProjectSettler/STR_uController.pretty.git
+[submodule "KUT-KiCad/KUT_Connector.pretty"]
+	path = KUT-KiCad/KUT_Connector.pretty
+	url = git@github.com:KUT-KiCad/KUT_Connector.pretty.git
+[submodule "KUT-KiCad/KUT_Switch.pretty"]
+	path = KUT-KiCad/KUT_Switch.pretty
+	url = git@github.com:KUT-KiCad/KUT_Switch.pretty.git
+[submodule "KUT-KiCad/KUT_CommIC.pretty"]
+	path = KUT-KiCad/KUT_CommIC.pretty
+	url = git@github.com:KUT-KiCad/KUT_CommIC.pretty.git
+[submodule "sherifeid/RoboLib.pretty"]
+	path = sherifeid/RoboLib.pretty
+	url = git@github.com:sherifeid/RoboLib.pretty.git
+[submodule "altLab/altlab-footprints.pretty"]
+	path = altLab/altlab-footprints.pretty
+	url = git@github.com:altLab/altlab-footprints.pretty.git
+[submodule "ojousima/SMD_Packages.pretty"]
+	path = ojousima/SMD_Packages.pretty
+	url = git@github.com:ojousima/SMD_Packages.pretty.git
+[submodule "granskog/DGS_Devices.pretty"]
+	path = granskog/DGS_Devices.pretty
+	url = git@github.com:granskog/DGS_Devices.pretty.git
+[submodule "granskog/DGS_Symbols.pretty"]
+	path = granskog/DGS_Symbols.pretty
+	url = git@github.com:granskog/DGS_Symbols.pretty.git
+[submodule "ProjectSettler/STR_Display.pretty"]
+	path = ProjectSettler/STR_Display.pretty
+	url = git@github.com:ProjectSettler/STR_Display.pretty.git
+[submodule "KUT-KiCad/KUT_Sensor.pretty"]
+	path = KUT-KiCad/KUT_Sensor.pretty
+	url = git@github.com:KUT-KiCad/KUT_Sensor.pretty.git
+[submodule "ProjectSettler/STR_CommIC.pretty"]
+	path = ProjectSettler/STR_CommIC.pretty
+	url = git@github.com:ProjectSettler/STR_CommIC.pretty.git
+[submodule "hormigaAzul/libs.pretty"]
+	path = hormigaAzul/libs.pretty
+	url = git@github.com:hormigaAzul/libs.pretty.git
+[submodule "madworm/Switches.pretty"]
+	path = madworm/Switches.pretty
+	url = git@github.com:madworm/Switches.pretty.git
+[submodule "madworm/Resonators.pretty"]
+	path = madworm/Resonators.pretty
+	url = git@github.com:madworm/Resonators.pretty.git
+[submodule "madworm/Heatsinks.pretty"]
+	path = madworm/Heatsinks.pretty
+	url = git@github.com:madworm/Heatsinks.pretty.git
+[submodule "macmade/XS.pretty"]
+	path = macmade/XS.pretty
+	url = git@github.com:macmade/XS.pretty.git
+[submodule "aewallin/awallinKiCadFootprints.pretty"]
+	path = aewallin/awallinKiCadFootprints.pretty
+	url = git@github.com:aewallin/awallinKiCadFootprints.pretty.git
+[submodule "apexelectrix/apex-smd-resistors.pretty"]
+	path = apexelectrix/apex-smd-resistors.pretty
+	url = git@github.com:apexelectrix/apex-smd-resistors.pretty.git
+[submodule "apexelectrix/apex-screw-terminals.pretty"]
+	path = apexelectrix/apex-screw-terminals.pretty
+	url = git@github.com:apexelectrix/apex-screw-terminals.pretty.git
+[submodule "ProjectSettler/STR_DriveIC.pretty"]
+	path = ProjectSettler/STR_DriveIC.pretty
+	url = git@github.com:ProjectSettler/STR_DriveIC.pretty.git
+[submodule "madworm/Capacitors.pretty"]
+	path = madworm/Capacitors.pretty
+	url = git@github.com:madworm/Capacitors.pretty.git
+[submodule "lab6-ifma/LAB6-LIB.pretty"]
+	path = lab6-ifma/LAB6-LIB.pretty
+	url = git@github.com:lab6-ifma/LAB6-LIB.pretty.git
+[submodule "ep092/library_toni.pretty"]
+	path = ep092/library_toni.pretty
+	url = git@github.com:ep092/library_toni.pretty.git
+[submodule "ojousima/SMD_Diodes.pretty"]
+	path = ojousima/SMD_Diodes.pretty
+	url = git@github.com:ojousima/SMD_Diodes.pretty.git
+[submodule "apexelectrix/apex-fuses.pretty"]
+	path = apexelectrix/apex-fuses.pretty
+	url = git@github.com:apexelectrix/apex-fuses.pretty.git
+[submodule "apexelectrix/apex-smd.pretty"]
+	path = apexelectrix/apex-smd.pretty
+	url = git@github.com:apexelectrix/apex-smd.pretty.git
+[submodule "apexelectrix/apex-smd-capacitors.pretty"]
+	path = apexelectrix/apex-smd-capacitors.pretty
+	url = git@github.com:apexelectrix/apex-smd-capacitors.pretty.git
+[submodule "apexelectrix/apex-smd-connectors.pretty"]
+	path = apexelectrix/apex-smd-connectors.pretty
+	url = git@github.com:apexelectrix/apex-smd-connectors.pretty.git
+[submodule "apexelectrix/apex-smd-diode.pretty"]
+	path = apexelectrix/apex-smd-diode.pretty
+	url = git@github.com:apexelectrix/apex-smd-diode.pretty.git
+[submodule "aniline/akn_transformers.pretty"]
+	path = aniline/akn_transformers.pretty
+	url = git@github.com:aniline/akn_transformers.pretty.git
+[submodule "granskog/DGS_Switches.pretty"]
+	path = granskog/DGS_Switches.pretty
+	url = git@github.com:granskog/DGS_Switches.pretty.git
+[submodule "apexelectrix/apex-pin-headers.pretty"]
+	path = apexelectrix/apex-pin-headers.pretty
+	url = git@github.com:apexelectrix/apex-pin-headers.pretty.git
+[submodule "graycatlabs/GrayCatLabs.pretty"]
+	path = graycatlabs/GrayCatLabs.pretty
+	url = git@github.com:graycatlabs/GrayCatLabs.pretty.git
+[submodule "nutbolt/WS2852.pretty"]
+	path = nutbolt/WS2852.pretty
+	url = git@github.com:nutbolt/WS2852.pretty.git
+[submodule "KiCad-RUS/Housings_CQFP_RUS.pretty"]
+	path = KiCad-RUS/Housings_CQFP_RUS.pretty
+	url = git@github.com:KiCad-RUS/Housings_CQFP_RUS.pretty.git
+[submodule "realthunder/Connectors_Amass.pretty"]
+	path = realthunder/Connectors_Amass.pretty
+	url = git@github.com:realthunder/Connectors_Amass.pretty.git
+[submodule "alchy/spacestudio_components.pretty"]
+	path = alchy/spacestudio_components.pretty
+	url = git@github.com:alchy/spacestudio_components.pretty.git
+[submodule "KiCad-RUS/SMD_Packages_RUS.pretty"]
+	path = KiCad-RUS/SMD_Packages_RUS.pretty
+	url = git@github.com:KiCad-RUS/SMD_Packages_RUS.pretty.git
+[submodule "KiCad-RUS/Housings_CDFP_RUS.pretty"]
+	path = KiCad-RUS/Housings_CDFP_RUS.pretty
+	url = git@github.com:KiCad-RUS/Housings_CDFP_RUS.pretty.git
+[submodule "KUT-KiCad/KUT_DriveIC.pretty"]
+	path = KUT-KiCad/KUT_DriveIC.pretty
+	url = git@github.com:KUT-KiCad/KUT_DriveIC.pretty.git
+[submodule "madworm/Bluetooth.pretty"]
+	path = madworm/Bluetooth.pretty
+	url = git@github.com:madworm/Bluetooth.pretty.git
+[submodule "ZaneKaminski/primarypoints.pretty"]
+	path = ZaneKaminski/primarypoints.pretty
+	url = git@github.com:ZaneKaminski/primarypoints.pretty.git
+[submodule "egladman/keebs.pretty"]
+	path = egladman/keebs.pretty
+	url = git@github.com:egladman/keebs.pretty.git
+[submodule "KozueNakano/KiCADKozueLib.pretty"]
+	path = KozueNakano/KiCADKozueLib.pretty
+	url = git@github.com:KozueNakano/KiCADKozueLib.pretty.git
+[submodule "hoskinstech/bjh-kicad-connector-fp.pretty"]
+	path = hoskinstech/bjh-kicad-connector-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-connector-fp.pretty.git
+[submodule "ruriwo/KiCad_CherryMx.pretty"]
+	path = ruriwo/KiCad_CherryMx.pretty
+	url = git@github.com:ruriwo/KiCad_CherryMx.pretty.git
+[submodule "DrMacak/ELI_HW_KiCad.pretty"]
+	path = DrMacak/ELI_HW_KiCad.pretty
+	url = git@github.com:DrMacak/ELI_HW_KiCad.pretty.git
+[submodule "hoskinstech/bjh-kicad-mountingholes-fp.pretty"]
+	path = hoskinstech/bjh-kicad-mountingholes-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-mountingholes-fp.pretty.git
+[submodule "hoskinstech/bjh-kicad-logo-fp.pretty"]
+	path = hoskinstech/bjh-kicad-logo-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-logo-fp.pretty.git
+[submodule "hoskinstech/bjh-kicad-modules-fp.pretty"]
+	path = hoskinstech/bjh-kicad-modules-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-modules-fp.pretty.git
+[submodule "Ninjaneer7/KiCADLib.pretty"]
+	path = Ninjaneer7/KiCADLib.pretty
+	url = git@github.com:Ninjaneer7/KiCADLib.pretty.git
+[submodule "StefanHamminga/SH_SOD_SON_SOT.pretty"]
+	path = StefanHamminga/SH_SOD_SON_SOT.pretty
+	url = git@github.com:StefanHamminga/SH_SOD_SON_SOT.pretty.git
+[submodule "hoskinstech/bjh-kicad-transistor-fp.pretty"]
+	path = hoskinstech/bjh-kicad-transistor-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-transistor-fp.pretty.git
+[submodule "kohhat540750/kohhatsKicadFootPrint.pretty"]
+	path = kohhat540750/kohhatsKicadFootPrint.pretty
+	url = git@github.com:kohhat540750/kohhatsKicadFootPrint.pretty.git
+[submodule "mmmspatz/mspatz_RFlab_Kicad_footprints.pretty"]
+	path = mmmspatz/mspatz_RFlab_Kicad_footprints.pretty
+	url = git@github.com:mmmspatz/mspatz_RFlab_Kicad_footprints.pretty.git
+[submodule "mmmspatz/RFLab_KiCad_Libs.pretty"]
+	path = mmmspatz/RFLab_KiCad_Libs.pretty
+	url = git@github.com:mmmspatz/RFLab_KiCad_Libs.pretty.git
+[submodule "ruriwo/KiCad_MoutingHole.pretty"]
+	path = ruriwo/KiCad_MoutingHole.pretty
+	url = git@github.com:ruriwo/KiCad_MoutingHole.pretty.git
+[submodule "hoskinstech/bjh-kicad-rcld-fp.pretty"]
+	path = hoskinstech/bjh-kicad-rcld-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-rcld-fp.pretty.git
+[submodule "hoskinstech/bjh-kicad-switches-fp.pretty"]
+	path = hoskinstech/bjh-kicad-switches-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-switches-fp.pretty.git
+[submodule "ruriwo/KiCad_MicroUSB.pretty"]
+	path = ruriwo/KiCad_MicroUSB.pretty
+	url = git@github.com:ruriwo/KiCad_MicroUSB.pretty.git
+[submodule "hoskinstech/bjh-kicad-ic-fp.pretty"]
+	path = hoskinstech/bjh-kicad-ic-fp.pretty
+	url = git@github.com:hoskinstech/bjh-kicad-ic-fp.pretty.git
+[submodule "hairymnstr/Nathan_THT_Conn.pretty"]
+	path = hairymnstr/Nathan_THT_Conn.pretty
+	url = git@github.com:hairymnstr/Nathan_THT_Conn.pretty.git
+[submodule "madworm/SIL-Headers.pretty"]
+	path = madworm/SIL-Headers.pretty
+	url = git@github.com:madworm/SIL-Headers.pretty.git
+[submodule "ojousima/SMD_Passives.pretty"]
+	path = ojousima/SMD_Passives.pretty
+	url = git@github.com:ojousima/SMD_Passives.pretty.git
+[submodule "twam/Connectors_Amphenol.pretty"]
+	path = twam/Connectors_Amphenol.pretty
+	url = git@github.com:twam/Connectors_Amphenol.pretty.git
+[submodule "rodibot/RoDI.pretty"]
+	path = rodibot/RoDI.pretty
+	url = git@github.com:rodibot/RoDI.pretty.git
+[submodule "septillion-git/septillion_device.pretty"]
+	path = septillion-git/septillion_device.pretty
+	url = git@github.com:septillion-git/septillion_device.pretty.git
+[submodule "rocketman768/nu9j-footprints.pretty"]
+	path = rocketman768/nu9j-footprints.pretty
+	url = git@github.com:rocketman768/nu9j-footprints.pretty.git
+[submodule "SchrodingersGat/Components.pretty"]
+	path = SchrodingersGat/Components.pretty
+	url = git@github.com:SchrodingersGat/Components.pretty.git
+[submodule "hairymnstr/Nathan_SMT_Conn.pretty"]
+	path = hairymnstr/Nathan_SMT_Conn.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Conn.pretty.git
+[submodule "madworm/DIL-Headers.pretty"]
+	path = madworm/DIL-Headers.pretty
+	url = git@github.com:madworm/DIL-Headers.pretty.git
+[submodule "SchrodingersGat/Battery_Holders_Old.pretty"]
+	path = SchrodingersGat/Battery_Holders_Old.pretty
+	url = git@github.com:SchrodingersGat/Battery_Holders_Old.pretty.git
+[submodule "apexelectrix/apex-pin-connectors.pretty"]
+	path = apexelectrix/apex-pin-connectors.pretty
+	url = git@github.com:apexelectrix/apex-pin-connectors.pretty.git
+[submodule "twam/Connectors_Samtec.pretty"]
+	path = twam/Connectors_Samtec.pretty
+	url = git@github.com:twam/Connectors_Samtec.pretty.git
+[submodule "theFork/uMIDI.pretty"]
+	path = theFork/uMIDI.pretty
+	url = git@github.com:theFork/uMIDI.pretty.git
+[submodule "twam/Connectors_Wuerth.pretty"]
+	path = twam/Connectors_Wuerth.pretty
+	url = git@github.com:twam/Connectors_Wuerth.pretty.git
+[submodule "kicad-rleh/resistor-power-shunt.pretty"]
+	path = kicad-rleh/resistor-power-shunt.pretty
+	url = git@github.com:kicad-rleh/resistor-power-shunt.pretty.git
+[submodule "AngelLiang/MyPcbLib.pretty"]
+	path = AngelLiang/MyPcbLib.pretty
+	url = git@github.com:AngelLiang/MyPcbLib.pretty.git
+[submodule "hairymnstr/Nathan_SMT_Passive.pretty"]
+	path = hairymnstr/Nathan_SMT_Passive.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Passive.pretty.git
+[submodule "mkleinschmidt/Connectors_Phoenix.pretty"]
+	path = mkleinschmidt/Connectors_Phoenix.pretty
+	url = git@github.com:mkleinschmidt/Connectors_Phoenix.pretty.git
+[submodule "twam/Connectors_FCI.pretty"]
+	path = twam/Connectors_FCI.pretty
+	url = git@github.com:twam/Connectors_FCI.pretty.git
+[submodule "kicad-rleh/rleh-oscillators.pretty"]
+	path = kicad-rleh/rleh-oscillators.pretty
+	url = git@github.com:kicad-rleh/rleh-oscillators.pretty.git
+[submodule "hairymnstr/Nathan_SMT_Semis.pretty"]
+	path = hairymnstr/Nathan_SMT_Semis.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Semis.pretty.git
+[submodule "hairymnstr/Nathan_THT_Passive.pretty"]
+	path = hairymnstr/Nathan_THT_Passive.pretty
+	url = git@github.com:hairymnstr/Nathan_THT_Passive.pretty.git
+[submodule "apexelectrix/apex-smd-crystals.pretty"]
+	path = apexelectrix/apex-smd-crystals.pretty
+	url = git@github.com:apexelectrix/apex-smd-crystals.pretty.git
+[submodule "diypinball/PinballParts.pretty"]
+	path = diypinball/PinballParts.pretty
+	url = git@github.com:diypinball/PinballParts.pretty.git
+[submodule "twam/Connectors_Sullins.pretty"]
+	path = twam/Connectors_Sullins.pretty
+	url = git@github.com:twam/Connectors_Sullins.pretty.git
+[submodule "twam/Connectors_TE.pretty"]
+	path = twam/Connectors_TE.pretty
+	url = git@github.com:twam/Connectors_TE.pretty.git
+[submodule "twam/Crystal_Oscillators.pretty"]
+	path = twam/Crystal_Oscillators.pretty
+	url = git@github.com:twam/Crystal_Oscillators.pretty.git
+[submodule "OssiconeLabs/Ossicone_Labs_Footprints.pretty"]
+	path = OssiconeLabs/Ossicone_Labs_Footprints.pretty
+	url = git@github.com:OssiconeLabs/Ossicone_Labs_Footprints.pretty.git
+[submodule "johslarsen/Integrated_Circuits.pretty"]
+	path = johslarsen/Integrated_Circuits.pretty
+	url = git@github.com:johslarsen/Integrated_Circuits.pretty.git
+[submodule "rdeterre/misc.pretty"]
+	path = rdeterre/misc.pretty
+	url = git@github.com:rdeterre/misc.pretty.git
+[submodule "konspyre/Cherry-MX1A.pretty"]
+	path = konspyre/Cherry-MX1A.pretty
+	url = git@github.com:konspyre/Cherry-MX1A.pretty.git
+[submodule "NorbotNorway/NorBotKiCadFootprints.pretty"]
+	path = NorbotNorway/NorBotKiCadFootprints.pretty
+	url = git@github.com:NorbotNorway/NorBotKiCadFootprints.pretty.git
+[submodule "RomaVis/connect-minifit.pretty"]
+	path = RomaVis/connect-minifit.pretty
+	url = git@github.com:RomaVis/connect-minifit.pretty.git
+[submodule "madworm/WiFi.pretty"]
+	path = madworm/WiFi.pretty
+	url = git@github.com:madworm/WiFi.pretty.git
+[submodule "madworm/micro-MaTch.pretty"]
+	path = madworm/micro-MaTch.pretty
+	url = git@github.com:madworm/micro-MaTch.pretty.git
+[submodule "madworm/Rotary-Encoders.pretty"]
+	path = madworm/Rotary-Encoders.pretty
+	url = git@github.com:madworm/Rotary-Encoders.pretty.git
+[submodule "kicad-rleh/TI_TO-PMOD.pretty"]
+	path = kicad-rleh/TI_TO-PMOD.pretty
+	url = git@github.com:kicad-rleh/TI_TO-PMOD.pretty.git
+[submodule "aylons/safety_pin.pretty"]
+	path = aylons/safety_pin.pretty
+	url = git@github.com:aylons/safety_pin.pretty.git
+[submodule "apexelectrix/apex-smd-wire-pads.pretty"]
+	path = apexelectrix/apex-smd-wire-pads.pretty
+	url = git@github.com:apexelectrix/apex-smd-wire-pads.pretty.git
+[submodule "kicad-rleh/USB_Mikro_SMD_China.pretty"]
+	path = kicad-rleh/USB_Mikro_SMD_China.pretty
+	url = git@github.com:kicad-rleh/USB_Mikro_SMD_China.pretty.git
+[submodule "StefanHamminga/SH_Solder_Pads.pretty"]
+	path = StefanHamminga/SH_Solder_Pads.pretty
+	url = git@github.com:StefanHamminga/SH_Solder_Pads.pretty.git
+[submodule "madworm/Fuses-polyswitch.pretty"]
+	path = madworm/Fuses-polyswitch.pretty
+	url = git@github.com:madworm/Fuses-polyswitch.pretty.git
+[submodule "madworm/DC-DC-modules.pretty"]
+	path = madworm/DC-DC-modules.pretty
+	url = git@github.com:madworm/DC-DC-modules.pretty.git
+[submodule "madworm/RC-Battery-Connectors.pretty"]
+	path = madworm/RC-Battery-Connectors.pretty
+	url = git@github.com:madworm/RC-Battery-Connectors.pretty.git
+[submodule "madworm/Nichia-LEDs.pretty"]
+	path = madworm/Nichia-LEDs.pretty
+	url = git@github.com:madworm/Nichia-LEDs.pretty.git
+[submodule "StefanHamminga/SH_Switches_Buttons.pretty"]
+	path = StefanHamminga/SH_Switches_Buttons.pretty
+	url = git@github.com:StefanHamminga/SH_Switches_Buttons.pretty.git
+[submodule "hairymnstr/Nathan_Mechanical.pretty"]
+	path = hairymnstr/Nathan_Mechanical.pretty
+	url = git@github.com:hairymnstr/Nathan_Mechanical.pretty.git
+[submodule "asutp/strygin_TO.pretty"]
+	path = asutp/strygin_TO.pretty
+	url = git@github.com:asutp/strygin_TO.pretty.git
+[submodule "ojousima/Switches_buttons.pretty"]
+	path = ojousima/Switches_buttons.pretty
+	url = git@github.com:ojousima/Switches_buttons.pretty.git
+[submodule "LacieUnlam/Poncho_Modelos.pretty"]
+	path = LacieUnlam/Poncho_Modelos.pretty
+	url = git@github.com:LacieUnlam/Poncho_Modelos.pretty.git
+[submodule "kicad-rleh/Housings_VQFN.pretty"]
+	path = kicad-rleh/Housings_VQFN.pretty
+	url = git@github.com:kicad-rleh/Housings_VQFN.pretty.git
+[submodule "johslarsen/2.54mm_Pin_Headers.pretty"]
+	path = johslarsen/2.54mm_Pin_Headers.pretty
+	url = git@github.com:johslarsen/2.54mm_Pin_Headers.pretty.git
+[submodule "hairymnstr/Nathan_SMD.pretty"]
+	path = hairymnstr/Nathan_SMD.pretty
+	url = git@github.com:hairymnstr/Nathan_SMD.pretty.git
+[submodule "StefanHamminga/SH_Resistors.pretty"]
+	path = StefanHamminga/SH_Resistors.pretty
+	url = git@github.com:StefanHamminga/SH_Resistors.pretty.git
+[submodule "LacieUnlam/Poncho_Esqueleto.pretty"]
+	path = LacieUnlam/Poncho_Esqueleto.pretty
+	url = git@github.com:LacieUnlam/Poncho_Esqueleto.pretty.git
+[submodule "tsunderu/nRF51822-modules.pretty"]
+	path = tsunderu/nRF51822-modules.pretty
+	url = git@github.com:tsunderu/nRF51822-modules.pretty.git
+[submodule "StefanHamminga/SH_Test_Points_Fiducials.pretty"]
+	path = StefanHamminga/SH_Test_Points_Fiducials.pretty
+	url = git@github.com:StefanHamminga/SH_Test_Points_Fiducials.pretty.git
+[submodule "StefanHamminga/SH_Shielding_Protection.pretty"]
+	path = StefanHamminga/SH_Shielding_Protection.pretty
+	url = git@github.com:StefanHamminga/SH_Shielding_Protection.pretty.git
+[submodule "hairymnstr/Nathan_THT_Other.pretty"]
+	path = hairymnstr/Nathan_THT_Other.pretty
+	url = git@github.com:hairymnstr/Nathan_THT_Other.pretty.git
+[submodule "tylercrumpton/CrumpPrintSymbols.pretty"]
+	path = tylercrumpton/CrumpPrintSymbols.pretty
+	url = git@github.com:tylercrumpton/CrumpPrintSymbols.pretty.git
+[submodule "hairymnstr/Nathan_THT.pretty"]
+	path = hairymnstr/Nathan_THT.pretty
+	url = git@github.com:hairymnstr/Nathan_THT.pretty.git
+[submodule "hairymnstr/Nathan_SMT_Other.pretty"]
+	path = hairymnstr/Nathan_SMT_Other.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Other.pretty.git
+[submodule "f4grx/f4libs_modules.pretty"]
+	path = f4grx/f4libs_modules.pretty
+	url = git@github.com:f4grx/f4libs_modules.pretty.git
+[submodule "f4grx/f4libs_th.pretty"]
+	path = f4grx/f4libs_th.pretty
+	url = git@github.com:f4grx/f4libs_th.pretty.git
+[submodule "f4grx/f4libs_smd.pretty"]
+	path = f4grx/f4libs_smd.pretty
+	url = git@github.com:f4grx/f4libs_smd.pretty.git
+[submodule "s-light/CONN_RJ45_MagJack_POEp.pretty"]
+	path = s-light/CONN_RJ45_MagJack_POEp.pretty
+	url = git@github.com:s-light/CONN_RJ45_MagJack_POEp.pretty.git
+[submodule "wiebus/SOT23_SOT143_SOT143R_TSOT6_MK06A_SC70-6_Housing_14Mar2014.pretty"]
+	path = wiebus/SOT23_SOT143_SOT143R_TSOT6_MK06A_SC70-6_Housing_14Mar2014.pretty
+	url = git@github.com:wiebus/SOT23_SOT143_SOT143R_TSOT6_MK06A_SC70-6_Housing_14Mar2014.pretty.git
