@@ -1,7 +1,8 @@
 # KiCAD footprint collection
 This is a collection of all the KiCAD footprints I know of. If you know of any more, please let me know!
+All the official libraries are included in the `KiCad/` sub-directory.
 
-It's best used with footprint search that is part of kicad "product" (daily) builds.
+It is best used with the footprint search that has been merged into the development (master) branch of KiCAD.
 
 ![](screenshot.png)
 
@@ -9,8 +10,7 @@ This repo uses git submodules.
 A submodule is a way of including another git repo in your repo holding it at a particular version until you want to update it.
 This is useful as you can easily keep a local copy of all the libraries, freeze them and only update when you want to.
 
-All the official libraries are under the `KiCad/` sub-directory. I will keep
-adding to this and updating when the libraries update.
+## Usage
 
 To initialise:
 
@@ -29,10 +29,9 @@ Linux:
     
     cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
     ./generate_table > ~/.config/kicad/fp-lib-table
-    
+
 You will need to restart KiCAD for this change to take proper effect. 
 
 If you want to pull in any libraries that have been added since your initial clone:
 
-    git pull 
-    ./init
+    git pull && ./init
