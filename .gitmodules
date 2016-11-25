@@ -1018,3 +1018,6 @@
 [submodule "wiebus/SOT23_SOT143_SOT143R_TSOT6_MK06A_SC70-6_Housing_14Mar2014.pretty"]
 	path = wiebus/SOT23_SOT143_SOT143R_TSOT6_MK06A_SC70-6_Housing_14Mar2014.pretty
 	url = https://github.com/wiebus/SOT23_SOT143_SOT143R_TSOT6_MK06A_SC70-6_Housing_14Mar2014.pretty.git
+[submodule "ruriwo/GND_via.pretty"]
+	path = ruriwo/GND_via.pretty
+	url = https://github.com/ruriwo/GND_via.pretty
