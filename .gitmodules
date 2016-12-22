@@ -1030,9 +1030,6 @@
 [submodule "liftoff-sr/pretty_footprints"]
 	path = liftoff-sr/pretty_footprints
 	url = https://github.com/liftoff-sr/pretty_footprints
-[submodule "F6ITU/Kicad_Modules"]
-	path = F6ITU/Kicad_Modules
-	url = https://github.com/johnbeard/kicad_pretties
 [submodule "ContextualElectronics/CE_KiCadLib"]
 	path = ContextualElectronics/CE_KiCadLib
 	url = https://github.com/ContextualElectronics/CE_KiCadLib
