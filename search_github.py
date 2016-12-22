@@ -30,12 +30,10 @@ print('found {} items'.format(len(items)))
 
 for i,item in enumerate(items):
     name = item['full_name']
-    print('{}: checking {}'.format(i, name))
-    if name.endswith('.pretty'):
-        if not os.path.exists(name):
+    if not os.path.exists(name):
+        if name.endswith('.pretty'):
+            print('adding {}'.format(name))
             cmd = ['git', 'submodule', 'add', item['html_url'], name]
             subprocess.call(cmd)
         else:
-            print(' > {} already exists'.format(name))
-    else:
-        print(' > ignoring {}'.format(name))
+            print('ignoring {}'.format(name))

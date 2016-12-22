@@ -1003,3 +1003,33 @@
 [submodule "ChristianLerche/LercheTech_KiCAD"]
 	path = ChristianLerche/LercheTech_KiCAD
 	url = https://github.com/ChristianLerche/LercheTech_KiCAD
+[submodule "stanleyseow/SVTmaker.pretty"]
+	path = stanleyseow/SVTmaker.pretty
+	url = https://github.com/stanleyseow/SVTmaker.pretty
+[submodule "exosdel/kicadLib.pretty"]
+	path = exosdel/kicadLib.pretty
+	url = https://github.com/exosdel/kicadLib.pretty
+[submodule "micliv/footprint.pretty"]
+	path = micliv/footprint.pretty
+	url = https://github.com/micliv/footprint.pretty
+[submodule "boul51/boul51.pretty"]
+	path = boul51/boul51.pretty
+	url = https://github.com/boul51/boul51.pretty
+[submodule "naturesyouth/Footprints.pretty"]
+	path = naturesyouth/Footprints.pretty
+	url = https://github.com/naturesyouth/Footprints.pretty
+[submodule "UofSSpaceDesignTeam/USST-footprints.pretty"]
+	path = UofSSpaceDesignTeam/USST-footprints.pretty
+	url = https://github.com/UofSSpaceDesignTeam/USST-footprints.pretty
+[submodule "lowstar/IPC7351C-Nominal.pretty"]
+	path = lowstar/IPC7351C-Nominal.pretty
+	url = https://github.com/lowstar/IPC7351C-Nominal.pretty
+[submodule "esden/pretty-kicad-libs"]
+	path = esden/pretty-kicad-libs
+	url = https://github.com/esden/pretty-kicad-libs
+[submodule "liftoff-sr/pretty_footprints"]
+	path = liftoff-sr/pretty_footprints
+	url = https://github.com/liftoff-sr/pretty_footprints
+[submodule "F6ITU/Kicad_Modules"]
+	path = F6ITU/Kicad_Modules
+	url = https://github.com/johnbeard/kicad_pretties
