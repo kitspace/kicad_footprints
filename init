@@ -4,4 +4,4 @@ set -o pipefail
 
 git submodule init
 
-git submodule | awk '{ print $2 }' | xargs -i --max-procs=10 bash -c "echo 'Cloning' {} && git submodule update --depth 1 {} 2>&1 > /dev/null || echo 'Failed:' {}"
+git submodule | awk '{ print $2 }' | xargs -i --max-procs=10 bash -c "echo 'Cloning' {} && git submodule update --quiet --depth 1 {} 2>&1 > /dev/null || echo 'Failed:' {}"
