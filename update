@@ -2,14 +2,4 @@
 set -eu
 set -o pipefail
 
-submodule_paths=$(git submodule | awk '{ print $2 }')
-
-pids=()
-for path in $submodule_paths; do
-  cd "$path" && git pull origin master &
-  pids+=($!)
-done
-
-for pid in "${pids[@]}"; do
-  wait $pid
-done
+git submodule | awk '{ print $2 }' | xargs -i --max-procs=10 bash -c "cd {} && git pull origin master 2>&1 > /dev/null || echo 'Failed: ' {}"

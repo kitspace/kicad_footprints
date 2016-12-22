@@ -4,19 +4,4 @@ set -o pipefail
 
 git submodule init
 
-submodule_paths=$(git submodule | awk '{ print $2 }')
-
-pids=()
-for path in $submodule_paths; do
-  echo "Cloning '$path'"
-  git submodule update --depth 1 "$path" > /dev/null 2>&1 &
-  pids+=($!)
-done
-
-echo -n 'Please wait for cloning to complete... '
-
-for pid in "${pids[@]}"; do
-  wait $pid
-done
-
-echo 'done.'
+git submodule | awk '{ print $2 }' | xargs -i --max-procs=10 bash -c "echo 'Cloning' {} && git submodule update --depth 1 {} 2>&1 > /dev/null || echo 'Failed:' {}"
