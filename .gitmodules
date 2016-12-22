@@ -535,9 +535,6 @@
 [submodule "granskog/DGS_Connectors.pretty"]
 	path = granskog/DGS_Connectors.pretty
 	url = https://github.com/granskog/DGS_Connectors.pretty.git
-[submodule "ProjectSettler/STR_Device.pretty"]
-	path = ProjectSettler/STR_Device.pretty
-	url = https://github.com/ProjectSettler/STR_Device.pretty.git
 [submodule "KUT-KiCad/KUT_uController.pretty"]
 	path = KUT-KiCad/KUT_uController.pretty
 	url = https://github.com/KUT-KiCad/KUT_uController.pretty.git
@@ -598,12 +595,6 @@
 [submodule "ojousima/Terminal_blocks.pretty"]
 	path = ojousima/Terminal_blocks.pretty
 	url = https://github.com/ojousima/Terminal_blocks.pretty.git
-[submodule "ProjectSettler/STR_Switch.pretty"]
-	path = ProjectSettler/STR_Switch.pretty
-	url = https://github.com/ProjectSettler/STR_Switch.pretty.git
-[submodule "ProjectSettler/STR_Sensor.pretty"]
-	path = ProjectSettler/STR_Sensor.pretty
-	url = https://github.com/ProjectSettler/STR_Sensor.pretty.git
 [submodule "KUT-KiCad/KUT_Passive.pretty"]
 	path = KUT-KiCad/KUT_Passive.pretty
 	url = https://github.com/KUT-KiCad/KUT_Passive.pretty.git
@@ -622,15 +613,6 @@
 [submodule "aniline/akn_misc.pretty"]
 	path = aniline/akn_misc.pretty
 	url = https://github.com/aniline/akn_misc.pretty.git
-[submodule "ProjectSettler/STR_Connector.pretty"]
-	path = ProjectSettler/STR_Connector.pretty
-	url = https://github.com/ProjectSettler/STR_Connector.pretty.git
-[submodule "ProjectSettler/STR_Passive.pretty"]
-	path = ProjectSettler/STR_Passive.pretty
-	url = https://github.com/ProjectSettler/STR_Passive.pretty.git
-[submodule "ProjectSettler/STR_uController.pretty"]
-	path = ProjectSettler/STR_uController.pretty
-	url = https://github.com/ProjectSettler/STR_uController.pretty.git
 [submodule "KUT-KiCad/KUT_Connector.pretty"]
 	path = KUT-KiCad/KUT_Connector.pretty
 	url = https://github.com/KUT-KiCad/KUT_Connector.pretty.git
@@ -655,15 +637,9 @@
 [submodule "granskog/DGS_Symbols.pretty"]
 	path = granskog/DGS_Symbols.pretty
 	url = https://github.com/granskog/DGS_Symbols.pretty.git
-[submodule "ProjectSettler/STR_Display.pretty"]
-	path = ProjectSettler/STR_Display.pretty
-	url = https://github.com/ProjectSettler/STR_Display.pretty.git
 [submodule "KUT-KiCad/KUT_Sensor.pretty"]
 	path = KUT-KiCad/KUT_Sensor.pretty
 	url = https://github.com/KUT-KiCad/KUT_Sensor.pretty.git
-[submodule "ProjectSettler/STR_CommIC.pretty"]
-	path = ProjectSettler/STR_CommIC.pretty
-	url = https://github.com/ProjectSettler/STR_CommIC.pretty.git
 [submodule "hormigaAzul/libs.pretty"]
 	path = hormigaAzul/libs.pretty
 	url = https://github.com/hormigaAzul/libs.pretty.git
@@ -688,9 +664,6 @@
 [submodule "apexelectrix/apex-screw-terminals.pretty"]
 	path = apexelectrix/apex-screw-terminals.pretty
 	url = https://github.com/apexelectrix/apex-screw-terminals.pretty.git
-[submodule "ProjectSettler/STR_DriveIC.pretty"]
-	path = ProjectSettler/STR_DriveIC.pretty
-	url = https://github.com/ProjectSettler/STR_DriveIC.pretty.git
 [submodule "madworm/Capacitors.pretty"]
 	path = madworm/Capacitors.pretty
 	url = https://github.com/madworm/Capacitors.pretty.git
