@@ -17,7 +17,7 @@ To initialise:
     git clone https://github.com/monostable/kicad_footprints
     cd kicad_footprints && ./init
 
-This downloads all the libraries in parallell but it can still take a while.
+This downloads all the libraries in parallel but it can still take a while.
 
 If you want to update all libraries to their latest versions do:
 
@@ -35,3 +35,8 @@ You will need to restart KiCAD for this change to take proper effect.
 If you want to pull in any libraries that have been added since your initial clone:
 
     git pull && ./init
+
+
+## License
+
+Any scripts in this repository are MIT licensed. All the footprints have their own licenses of course.
