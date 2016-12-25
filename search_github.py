@@ -16,7 +16,7 @@ def query(term, page):
 
 print('searching github for "{}"'.format(TERM))
 data = query(TERM, page=1)
-items = data['items'][:]
+items = data['items']
 
 total = data['total_count']
 pages = int(math.ceil(total / PAGE_SIZE))

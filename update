@@ -2,4 +2,11 @@
 set -eu
 set -o pipefail
 
-git submodule | awk '{ print $2 }' | xargs -i --max-procs=10 bash -c "echo 'Checking' {} && cd {} && git fetch --quiet && git reset --quiet --hard origin/HEAD || echo 'Failed: ' {}"
+max_parallel_tasks=10
+
+git submodule | awk '{ print $2 }' \
+  | xargs -i --max-procs=$max_parallel_tasks bash -c \
+  "echo 'Checking' {} \
+  && cd {} && git fetch --quiet \
+  && git reset --quiet --hard origin/HEAD \
+  || echo '** FAILED **' {}"
