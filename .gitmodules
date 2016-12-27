@@ -1036,3 +1036,6 @@
 [submodule "F6ITU/Kicad_Modules"]
 	path = F6ITU/Kicad_Modules
 	url = https://github.com/F6ITU/Kicad_Modules
+[submodule "natsfr/kicad-components"]
+	path = natsfr/kicad-components
+	url = https://github.com/natsfr/kicad-components
