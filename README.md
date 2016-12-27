@@ -23,19 +23,33 @@ If you want to update all libraries to their latest versions do:
 
     ./update
 
-You can use `generate_table` to generate an fp-lib-table with all these
-local repos. You could use this to replace your existing fp-lib-table, e.g. on
-Linux:
-    
+** Warning: `./update` will [`git reset --hard`](http://manpages.ubuntu.com/manpages/xenial/en/man1/git-reset.1.html) the submodules so don't make changes in these folders that you want to keep. Make a separate clone of the submodule respository for that.**
+
+You can use `generate_table` to generate an fp-lib-table, the file KiCAD uses to register footprint libraries, with all the footprints from this repository.
+You could use this to replace your existing fp-lib-table, e.g. on Linux:
+
     cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
     ./generate_table > ~/.config/kicad/fp-lib-table
 
-You will need to restart KiCAD for this change to take proper effect. 
+You will need to restart KiCAD for this change to take effect.
 
 If you want to pull in any libraries that have been added since your initial clone:
 
     git pull && ./init
 
+
+## Adding submodules
+
+If you know of any KiCAD footprint repositories that have not been added please [file an issue](https://github.com/monostable/kicad_footprints/issues) and I will add them.
+
+If you want to maintain a private fork of this repository with some private submodules you can add them simply by:
+
+```
+git submodule add <git url> <folder>
+git commit
+```
+
+They should work fine with the rest of the scripts once they are added.
 
 ## License
 
