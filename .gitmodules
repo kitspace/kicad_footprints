@@ -1039,3 +1039,9 @@
 [submodule "natsfr/kicad-components"]
 	path = natsfr/kicad-components
 	url = https://github.com/natsfr/kicad-components
+[submodule "cepr/Bluetooth_Modules.pretty"]
+	path = cepr/Bluetooth_Modules.pretty
+	url = https://github.com/cepr/Bluetooth_Modules.pretty
+[submodule "micliv/LivaModules.pretty"]
+	path = micliv/LivaModules.pretty
+	url = https://github.com/micliv/LivaModules.pretty
