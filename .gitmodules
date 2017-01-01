@@ -1009,9 +1009,6 @@
 [submodule "exosdel/kicadLib.pretty"]
 	path = exosdel/kicadLib.pretty
 	url = https://github.com/exosdel/kicadLib.pretty
-[submodule "micliv/footprint.pretty"]
-	path = micliv/footprint.pretty
-	url = https://github.com/micliv/footprint.pretty
 [submodule "boul51/boul51.pretty"]
 	path = boul51/boul51.pretty
 	url = https://github.com/boul51/boul51.pretty
