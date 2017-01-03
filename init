@@ -10,4 +10,5 @@ git submodule | awk '{ print $2 }' \
   | xargs -i --max-procs=$max_parallel_tasks bash -c \
   "echo 'Cloning' {} \
   && git submodule update --quiet --depth 1 {} \
+  || git submodule update --quiet {} \
   || echo '** FAILED **' {}"
