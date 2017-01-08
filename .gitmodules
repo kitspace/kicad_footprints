@@ -1042,3 +1042,6 @@
 [submodule "micliv/LivaModules.pretty"]
 	path = micliv/LivaModules.pretty
 	url = https://github.com/micliv/LivaModules.pretty
+[submodule "1Bitsy/1bitsy-hardware-lib"]
+	path = 1Bitsy/1bitsy-hardware-lib
+	url = https://github.com/1Bitsy/1bitsy-hardware-lib
