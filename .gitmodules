@@ -1045,3 +1045,6 @@
 [submodule "1Bitsy/1bitsy-hardware-lib"]
 	path = 1Bitsy/1bitsy-hardware-lib
 	url = https://github.com/1Bitsy/1bitsy-hardware-lib
+[submodule "nellump/Connectors_Powerpole.pretty"]
+	path = nellump/Connectors_Powerpole.pretty
+	url = https://github.com/nellump/Connectors_Powerpole.pretty
