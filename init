@@ -7,7 +7,7 @@ max_parallel_tasks=10
 git submodule init
 
 git submodule | awk '{ print $2 }' \
-  | xargs -I{} --max-procs=$max_parallel_tasks bash -c \
+  | xargs -I{} -P$max_parallel_tasks sh -c \
   "echo 'Cloning' {} \
   && git submodule update --quiet --depth 1 {} \
   || git submodule update --quiet {} \
