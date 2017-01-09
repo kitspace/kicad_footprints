@@ -5,7 +5,7 @@ set -o pipefail
 max_parallel_tasks=10
 
 git submodule | awk '{ print $2 }' \
-  | xargs -i --max-procs=$max_parallel_tasks bash -c \
+  | xargs -I{} --max-procs=$max_parallel_tasks bash -c \
   "echo 'Checking' {} \
   && cd {} && git fetch --quiet \
   && git reset --quiet --hard origin/HEAD \
