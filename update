@@ -6,7 +6,7 @@ max_parallel_tasks=10
 
 git submodule | awk '{ print $2 }' \
   | xargs -I{} -P$max_parallel_tasks sh -c \
-  "echo 'Checking' {} \
-  && cd {} && git fetch --quiet \
+  "echo 'Checking {}' \
+  && cd '{}' && git fetch --quiet \
   && git reset --quiet --hard origin/HEAD \
-  || echo '** FAILED **' {}"
+  || echo '** FAILED ** {}'"
