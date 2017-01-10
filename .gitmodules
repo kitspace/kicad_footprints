@@ -1048,3 +1048,9 @@
 [submodule "nellump/Connectors_Powerpole.pretty"]
 	path = nellump/Connectors_Powerpole.pretty
 	url = https://github.com/nellump/Connectors_Powerpole.pretty
+[submodule "MDHSweden/KiCad-MDH-IC.pretty"]
+	path = MDHSweden/KiCad-MDH-IC.pretty
+	url = https://github.com/MDHSweden/KiCad-MDH-IC.pretty
+[submodule "MDHSweden/KiCad-MDH-Connectors.pretty"]
+	path = MDHSweden/KiCad-MDH-Connectors.pretty
+	url = https://github.com/MDHSweden/KiCad-MDH-Connectors.pretty
