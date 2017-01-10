@@ -8,7 +8,7 @@ matrix:
           dist: trusty
           env: LOAD_INTO_KICAD=true
           before_install:
-            - sudo add-apt-repository ppa:js-reynaud/ppa-kicad -y
+            - sudo add-apt-repository ppa:js-reynaud/kicad-4 -y
             - sudo apt-get update -q
             - sudo apt-get install kicad -y
         - os: osx
