@@ -1,8 +1,10 @@
-# KiCAD footprint collection
+# KiCAD footprint collection [![][travis-svg]][travis]
 This is a collection of all the KiCAD footprints I know of. If you know of any more, please let me know!
 All the official libraries are included in the `KiCad/` sub-directory.
 
-It is best used with the footprint search that has been merged into the development (master) branch of KiCAD.
+These are fairly regularily checked with [Travis CI][travis] to make sure KiCAD can load them.
+
+Personally I use this with the footprint search that has been merged into the development (master) branch of KiCAD.
 
 ![](screenshot.png)
 
@@ -14,10 +16,15 @@ This is useful as you can easily keep a local copy of all the libraries, freeze 
 
 ### Initialization
 
-    git clone https://github.com/monostable/kicad_footprints
+
+    git clone --branch stable https://github.com/monostable/kicad_footprints
     cd kicad_footprints && ./init
 
 This downloads all the libraries in parallel but it can still take a while.
+
+If you use a KiCAD nightly or development version you will get a few more footprints if you switch to the master branch:
+
+    git checkout master && ./init
 
 ### Updating
 
@@ -66,3 +73,6 @@ They should work fine with the rest of the scripts once they are added.
 ## License
 
 Any scripts in this repository are MIT licensed. All the footprints have their own licenses of course.
+
+[travis-svg]: https://api.travis-ci.org/monostable/kicad_footprints.svg 
+[travis]: https://travis-ci.org/monostable/kicad_footprints
