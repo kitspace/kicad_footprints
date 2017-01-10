@@ -1,0 +1,13 @@
+git:
+  submodules: false
+sudo: required
+language: python
+dist: trusty
+before_install:
+  - sudo add-apt-repository ppa:js-reynaud/ppa-kicad -y
+  - sudo apt-get update -q
+  - sudo apt-get install kicad -y
+script:
+  - ./init
+  - ./update
+  - PYTHONPATH=/usr/lib/python2.7/dist-packages python load_all.py
