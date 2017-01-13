@@ -817,9 +817,6 @@
 [submodule "madworm/DIL-Headers.pretty"]
 	path = madworm/DIL-Headers.pretty
 	url = https://github.com/madworm/DIL-Headers.pretty.git
-[submodule "SchrodingersGat/Battery_Holders_Old.pretty"]
-	path = SchrodingersGat/Battery_Holders_Old.pretty
-	url = https://github.com/SchrodingersGat/Battery_Holders_Old.pretty.git
 [submodule "apexelectrix/apex-pin-connectors.pretty"]
 	path = apexelectrix/apex-pin-connectors.pretty
 	url = https://github.com/apexelectrix/apex-pin-connectors.pretty.git
