@@ -1054,3 +1054,6 @@
 [submodule "rocketscream/RocketScreamKicadLibrary"]
 	path = rocketscream/RocketScreamKicadLibrary
 	url = https://github.com/rocketscream/RocketScreamKicadLibrary.git
+[submodule "ashtonchase/Battery_Holders.pretty"]
+	path = ashtonchase/Battery_Holders.pretty
+	url = https://github.com/ashtonchase/Battery_Holders.pretty
