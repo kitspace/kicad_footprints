@@ -8,7 +8,11 @@ git submodule init
 
 git submodule | awk '{ print $2 }' \
   | xargs -I{} -P$max_parallel_tasks sh -c \
-  "echo 'Cloning {}' \
-  && git submodule update --quiet --depth 1 '{}' \
-  || git submodule update --quiet '{}' \
-  || echo '** FAILED ** {}'"
+  "echo 'Cloning {}'
+  if ! git submodule update --quiet --depth 1 '{}'
+  then
+    echo 'falling back to deep clone for {}'
+    if ! git submodule update --quiet '{}'
+    then echo '** FAILED ** {}'
+    fi
+  fi"
