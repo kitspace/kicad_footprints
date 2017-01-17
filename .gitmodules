@@ -1057,3 +1057,6 @@
 [submodule "ashtonchase/Battery_Holders.pretty"]
 	path = ashtonchase/Battery_Holders.pretty
 	url = https://github.com/ashtonchase/Battery_Holders.pretty
+[submodule "greatscottgadgets/gsg-kicad-lib"]
+	path = greatscottgadgets/gsg-kicad-lib
+	url = https://github.com/greatscottgadgets/gsg-kicad-lib
