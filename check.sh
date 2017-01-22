@@ -1,4 +1,4 @@
-echo "Checking $1"
+echo "Updating $1"
 if cd "$1"
   # might be empty dir instead of proper submodule
   then if [ -f .git ]
