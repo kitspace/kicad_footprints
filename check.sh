@@ -4,7 +4,11 @@ if cd "$1"
   then if [ -f .git ]
     then
       git fetch --quiet && git reset --quiet --hard origin/HEAD
+  else
+    false
   fi
+else
+  false
 fi
 
 if [ $? != 0 ]
