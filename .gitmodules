@@ -1060,3 +1060,6 @@
 [submodule "greatscottgadgets/gsg-kicad-lib"]
 	path = greatscottgadgets/gsg-kicad-lib
 	url = https://github.com/greatscottgadgets/gsg-kicad-lib
+[submodule "cvra/kicad-lib"]
+	path = cvra/kicad-lib
+	url = https://github.com/cvra/kicad-lib
