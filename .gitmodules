@@ -1066,3 +1066,6 @@
 [submodule "sageaddinsight/addinsight.pretty"]
 	path = sageaddinsight/addinsight.pretty
 	url = https://github.com/sageaddinsight/addinsight.pretty
+[submodule "BCN3D/BCN3D-Kicad-library"]
+	path = BCN3D/BCN3D-Kicad-library
+	url = https://github.com/BCN3D/BCN3D-Kicad-library
