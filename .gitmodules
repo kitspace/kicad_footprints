@@ -1069,3 +1069,9 @@
 [submodule "BCN3D/BCN3D-Kicad-library"]
 	path = BCN3D/BCN3D-Kicad-library
 	url = https://github.com/BCN3D/BCN3D-Kicad-library
+[submodule "t369e/pcbparts.pretty"]
+	path = t369e/pcbparts.pretty
+	url = https://github.com/t369e/pcbparts.pretty
+[submodule "voxel-dot-at/voxel_KiCad.pretty"]
+	path = voxel-dot-at/voxel_KiCad.pretty
+	url = https://github.com/voxel-dot-at/voxel_KiCad.pretty
