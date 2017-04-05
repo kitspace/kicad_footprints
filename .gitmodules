@@ -1075,3 +1075,24 @@
 [submodule "axello/kicad"]
 	path = axello/kicad
 	url = https://github.com/axello/kicad
+[submodule "spoollord/baseprime.pretty"]
+	path = spoollord/baseprime.pretty
+	url = https://github.com/spoollord/baseprime.pretty
+[submodule "cschopfer/digipict-kicad-footprint.pretty"]
+	path = cschopfer/digipict-kicad-footprint.pretty
+	url = https://github.com/cschopfer/digipict-kicad-footprint.pretty
+[submodule "hewittwill/KiCad-Libraries.pretty"]
+	path = hewittwill/KiCad-Libraries.pretty
+	url = https://github.com/hewittwill/KiCad-Libraries.pretty
+[submodule "kiu/kiu-footprint.pretty"]
+	path = kiu/kiu-footprint.pretty
+	url = https://github.com/kiu/kiu-footprint.pretty
+[submodule "PatrickBaus/footprints.pretty"]
+	path = PatrickBaus/footprints.pretty
+	url = https://github.com/PatrickBaus/footprints.pretty
+[submodule "TheronRogers/Guitar.pretty"]
+	path = TheronRogers/Guitar.pretty
+	url = https://github.com/TheronRogers/Guitar.pretty
+[submodule "albymor/Personal_Kicad_Library.pretty"]
+	path = albymor/Personal_Kicad_Library.pretty
+	url = https://github.com/albymor/Personal_Kicad_Library.pretty
