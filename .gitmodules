@@ -1072,3 +1072,6 @@
 [submodule "voxel-dot-at/voxel_KiCad.pretty"]
 	path = voxel-dot-at/voxel_KiCad.pretty
 	url = https://github.com/voxel-dot-at/voxel_KiCad.pretty
+[submodule "axello/kicad"]
+	path = axello/kicad
+	url = https://github.com/axello/kicad
