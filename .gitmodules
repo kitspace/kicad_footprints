@@ -1096,3 +1096,6 @@
 [submodule "albymor/Personal_Kicad_Library.pretty"]
 	path = albymor/Personal_Kicad_Library.pretty
 	url = https://github.com/albymor/Personal_Kicad_Library.pretty
+[submodule "Drc3p0/Prototyping_Workshop"]
+	path = Drc3p0/Prototyping_Workshop
+	url = https://github.com/Drc3p0/Prototyping_Workshop
