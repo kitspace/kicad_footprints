@@ -1114,3 +1114,18 @@
 [submodule "UofSSpaceTeam/USST-footprints.pretty"]
 	path = UofSSpaceTeam/USST-footprints.pretty
 	url = https://github.com/UofSSpaceTeam/USST-footprints.pretty
+[submodule "XenGi/teensy.pretty"]
+	path = XenGi/teensy.pretty
+	url = https://github.com/XenGi/teensy.pretty
+[submodule "Gijsco/Kicad_Footprint_Modules.pretty"]
+	path = Gijsco/Kicad_Footprint_Modules.pretty
+	url = https://github.com/Gijsco/Kicad_Footprint_Modules.pretty
+[submodule "Gijsco/Kicad_Footprint_Connectors.pretty"]
+	path = Gijsco/Kicad_Footprint_Connectors.pretty
+	url = https://github.com/Gijsco/Kicad_Footprint_Connectors.pretty
+[submodule "rchojetzki/rchojetzki-kicad-footprints-lib.pretty"]
+	path = rchojetzki/rchojetzki-kicad-footprints-lib.pretty
+	url = https://github.com/rchojetzki/rchojetzki-kicad-footprints-lib.pretty
+[submodule "ai03-2725/MX_Alps_Hybrid.pretty"]
+	path = ai03-2725/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
