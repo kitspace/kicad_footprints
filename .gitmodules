@@ -1129,3 +1129,9 @@
 [submodule "ai03-2725/MX_Alps_Hybrid.pretty"]
 	path = ai03-2725/MX_Alps_Hybrid.pretty
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "vargavik/Sajat.pretty"]
+	path = vargavik/Sajat.pretty
+	url = https://github.com/vargavik/Sajat.pretty
+[submodule "LosNarfos/cosi.pretty"]
+	path = LosNarfos/cosi.pretty
+	url = https://github.com/LosNarfos/cosi.pretty
