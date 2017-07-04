@@ -1099,9 +1099,6 @@
 [submodule "Drc3p0/Prototyping_Workshop"]
 	path = Drc3p0/Prototyping_Workshop
 	url = https://github.com/Drc3p0/Prototyping_Workshop
-[submodule "F4NNIU/T17LB66-KICAD-JLC.pretty"]
-	path = F4NNIU/T17LB66-KICAD-JLC.pretty
-	url = https://github.com/F4NNIU/T17LB66-KICAD-JLC.pretty
 [submodule "kicad-harryr/rx-viper.pretty"]
 	path = kicad-harryr/rx-viper.pretty
 	url = https://github.com/kicad-harryr/rx-viper.pretty
