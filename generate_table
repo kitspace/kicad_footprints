@@ -12,7 +12,9 @@ for dirname, dirnames, filenames in os.walk(os.path.curdir):
 
     for filename in filenames:
         if os.path.splitext(filename)[-1] == '.kicad_mod':
-            print('  (lib (name "%s")(type KiCad) (uri "%s") (options "") (descr ""))'
-                    % (os.path.relpath(dirname, os.path.curdir), os.path.realpath(dirname)))
+            name = os.path.relpath(dirname, os.path.curdir).replace('\\', '/')
+            uri = os.path.realpath(dirname).replace('\\', '/')
+            lib = '  (lib (name "{}")(type KiCad) (uri "{}") (options "") (descr ""))'.format(name, uri)
+            print(lib)
             break
 print(')')
