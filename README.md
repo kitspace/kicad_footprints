@@ -48,14 +48,17 @@ You will need to restart KiCAD for this change to take effect.
 #### Linux
 
     cp ~/.config/kicad/fp-lib-table ~/.config/kicad/fp-lib-table.backup
-    ./generate_table > ~/.config/kicad/fp-lib-table
+    ./generate_table ~/.config/kicad/fp-lib-table
 
 #### Mac OS
 
     cp ~/Library/Preferences/kicad/fp-lib-table ~/Library/Preferences/kicad/fp-lib-table.backup
-    ./generate_table > ~/Library/Preferences/kicad/fp-lib-table
+    ./generate_table ~/Library/Preferences/kicad/fp-lib-table
 
+#### Windows (using git-bash)
 
+    cp ~/AppData/Roaming/kicad/fp-lib-table ~/AppData/Roaming/kicad/fp-lib-table.backup
+    ./generate_table ~/AppData/Roaming/kicad/fp-lib-table
 
 ### Adding submodules
 
