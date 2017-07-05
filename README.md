@@ -74,5 +74,5 @@ They should work fine with the rest of the scripts once they are added.
 
 Any scripts in this repository are MIT licensed. All the footprints have their own licenses of course.
 
-[travis-svg]: https://api.travis-ci.org/monostable/kicad_footprints.svg 
+[travis-svg]: https://api.travis-ci.org/monostable/kicad_footprints.svg?branch=stable
 [travis]: https://travis-ci.org/monostable/kicad_footprints
