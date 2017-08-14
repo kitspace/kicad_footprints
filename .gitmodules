@@ -319,9 +319,6 @@
 [submodule "adamjvr/ESP32-kiCAD-Footprints"]
 	path = adamjvr/ESP32-kiCAD-Footprints
 	url = https://github.com/adamjvr/ESP32-kiCAD-Footprints
-[submodule "adamjvr/KiCAD-OnHand-Lib"]
-	path = adamjvr/KiCAD-OnHand-Lib
-	url = https://github.com/adamjvr/KiCAD-OnHand-Lib
 [submodule "descampsa/molex.pretty"]
 	path = descampsa/molex.pretty
 	url = https://github.com/descampsa/molex.pretty
@@ -985,15 +982,9 @@
 [submodule "UofSSpaceDesignTeam/USST-footprints.pretty"]
 	path = UofSSpaceDesignTeam/USST-footprints.pretty
 	url = https://github.com/UofSSpaceDesignTeam/USST-footprints.pretty
-[submodule "lowstar/IPC7351C-Nominal.pretty"]
-	path = lowstar/IPC7351C-Nominal.pretty
-	url = https://github.com/lowstar/IPC7351C-Nominal.pretty
 [submodule "esden/pretty-kicad-libs"]
 	path = esden/pretty-kicad-libs
 	url = https://github.com/esden/pretty-kicad-libs
-[submodule "liftoff-sr/pretty_footprints"]
-	path = liftoff-sr/pretty_footprints
-	url = https://github.com/liftoff-sr/pretty_footprints
 [submodule "ContextualElectronics/CE_KiCadLib"]
 	path = ContextualElectronics/CE_KiCadLib
 	url = https://github.com/ContextualElectronics/CE_KiCadLib
@@ -1054,9 +1045,6 @@
 [submodule "kiu/kiu-footprint.pretty"]
 	path = kiu/kiu-footprint.pretty
 	url = https://github.com/kiu/kiu-footprint.pretty
-[submodule "PatrickBaus/footprints.pretty"]
-	path = PatrickBaus/footprints.pretty
-	url = https://github.com/PatrickBaus/footprints.pretty
 [submodule "TheronRogers/Guitar.pretty"]
 	path = TheronRogers/Guitar.pretty
 	url = https://github.com/TheronRogers/Guitar.pretty
@@ -1069,9 +1057,6 @@
 [submodule "kicad-rleh/D-Sub-HD.pretty"]
 	path = kicad-rleh/D-Sub-HD.pretty
 	url = https://github.com/kicad-rleh/D-Sub-HD.pretty
-[submodule "Toroid-io/toroid-kicad.pretty"]
-	path = Toroid-io/toroid-kicad.pretty
-	url = https://github.com/Toroid-io/toroid-kicad.pretty
 [submodule "UofSSpaceTeam/USST-footprints.pretty"]
 	path = UofSSpaceTeam/USST-footprints.pretty
 	url = https://github.com/UofSSpaceTeam/USST-footprints.pretty
@@ -1150,9 +1135,6 @@
 [submodule "KiCadCustomLibs"]
 	path = nppc/KiCadCustomLibs
 	url = https://github.com/nppc/KiCadCustomLibs
-[submodule "coddingtonbear-kicad-lib"]
-	path = coddingtonbear/coddingtonbear-kicad-lib
-	url = https://github.com/coddingtonbear/coddingtonbear-kicad-lib
 [submodule "smisioto.eu/kicad_libs"]
 	path = smisioto.eu/kicad_libs
 	url = git://smisioto.eu/kicad_libs.git
@@ -1168,9 +1150,6 @@
 [submodule "CartelLtd/cartel_kicad_library.pretty"]
 	path = CartelLtd/cartel_kicad_library.pretty
 	url = https://github.com/CartelLtd/cartel_kicad_library.pretty
-[submodule "KiCad/kicad-footprints"]
-	path = KiCad/kicad-footprints
-	url = https://github.com/KiCad/kicad-footprints/
 [submodule "digikey/digikey-kicad-library"]
 	path = digikey/digikey-kicad-library
 	url = https://github.com/digikey/digikey-kicad-library
@@ -1255,9 +1234,6 @@
 [submodule "rchojetzki-kicad/kicad-footprints-rchojetzki.pretty"]
 	path = rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
 	url = https://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
-[submodule "LibreSolar/KiCad-footprints"]
-	path = LibreSolar/KiCad-footprints
-	url = https://github.com/LibreSolar/KiCad-footprints
 [submodule "re-innovation/kicad_reinnovation"]
 	path = re-innovation/kicad_reinnovation
 	url = https://github.com/re-innovation/kicad_reinnovation
@@ -1273,9 +1249,6 @@
 [submodule "liubenyuan/kicad-xeit"]
 	path = liubenyuan/kicad-xeit
 	url = https://github.com/liubenyuan/kicad-xeit
-[submodule "wykys/kicad"]
-	path = wykys/kicad
-	url = https://github.com/wykys/kicad
 [submodule "TDHolmes/KiCadCustomFootprints"]
 	path = TDHolmes/KiCadCustomFootprints
 	url = https://github.com/TDHolmes/KiCadCustomFootprints
