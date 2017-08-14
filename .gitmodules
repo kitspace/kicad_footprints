@@ -1129,3 +1129,39 @@
 [submodule "LosNarfos/cosi.pretty"]
 	path = LosNarfos/cosi.pretty
 	url = https://github.com/LosNarfos/cosi.pretty
+[submodule "bveenema/USB.pretty"]
+	path = bveenema/USB.pretty
+	url = https://github.com/bveenema/USB.pretty
+[submodule "m-byte/aesora.pretty"]
+	path = m-byte/aesora.pretty
+	url = https://github.com/m-byte/aesora.pretty
+[submodule "fudge01010/fudge-kicad-footprints.pretty"]
+	path = fudge01010/fudge-kicad-footprints.pretty
+	url = https://github.com/fudge01010/fudge-kicad-footprints.pretty
+[submodule "benkev/myLib.pretty"]
+	path = benkev/myLib.pretty
+	url = https://github.com/benkev/myLib.pretty
+[submodule "R0evolution/cb_connectors_footprint.pretty"]
+	path = R0evolution/cb_connectors_footprint.pretty
+	url = https://github.com/R0evolution/cb_connectors_footprint.pretty
+[submodule "mamiksik/kicad-components.pretty"]
+	path = mamiksik/kicad-components.pretty
+	url = https://github.com/mamiksik/kicad-components.pretty
+[submodule "alozewski/al-kicad-lib.pretty"]
+	path = alozewski/al-kicad-lib.pretty
+	url = https://github.com/alozewski/al-kicad-lib.pretty
+[submodule "R0evolution/cb_device_footprint.pretty"]
+	path = R0evolution/cb_device_footprint.pretty
+	url = https://github.com/R0evolution/cb_device_footprint.pretty
+[submodule "kicad-rleh/L_Coilcraft.pretty"]
+	path = kicad-rleh/L_Coilcraft.pretty
+	url = https://github.com/kicad-rleh/L_Coilcraft.pretty
+[submodule "kicad-rleh/D-Sub.pretty"]
+	path = kicad-rleh/D-Sub.pretty
+	url = https://github.com/kicad-rleh/D-Sub.pretty
+[submodule "kicad-rleh/WE-SLx.pretty"]
+	path = kicad-rleh/WE-SLx.pretty
+	url = https://github.com/kicad-rleh/WE-SLx.pretty
+[submodule "ai03-2725/Molex-0548190589.pretty"]
+	path = ai03-2725/Molex-0548190589.pretty
+	url = https://github.com/ai03-2725/Molex-0548190589.pretty
