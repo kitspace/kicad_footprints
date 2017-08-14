@@ -319,9 +319,6 @@
 [submodule "adamjvr/ESP32-kiCAD-Footprints"]
 	path = adamjvr/ESP32-kiCAD-Footprints
 	url = https://github.com/adamjvr/ESP32-kiCAD-Footprints
-[submodule "adamjvr/KiCAD-OnHand-Lib"]
-	path = adamjvr/KiCAD-OnHand-Lib
-	url = https://github.com/adamjvr/KiCAD-OnHand-Lib
 [submodule "descampsa/molex.pretty"]
 	path = descampsa/molex.pretty
 	url = https://github.com/descampsa/molex.pretty
@@ -1012,9 +1009,6 @@
 [submodule "UofSSpaceDesignTeam/USST-footprints.pretty"]
 	path = UofSSpaceDesignTeam/USST-footprints.pretty
 	url = https://github.com/UofSSpaceDesignTeam/USST-footprints.pretty
-[submodule "lowstar/IPC7351C-Nominal.pretty"]
-	path = lowstar/IPC7351C-Nominal.pretty
-	url = https://github.com/lowstar/IPC7351C-Nominal.pretty
 [submodule "esden/pretty-kicad-libs"]
 	path = esden/pretty-kicad-libs
 	url = https://github.com/esden/pretty-kicad-libs
@@ -1081,9 +1075,6 @@
 [submodule "kiu/kiu-footprint.pretty"]
 	path = kiu/kiu-footprint.pretty
 	url = https://github.com/kiu/kiu-footprint.pretty
-[submodule "PatrickBaus/footprints.pretty"]
-	path = PatrickBaus/footprints.pretty
-	url = https://github.com/PatrickBaus/footprints.pretty
 [submodule "TheronRogers/Guitar.pretty"]
 	path = TheronRogers/Guitar.pretty
 	url = https://github.com/TheronRogers/Guitar.pretty
@@ -1099,9 +1090,6 @@
 [submodule "kicad-rleh/D-Sub-HD.pretty"]
 	path = kicad-rleh/D-Sub-HD.pretty
 	url = https://github.com/kicad-rleh/D-Sub-HD.pretty
-[submodule "Toroid-io/toroid-kicad.pretty"]
-	path = Toroid-io/toroid-kicad.pretty
-	url = https://github.com/Toroid-io/toroid-kicad.pretty
 [submodule "UofSSpaceTeam/USST-footprints.pretty"]
 	path = UofSSpaceTeam/USST-footprints.pretty
 	url = https://github.com/UofSSpaceTeam/USST-footprints.pretty
