@@ -832,9 +832,6 @@
 [submodule "kicad-rleh/resistor-power-shunt.pretty"]
 	path = kicad-rleh/resistor-power-shunt.pretty
 	url = https://github.com/kicad-rleh/resistor-power-shunt.pretty.git
-[submodule "AngelLiang/MyPcbLib.pretty"]
-	path = AngelLiang/MyPcbLib.pretty
-	url = https://github.com/AngelLiang/MyPcbLib.pretty.git
 [submodule "hairymnstr/Nathan_SMT_Passive.pretty"]
 	path = hairymnstr/Nathan_SMT_Passive.pretty
 	url = https://github.com/hairymnstr/Nathan_SMT_Passive.pretty.git
