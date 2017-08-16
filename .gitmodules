@@ -1162,3 +1162,6 @@
 [submodule "ai03-2725/Molex-0548190589.pretty"]
 	path = ai03-2725/Molex-0548190589.pretty
 	url = https://github.com/ai03-2725/Molex-0548190589.pretty
+[submodule "smisioto.eu/kicad_libs"]
+	path = smisioto.eu/kicad_libs
+	url = git://smisioto.eu/kicad_libs.git
