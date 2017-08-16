@@ -1186,3 +1186,6 @@
 [submodule "coddingtonbear-kicad-lib"]
 	path = coddingtonbear/coddingtonbear-kicad-lib
 	url = https://github.com/coddingtonbear/coddingtonbear-kicad-lib
+[submodule "smisioto.eu/kicad_libs"]
+	path = smisioto.eu/kicad_libs
+	url = git://smisioto.eu/kicad_libs.git
