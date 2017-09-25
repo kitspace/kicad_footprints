@@ -42,7 +42,7 @@ If you want to pull in any libraries that have been added since your initial clo
 
 You can add these libraries manually through the KiCAD GUI of course. 
 You could also use `generate_table` to generate an fp-lib-table, the file KiCAD uses as a footprint registry, with all the footprints from this repository.
-You could use this to replace your existing fp-lib-table.
+You can use this to replace your existing fp-lib-table.
 You will need to restart KiCAD for this change to take effect.
 
 #### Linux
@@ -55,7 +55,7 @@ You will need to restart KiCAD for this change to take effect.
     cp ~/Library/Preferences/kicad/fp-lib-table ~/Library/Preferences/kicad/fp-lib-table.backup
     ./generate_table ~/Library/Preferences/kicad/fp-lib-table
 
-#### Windows (using git-bash)
+#### Windows (using [git-bash](https://git-scm.com/download/win))
 
     cp ~/AppData/Roaming/kicad/fp-lib-table ~/AppData/Roaming/kicad/fp-lib-table.backup
     ./generate_table ~/AppData/Roaming/kicad/fp-lib-table
