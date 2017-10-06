@@ -55,7 +55,7 @@ You will need to restart KiCAD for this change to take effect.
     cp ~/Library/Preferences/kicad/fp-lib-table ~/Library/Preferences/kicad/fp-lib-table.backup
     ./generate_table ~/Library/Preferences/kicad/fp-lib-table
 
-#### Windows (using [git-bash](https://git-scm.com/download/win))
+#### Windows (using [git-bash](https://git-scm.com/download))
 
     cp ~/AppData/Roaming/kicad/fp-lib-table ~/AppData/Roaming/kicad/fp-lib-table.backup
     ./generate_table ~/AppData/Roaming/kicad/fp-lib-table
