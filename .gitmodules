@@ -1162,3 +1162,24 @@
 [submodule "ai03-2725/Molex-0548190589.pretty"]
 	path = ai03-2725/Molex-0548190589.pretty
 	url = https://github.com/ai03-2725/Molex-0548190589.pretty
+[submodule "Jeff-Russ/Kicad.pretty"]
+	path = Jeff-Russ/Kicad.pretty
+	url = https://github.com/Jeff-Russ/Kicad.pretty
+[submodule "Wallbraker/Amiga.pretty"]
+	path = Wallbraker/Amiga.pretty
+	url = https://github.com/Wallbraker/Amiga.pretty
+[submodule "soburi-org/kicad_share_repository.pretty"]
+	path = soburi-org/kicad_share_repository.pretty
+	url = https://github.com/soburi-org/kicad_share_repository.pretty
+[submodule "rchojetzki-kicad/footprints.pretty"]
+	path = rchojetzki-kicad/footprints.pretty
+	url = https://github.com/rchojetzki-kicad/footprints.pretty
+[submodule "shozaburo-shimada/KiCADfootprint.pretty"]
+	path = shozaburo-shimada/KiCADfootprint.pretty
+	url = https://github.com/shozaburo-shimada/KiCADfootprint.pretty
+[submodule "kicad-rleh/LW_G6SP.pretty"]
+	path = kicad-rleh/LW_G6SP.pretty
+	url = https://github.com/kicad-rleh/LW_G6SP.pretty
+[submodule "KiCadCustomLibs"]
+	path = KiCadCustomLibs
+	url = https://github.com/nppc/KiCadCustomLibs
