@@ -1183,3 +1183,6 @@
 [submodule "KiCadCustomLibs"]
 	path = KiCadCustomLibs
 	url = https://github.com/nppc/KiCadCustomLibs
+[submodule "coddingtonbear-kicad-lib"]
+	path = coddingtonbear-kicad-lib
+	url = https://github.com/coddingtonbear/coddingtonbear-kicad-lib
