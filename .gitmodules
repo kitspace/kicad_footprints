@@ -1181,8 +1181,8 @@
 	path = kicad-rleh/LW_G6SP.pretty
 	url = https://github.com/kicad-rleh/LW_G6SP.pretty
 [submodule "KiCadCustomLibs"]
-	path = KiCadCustomLibs
+	path = nppc/KiCadCustomLibs
 	url = https://github.com/nppc/KiCadCustomLibs
 [submodule "coddingtonbear-kicad-lib"]
-	path = coddingtonbear-kicad-lib
+	path = coddingtonbear/coddingtonbear-kicad-lib
 	url = https://github.com/coddingtonbear/coddingtonbear-kicad-lib
