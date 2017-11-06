@@ -1189,3 +1189,15 @@
 [submodule "smisioto.eu/kicad_libs"]
 	path = smisioto.eu/kicad_libs
 	url = git://smisioto.eu/kicad_libs.git
+[submodule "svarmo/kicadParts.pretty"]
+	path = svarmo/kicadParts.pretty
+	url = https://github.com/svarmo/kicadParts.pretty
+[submodule "Gijsco/Kicad_Footprint_Packages.pretty"]
+	path = Gijsco/Kicad_Footprint_Packages.pretty
+	url = https://github.com/Gijsco/Kicad_Footprint_Packages.pretty
+[submodule "Tiryoh/KiCad-lib.pretty"]
+	path = Tiryoh/KiCad-lib.pretty
+	url = https://github.com/Tiryoh/KiCad-lib.pretty
+[submodule "CartelLtd/cartel_kicad_library.pretty"]
+	path = CartelLtd/cartel_kicad_library.pretty
+	url = https://github.com/CartelLtd/cartel_kicad_library.pretty
