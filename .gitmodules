@@ -973,3 +973,18 @@
 [submodule "KiCad/kicad-footprints"]
 	path = KiCad/kicad-footprints
 	url = https://github.com/KiCad/kicad-footprints
+[submodule "digikey/digikey-kicad-library"]
+	path = digikey/digikey-kicad-library
+	url = https://github.com/digikey/digikey-kicad-library
+[submodule "PCSmithy/NeoPixel_FP.pretty"]
+	path = PCSmithy/NeoPixel_FP.pretty
+	url = https://github.com/PCSmithy/NeoPixel_FP.pretty
+[submodule "PCSmithy/PCA9685PW_FP.pretty"]
+	path = PCSmithy/PCA9685PW_FP.pretty
+	url = https://github.com/PCSmithy/PCA9685PW_FP.pretty
+[submodule "PCSmithy/VIA_FP.pretty"]
+	path = PCSmithy/VIA_FP.pretty
+	url = https://github.com/PCSmithy/VIA_FP.pretty
+[submodule "PCSmithy/G6B-2114-DC12_FP.pretty"]
+	path = PCSmithy/G6B-2114-DC12_FP.pretty
+	url = https://github.com/PCSmithy/G6B-2114-DC12_FP.pretty
