@@ -985,6 +985,3 @@
 [submodule "PCSmithy/VIA_FP.pretty"]
 	path = PCSmithy/VIA_FP.pretty
 	url = https://github.com/PCSmithy/VIA_FP.pretty
-[submodule "PCSmithy/G6B-2114-DC12_FP.pretty"]
-	path = PCSmithy/G6B-2114-DC12_FP.pretty
-	url = https://github.com/PCSmithy/G6B-2114-DC12_FP.pretty
