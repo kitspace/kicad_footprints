@@ -1203,7 +1203,7 @@
 	url = https://github.com/CartelLtd/cartel_kicad_library.pretty
 [submodule "KiCad/kicad-footprints"]
 	path = KiCad/kicad-footprints
-	url = https://github.com/KiCad/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints/
 [submodule "digikey/digikey-kicad-library"]
 	path = digikey/digikey-kicad-library
 	url = https://github.com/digikey/digikey-kicad-library
@@ -1216,3 +1216,6 @@
 [submodule "PCSmithy/VIA_FP.pretty"]
 	path = PCSmithy/VIA_FP.pretty
 	url = https://github.com/PCSmithy/VIA_FP.pretty
+[submodule "sparkfun/SparkFun-KiCad-Libraries"]
+	path = sparkfun/SparkFun-KiCad-Libraries
+	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
