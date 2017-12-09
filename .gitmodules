@@ -1219,3 +1219,63 @@
 [submodule "sparkfun/SparkFun-KiCad-Libraries"]
 	path = sparkfun/SparkFun-KiCad-Libraries
 	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
+[submodule "suf-KiCAD/suf_led.pretty"]
+	path = suf-KiCAD/suf_led.pretty
+	url = https://github.com/suf-KiCAD/suf_led.pretty
+[submodule "suf-KiCAD/suf_transformer.pretty"]
+	path = suf-KiCAD/suf_transformer.pretty
+	url = https://github.com/suf-KiCAD/suf_transformer.pretty
+[submodule "suf-KiCAD/suf_capacitor.pretty"]
+	path = suf-KiCAD/suf_capacitor.pretty
+	url = https://github.com/suf-KiCAD/suf_capacitor.pretty
+[submodule "suf-KiCAD/suf_connector_misc.pretty"]
+	path = suf-KiCAD/suf_connector_misc.pretty
+	url = https://github.com/suf-KiCAD/suf_connector_misc.pretty
+[submodule "suf-KiCAD/suf_connector_ncw.pretty"]
+	path = suf-KiCAD/suf_connector_ncw.pretty
+	url = https://github.com/suf-KiCAD/suf_connector_ncw.pretty
+[submodule "suf-KiCAD/suf_terminal_block.pretty"]
+	path = suf-KiCAD/suf_terminal_block.pretty
+	url = https://github.com/suf-KiCAD/suf_terminal_block.pretty
+[submodule "suf-KiCAD/suf_module.pretty"]
+	path = suf-KiCAD/suf_module.pretty
+	url = https://github.com/suf-KiCAD/suf_module.pretty
+[submodule "suf-KiCAD/suf_display.pretty"]
+	path = suf-KiCAD/suf_display.pretty
+	url = https://github.com/suf-KiCAD/suf_led_display.pretty
+[submodule "suf-KiCAD/suf_sot.pretty"]
+	path = suf-KiCAD/suf_sot.pretty
+	url = https://github.com/suf-KiCAD/suf_sot.pretty
+[submodule "suf-KiCAD/suf_power_module.pretty"]
+	path = suf-KiCAD/suf_power_module.pretty
+	url = https://github.com/suf-KiCAD/suf_power_module.pretty
+[submodule "suf-KiCAD/suf_connector_RJ.pretty"]
+	path = suf-KiCAD/suf_connector_RJ.pretty
+	url = https://github.com/suf-KiCAD/suf_connector_RJ.pretty
+[submodule "suf-KiCAD/suf_housings_TO.pretty"]
+	path = suf-KiCAD/suf_housings_TO.pretty
+	url = https://github.com/suf-KiCAD/suf_housings_TO.pretty
+[submodule "suf-KiCAD/suf_relay.pretty"]
+	path = suf-KiCAD/suf_relay.pretty
+	url = https://github.com/suf-KiCAD/suf_relay.pretty
+[submodule "suf-KiCAD/suf_dpak.pretty"]
+	path = suf-KiCAD/suf_dpak.pretty
+	url = https://github.com/suf-KiCAD/suf_dpak.pretty
+[submodule "suf-KiCAD/suf_sob.pretty"]
+	path = suf-KiCAD/suf_sob.pretty
+	url = https://github.com/suf-KiCAD/suf_sob.pretty
+[submodule "suf-KiCAD/suf_switch.pretty"]
+	path = suf-KiCAD/suf_switch.pretty
+	url = https://github.com/suf-KiCAD/suf_switch.pretty
+[submodule "suf-KiCAD/suf_fuse.pretty"]
+	path = suf-KiCAD/suf_fuse.pretty
+	url = https://github.com/suf-KiCAD/suf_fuse.pretty
+[submodule "suf-KiCAD/suf_diode_bridge.pretty"]
+	path = suf-KiCAD/suf_diode_bridge.pretty
+	url = https://github.com/suf-KiCAD/suf_diode_bridge.pretty
+[submodule "suf-KiCAD/suf_connector_usb.pretty"]
+	path = suf-KiCAD/suf_connector_usb.pretty
+	url = https://github.com/suf-KiCAD/suf_connector_usb.pretty
+[submodule "suf-KiCAD/suf_choke_smd.pretty"]
+	path = suf-KiCAD/suf_choke_smd.pretty
+	url = https://github.com/suf-KiCAD/suf_choke_smd.pretty
