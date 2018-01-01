@@ -991,9 +991,6 @@
 [submodule "fruchti/fruchtilib"]
 	path = fruchti/fruchtilib
 	url = https://github.com/fruchti/fruchtilib/
-[submodule "cbrues/kicad-lib2"]
-	path = cbrues/kicad-lib2
-	url = https://github.com/cbrues/kicad-lib2
 [submodule "ChristianLerche/LercheTech_KiCAD"]
 	path = ChristianLerche/LercheTech_KiCAD
 	url = https://github.com/ChristianLerche/LercheTech_KiCAD
