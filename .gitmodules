@@ -1276,3 +1276,18 @@
 [submodule "suf-KiCAD/suf_choke_smd.pretty"]
 	path = suf-KiCAD/suf_choke_smd.pretty
 	url = https://github.com/suf-KiCAD/suf_choke_smd.pretty
+[submodule "jaka/connectors.pretty"]
+	path = jaka/connectors.pretty
+	url = https://github.com/jaka/connectors.pretty
+[submodule "phigleaf/kicadprints.pretty"]
+	path = phigleaf/kicadprints.pretty
+	url = https://github.com/phigleaf/kicadprints.pretty
+[submodule "rchojetzki-kicad/kicad-footprints-rchojetzki.pretty"]
+	path = rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
+	url = https://github.com/rchojetzki-kicad/kicad-footprints-rchojetzki.pretty
+[submodule "LibreSolar/KiCad-footprints"]
+	path = LibreSolar/KiCad-footprints
+	url = https://github.com/LibreSolar/KiCad-footprints
+[submodule "re-innovation/kicad_reinnovation"]
+	path = re-innovation/kicad_reinnovation
+	url = https://github.com/re-innovation/kicad_reinnovation
