@@ -1315,3 +1315,6 @@
 [submodule "ElectronicCats/ComponentLibrariesKicadWurthElektronik"]
 	path = ElectronicCats/ComponentLibrariesKicadWurthElektronik
 	url = https://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik
+[submodule "imrehg/kicalopl"]
+	path = imrehg/kicalopl
+	url = https://github.com/imrehg/kicalopl
