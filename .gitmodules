@@ -1291,3 +1291,27 @@
 [submodule "re-innovation/kicad_reinnovation"]
 	path = re-innovation/kicad_reinnovation
 	url = https://github.com/re-innovation/kicad_reinnovation
+[submodule "kichMan/JDY-08"]
+	path = kichMan/JDY-08
+	url = https://github.com/kichMan/JDY-08
+[submodule "loiclefort/kicad-library"]
+	path = loiclefort/kicad-library
+	url = https://github.com/loiclefort/kicad-library
+[submodule "ASoftTech/CAD.KiCad.Libs"]
+	path = ASoftTech/CAD.KiCad.Libs
+	url = https://github.com/ASoftTech/CAD.KiCad.Libs
+[submodule "liubenyuan/kicad-xeit"]
+	path = liubenyuan/kicad-xeit
+	url = https://github.com/liubenyuan/kicad-xeit
+[submodule "wykys/kicad"]
+	path = wykys/kicad
+	url = https://github.com/wykys/kicad
+[submodule "TDHolmes/KiCadCustomFootprints"]
+	path = TDHolmes/KiCadCustomFootprints
+	url = https://github.com/TDHolmes/KiCadCustomFootprints
+[submodule "jp3cyc/KiCadLibrary"]
+	path = jp3cyc/KiCadLibrary
+	url = https://github.com/jp3cyc/KiCadLibrary
+[submodule "ElectronicCats/ComponentLibrariesKicadWurthElektronik"]
+	path = ElectronicCats/ComponentLibrariesKicadWurthElektronik
+	url = https://github.com/ElectronicCats/ComponentLibrariesKicadWurthElektronik
