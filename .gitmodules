@@ -1318,3 +1318,12 @@
 [submodule "imrehg/kicalopl"]
 	path = imrehg/kicalopl
 	url = https://github.com/imrehg/kicalopl
+[submodule "XenGi/kailh_big_series.pretty"]
+	path = XenGi/kailh_big_series.pretty
+	url = https://github.com/XenGi/kailh_big_series.pretty
+[submodule "antonchromjak/kicad_subory.pretty"]
+	path = antonchromjak/kicad_subory.pretty
+	url = https://github.com/antonchromjak/kicad_subory.pretty
+[submodule "keebio/Keebio-Parts.pretty"]
+	path = keebio/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
