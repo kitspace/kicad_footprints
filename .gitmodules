@@ -1318,3 +1318,12 @@
 [submodule "keebio/Keebio-Parts.pretty"]
 	path = keebio/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "d3philip/kicadprints.pretty"]
+	path = d3philip/kicadprints.pretty
+	url = https://github.com/d3philip/kicadprints.pretty
+[submodule "schemu/Housings_CDFP_RUS.pretty"]
+	path = schemu/Housings_CDFP_RUS.pretty
+	url = https://github.com/schemu/Housings_CDFP_RUS.pretty
+[submodule "naturesyouth/meastro_gnss.pretty"]
+	path = naturesyouth/meastro_gnss.pretty
+	url = https://github.com/naturesyouth/meastro_gnss.pretty
