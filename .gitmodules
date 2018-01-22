@@ -706,21 +706,12 @@
 [submodule "nutbolt/WS2852.pretty"]
 	path = nutbolt/WS2852.pretty
 	url = https://github.com/nutbolt/WS2852.pretty.git
-[submodule "KiCad-RUS/Housings_CQFP_RUS.pretty"]
-	path = KiCad-RUS/Housings_CQFP_RUS.pretty
-	url = https://github.com/KiCad-RUS/Housings_CQFP_RUS.pretty.git
 [submodule "realthunder/Connectors_Amass.pretty"]
 	path = realthunder/Connectors_Amass.pretty
 	url = https://github.com/realthunder/Connectors_Amass.pretty.git
 [submodule "alchy/spacestudio_components.pretty"]
 	path = alchy/spacestudio_components.pretty
 	url = https://github.com/alchy/spacestudio_components.pretty.git
-[submodule "KiCad-RUS/SMD_Packages_RUS.pretty"]
-	path = KiCad-RUS/SMD_Packages_RUS.pretty
-	url = https://github.com/KiCad-RUS/SMD_Packages_RUS.pretty.git
-[submodule "KiCad-RUS/Housings_CDFP_RUS.pretty"]
-	path = KiCad-RUS/Housings_CDFP_RUS.pretty
-	url = https://github.com/KiCad-RUS/Housings_CDFP_RUS.pretty.git
 [submodule "KUT-KiCad/KUT_DriveIC.pretty"]
 	path = KUT-KiCad/KUT_DriveIC.pretty
 	url = https://github.com/KUT-KiCad/KUT_DriveIC.pretty.git
