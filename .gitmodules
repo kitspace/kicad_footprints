@@ -1327,3 +1327,15 @@
 [submodule "naturesyouth/meastro_gnss.pretty"]
 	path = naturesyouth/meastro_gnss.pretty
 	url = https://github.com/naturesyouth/meastro_gnss.pretty
+[submodule "ai03-2725/Type-C.pretty"]
+	path = ai03-2725/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "kicad-rleh/Measurement_Point_Round-SMD-Pad_Smaller.pretty"]
+	path = kicad-rleh/Measurement_Point_Round-SMD-Pad_Smaller.pretty
+	url = https://github.com/kicad-rleh/Measurement_Point_Round-SMD-Pad_Smaller.pretty
+[submodule "kicad-rleh/DFN-12-2EP_3.3x5mm_Pitch0.65mm.pretty"]
+	path = kicad-rleh/DFN-12-2EP_3.3x5mm_Pitch0.65mm.pretty
+	url = https://github.com/kicad-rleh/DFN-12-2EP_3.3x5mm_Pitch0.65mm.pretty
+[submodule "kicad-rleh/WCSP-8_1.6x1.6mm_P0.5mm.pretty"]
+	path = kicad-rleh/WCSP-8_1.6x1.6mm_P0.5mm.pretty
+	url = https://github.com/kicad-rleh/WCSP-8_1.6x1.6mm_P0.5mm.pretty
