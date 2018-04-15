@@ -1339,3 +1339,6 @@
 [submodule "kicad-rleh/WCSP-8_1.6x1.6mm_P0.5mm.pretty"]
 	path = kicad-rleh/WCSP-8_1.6x1.6mm_P0.5mm.pretty
 	url = https://github.com/kicad-rleh/WCSP-8_1.6x1.6mm_P0.5mm.pretty
+[submodule "JoanTheSpark/KiCAD"]
+	path = JoanTheSpark/KiCAD
+	url = https://github.com/JoanTheSpark/KiCAD
