@@ -544,9 +544,6 @@
 [submodule "HiZLabs/KiCad_Footprints.pretty"]
 	path = HiZLabs/KiCad_Footprints.pretty
 	url = https://github.com/HiZLabs/KiCad_Footprints.pretty.git
-[submodule "chriswags/KiCad_mods.pretty"]
-	path = chriswags/KiCad_mods.pretty
-	url = https://github.com/chriswags/KiCad_mods.pretty.git
 [submodule "tommueller/KiCAD-SDIY.pretty"]
 	path = tommueller/KiCAD-SDIY.pretty
 	url = https://github.com/tommueller/KiCAD-SDIY.pretty.git
@@ -1075,9 +1072,6 @@
 [submodule "TheronRogers/Guitar.pretty"]
 	path = TheronRogers/Guitar.pretty
 	url = https://github.com/TheronRogers/Guitar.pretty
-[submodule "albymor/Personal_Kicad_Library.pretty"]
-	path = albymor/Personal_Kicad_Library.pretty
-	url = https://github.com/albymor/Personal_Kicad_Library.pretty
 [submodule "Drc3p0/Prototyping_Workshop"]
 	path = Drc3p0/Prototyping_Workshop
 	url = https://github.com/Drc3p0/Prototyping_Workshop
@@ -1342,3 +1336,6 @@
 [submodule "JoanTheSpark/KiCAD"]
 	path = JoanTheSpark/KiCAD
 	url = https://github.com/JoanTheSpark/KiCAD
+[submodule "chriswags/KiCad"]
+	path = chriswags/KiCad
+	url = https://github.com/chriswags/KiCad
