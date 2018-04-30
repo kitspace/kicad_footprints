@@ -1339,3 +1339,42 @@
 [submodule "chriswags/KiCad"]
 	path = chriswags/KiCad
 	url = https://github.com/chriswags/KiCad
+[submodule "blackb3ar/kicadprints.pretty"]
+	path = blackb3ar/kicadprints.pretty
+	url = https://github.com/blackb3ar/kicadprints.pretty
+[submodule "tmandic/HCBT_Aclass.pretty"]
+	path = tmandic/HCBT_Aclass.pretty
+	url = https://github.com/tmandic/HCBT_Aclass.pretty
+[submodule "cmos-droner/KiCAD-SDIY.pretty"]
+	path = cmos-droner/KiCAD-SDIY.pretty
+	url = https://github.com/cmos-droner/KiCAD-SDIY.pretty
+[submodule "imuli/Connectors_Anderson.pretty"]
+	path = imuli/Connectors_Anderson.pretty
+	url = https://github.com/imuli/Connectors_Anderson.pretty
+[submodule "PCSmithy/ESP32-footprints-Lib.pretty"]
+	path = PCSmithy/ESP32-footprints-Lib.pretty
+	url = https://github.com/PCSmithy/ESP32-footprints-Lib.pretty
+[submodule "PCSmithy/Capstone_FP.pretty"]
+	path = PCSmithy/Capstone_FP.pretty
+	url = https://github.com/PCSmithy/Capstone_FP.pretty
+[submodule "daprice/keyswitches.pretty"]
+	path = daprice/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
+[submodule "PCSmithy/CL-SB-12B.pretty"]
+	path = PCSmithy/CL-SB-12B.pretty
+	url = https://github.com/PCSmithy/CL-SB-12B.pretty
+[submodule "daprice/keyboard_accessories.pretty"]
+	path = daprice/keyboard_accessories.pretty
+	url = https://github.com/daprice/keyboard_accessories.pretty
+[submodule "PCSmithy/SF_JCA10.pretty"]
+	path = PCSmithy/SF_JCA10.pretty
+	url = https://github.com/PCSmithy/SF_JCA10.pretty
+[submodule "PCSmithy/phoenix_push_term_block.pretty"]
+	path = PCSmithy/phoenix_push_term_block.pretty
+	url = https://github.com/PCSmithy/phoenix_push_term_block.pretty
+[submodule "PCSmithy/DB15_Female_Right_Angle.pretty"]
+	path = PCSmithy/DB15_Female_Right_Angle.pretty
+	url = https://github.com/PCSmithy/DB15_Female_Right_Angle.pretty
+[submodule "Junes-PhD/kicad_arbitrary_pad_example"]
+	path = Junes-PhD/kicad_arbitrary_pad_example
+	url = https://github.com/Junes-PhD/kicad_arbitrary_pad_example
