@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 set -eu
 
 max_parallel_tasks=10
@@ -7,4 +7,4 @@ max_parallel_tasks=10
 export GIT_ASKPASS=/bin/echo
 
 git submodule | awk '{ print $2 }' \
-  | xargs -I'{}' -P$max_parallel_tasks sh check.sh {}
+  | xargs -I'{}' -P$max_parallel_tasks bash check.sh {}
