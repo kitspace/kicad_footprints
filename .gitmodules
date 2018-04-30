@@ -982,9 +982,6 @@
 [submodule "UofSSpaceDesignTeam/USST-footprints.pretty"]
 	path = UofSSpaceDesignTeam/USST-footprints.pretty
 	url = https://github.com/UofSSpaceDesignTeam/USST-footprints.pretty
-[submodule "esden/pretty-kicad-libs"]
-	path = esden/pretty-kicad-libs
-	url = https://github.com/esden/pretty-kicad-libs
 [submodule "ContextualElectronics/CE_KiCadLib"]
 	path = ContextualElectronics/CE_KiCadLib
 	url = https://github.com/ContextualElectronics/CE_KiCadLib
