@@ -955,15 +955,6 @@
 [submodule "hairymnstr/Nathan_SMT_Other.pretty"]
 	path = hairymnstr/Nathan_SMT_Other.pretty
 	url = https://github.com/hairymnstr/Nathan_SMT_Other.pretty.git
-[submodule "f4grx/f4libs_modules.pretty"]
-	path = f4grx/f4libs_modules.pretty
-	url = https://github.com/f4grx/f4libs_modules.pretty.git
-[submodule "f4grx/f4libs_th.pretty"]
-	path = f4grx/f4libs_th.pretty
-	url = https://github.com/f4grx/f4libs_th.pretty.git
-[submodule "f4grx/f4libs_smd.pretty"]
-	path = f4grx/f4libs_smd.pretty
-	url = https://github.com/f4grx/f4libs_smd.pretty.git
 [submodule "s-light/CONN_RJ45_MagJack_POEp.pretty"]
 	path = s-light/CONN_RJ45_MagJack_POEp.pretty
 	url = https://github.com/s-light/CONN_RJ45_MagJack_POEp.pretty.git
