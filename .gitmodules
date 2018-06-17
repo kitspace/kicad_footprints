@@ -1264,9 +1264,6 @@
 [submodule "antonchromjak/kicad_subory.pretty"]
 	path = antonchromjak/kicad_subory.pretty
 	url = https://github.com/antonchromjak/kicad_subory.pretty
-[submodule "keebio/Keebio-Parts.pretty"]
-	path = keebio/Keebio-Parts.pretty
-	url = https://github.com/keebio/Keebio-Parts.pretty
 [submodule "d3philip/kicadprints.pretty"]
 	path = d3philip/kicadprints.pretty
 	url = https://github.com/d3philip/kicadprints.pretty
