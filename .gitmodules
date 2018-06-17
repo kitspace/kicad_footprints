@@ -862,9 +862,6 @@
 [submodule "rdeterre/misc.pretty"]
 	path = rdeterre/misc.pretty
 	url = https://github.com/rdeterre/misc.pretty.git
-[submodule "konspyre/Cherry-MX1A.pretty"]
-	path = konspyre/Cherry-MX1A.pretty
-	url = https://github.com/konspyre/Cherry-MX1A.pretty.git
 [submodule "NorbotNorway/NorBotKiCadFootprints.pretty"]
 	path = NorbotNorway/NorBotKiCadFootprints.pretty
 	url = https://github.com/NorbotNorway/NorBotKiCadFootprints.pretty.git
@@ -1378,3 +1375,6 @@
 [submodule "Junes-PhD/kicad_arbitrary_pad_example"]
 	path = Junes-PhD/kicad_arbitrary_pad_example
 	url = https://github.com/Junes-PhD/kicad_arbitrary_pad_example
+[submodule "konspyre/kicad-footprints"]
+	path = konspyre/kicad-footprints
+	url = https://github.com/konspyre/kicad-footprints
