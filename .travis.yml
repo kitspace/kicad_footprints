@@ -14,6 +14,7 @@ matrix:
         - os: osx
           env: LOAD_INTO_KICAD=false
 script:
+  - while [ 1 ]; do echo "keeping travis alive"; sleep 540; done &
   - ./init
   - ./update
   - if $LOAD_INTO_KICAD; then PYTHONPATH=/usr/lib/python2.7/dist-packages python load_all.py; fi
