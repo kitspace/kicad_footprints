@@ -1093,9 +1093,6 @@
 [submodule "vargavik/Sajat.pretty"]
 	path = vargavik/Sajat.pretty
 	url = https://github.com/vargavik/Sajat.pretty
-[submodule "LosNarfos/cosi.pretty"]
-	path = LosNarfos/cosi.pretty
-	url = https://github.com/LosNarfos/cosi.pretty
 [submodule "bveenema/USB.pretty"]
 	path = bveenema/USB.pretty
 	url = https://github.com/bveenema/USB.pretty
@@ -1369,3 +1366,6 @@
 [submodule "konspyre/kicad-footprints"]
 	path = konspyre/kicad-footprints
 	url = https://github.com/konspyre/kicad-footprints
+[submodule "LosNarfos/Kicad_Libraries"]
+	path = LosNarfos/Kicad_Libraries
+	url = https://github.com/LosNarfos/Kicad_Libraries
