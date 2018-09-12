@@ -1,11 +1,10 @@
-# KiCAD footprint collection [![][travis-svg]][travis]
-This is a collection of all the KiCAD footprints I know of. If you know of any more, please let me know!
+# KiCad footprint collection [![][travis-svg]][travis]
+This is a collection of all the KiCad footprints I know of. If you know of any more, please let me know!
 All the official libraries are included in the `KiCad/` sub-directory.
 
-These are fairly regularily checked with [Travis CI][travis] to make sure KiCAD can load them.
+These are fairly regularily checked with [Travis CI][travis] to make sure KiCad can load them.
 
-Personally I use this with the footprint search that has been merged into the development (master) branch of KiCAD.
-
+Personally I use this with the footprint search in KiCad 5.
 ![](screenshot.png)
 
 This repo uses git submodules.
@@ -17,12 +16,12 @@ This is useful as you can easily keep a local copy of all the libraries, freeze 
 ### Initialization
 
 
-    git clone --branch stable https://github.com/monostable/kicad_footprints
+    git clone --branch kicad-5 https://github.com/monostable/kicad_footprints
     cd kicad_footprints && ./init
 
 This downloads all the libraries in parallel but it can still take a while.
 
-If you use a KiCAD nightly or development version you will get a few more footprints if you switch to the master branch:
+If you are stuck on KiCad version 4 you can replace `kicad-5` with `kicad-4` in the above, the `kicad-4` branch is not being updated though. If you use a KiCad nightly or development version you may get a few more footprints if you switch to the master branch:
 
     git checkout master && ./init
 
@@ -40,7 +39,7 @@ If you want to pull in any libraries that have been added since your initial clo
 
 ### Registering with KiCAD
 
-You can add these libraries manually through the KiCAD GUI of course. 
+You can add these libraries manually through the KiCAD GUI of course.
 You could also use `generate_table` to generate an fp-lib-table, the file KiCAD uses as a footprint registry, with all the footprints from this repository.
 You can use this to replace your existing fp-lib-table.
 You will need to restart KiCAD for this change to take effect.
