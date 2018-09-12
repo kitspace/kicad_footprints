@@ -1369,3 +1369,24 @@
 [submodule "LosNarfos/Kicad_Libraries"]
 	path = LosNarfos/Kicad_Libraries
 	url = https://github.com/LosNarfos/Kicad_Libraries
+[submodule "4ms/4ms-kicad-lib"]
+	path = 4ms/4ms-kicad-lib
+	url = https://github.com/4ms/4ms-kicad-lib
+[submodule "tristan-smith/HA_KicadLibraries"]
+	path = tristan-smith/HA_KicadLibraries
+	url = https://github.com/tristan-smith/HA_KicadLibraries
+[submodule "russellmcc/russell_kicad"]
+	path = russellmcc/russell_kicad
+	url = https://github.com/russellmcc/russell_kicad
+[submodule "russellmcc/eurorack_kicad"]
+	path = russellmcc/eurorack_kicad
+	url = https://github.com/russellmcc/eurorack_kicad/
+[submodule "recursinging/kxmx"]
+	path = recursinging/kxmx
+	url = https://github.com/recursinging/kxmx/
+[submodule "nebs/eurocad"]
+	path = nebs/eurocad
+	url = https://github.com/nebs/eurocad/
+[submodule "peekpt/kicad_smisioto"]
+	path = peekpt/kicad_smisioto
+	url = https://github.com/peekpt/kicad_smisioto
