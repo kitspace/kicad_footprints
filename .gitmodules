@@ -1390,3 +1390,60 @@
 [submodule "peekpt/kicad_smisioto"]
 	path = peekpt/kicad_smisioto
 	url = https://github.com/peekpt/kicad_smisioto
+[submodule "candykingdom/homebrew.pretty"]
+	path = candykingdom/homebrew.pretty
+	url = https://github.com/candykingdom/homebrew.pretty
+[submodule "farizno/KicadFootprints.pretty"]
+	path = farizno/KicadFootprints.pretty
+	url = https://github.com/farizno/KicadFootprints.pretty
+[submodule "mkudlacek/Inductors_Bourns.pretty"]
+	path = mkudlacek/Inductors_Bourns.pretty
+	url = https://github.com/mkudlacek/Inductors_Bourns.pretty
+[submodule "dqmcdonald/DQM_kicad_new.pretty"]
+	path = dqmcdonald/DQM_kicad_new.pretty
+	url = https://github.com/dqmcdonald/DQM_kicad_new.pretty
+[submodule "PCSmithy/MCX.pretty"]
+	path = PCSmithy/MCX.pretty
+	url = https://github.com/PCSmithy/MCX.pretty
+[submodule "CarnivalBen/custom-kicadlib.pretty"]
+	path = CarnivalBen/custom-kicadlib.pretty
+	url = https://github.com/CarnivalBen/custom-kicadlib.pretty
+[submodule "fredoh3uu0w/Kicad_CFPT.pretty"]
+	path = fredoh3uu0w/Kicad_CFPT.pretty
+	url = https://github.com/fredoh3uu0w/Kicad_CFPT.pretty
+[submodule "sergiu46/KiCadParts.pretty"]
+	path = sergiu46/KiCadParts.pretty
+	url = https://github.com/sergiu46/KiCadParts.pretty
+[submodule "AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty"]
+	path = AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
+	url = https://github.com/AkiyukiOkayasu/Kicad_Akiyuki_Footprint.pretty
+[submodule "PCSmithy/744272471.pretty"]
+	path = PCSmithy/744272471.pretty
+	url = https://github.com/PCSmithy/744272471.pretty
+[submodule "nickgagnon/Kicad_footprint.pretty"]
+	path = nickgagnon/Kicad_footprint.pretty
+	url = https://github.com/nickgagnon/Kicad_footprint.pretty
+[submodule "PCSmithy/PA4332_222NLT.pretty"]
+	path = PCSmithy/PA4332_222NLT.pretty
+	url = https://github.com/PCSmithy/PA4332_222NLT.pretty
+[submodule "aaronw2/Torex_Semi.pretty"]
+	path = aaronw2/Torex_Semi.pretty
+	url = https://github.com/aaronw2/Torex_Semi.pretty
+[submodule "PCSmithy/logos.pretty"]
+	path = PCSmithy/logos.pretty
+	url = https://github.com/PCSmithy/logos.pretty
+[submodule "PCSmithy/custom.pretty"]
+	path = PCSmithy/custom.pretty
+	url = https://github.com/PCSmithy/custom.pretty
+[submodule "PCSmithy/PCB_Banana_Jack.pretty"]
+	path = PCSmithy/PCB_Banana_Jack.pretty
+	url = https://github.com/PCSmithy/PCB_Banana_Jack.pretty
+[submodule "haru-ake/millmax-mxalps.pretty"]
+	path = haru-ake/millmax-mxalps.pretty
+	url = https://github.com/haru-ake/millmax-mxalps.pretty
+[submodule "PCSmithy/CAS-D20TA.pretty"]
+	path = PCSmithy/CAS-D20TA.pretty
+	url = https://github.com/PCSmithy/CAS-D20TA.pretty
+[submodule "PCSmithy/S8411-45R.pretty"]
+	path = PCSmithy/S8411-45R.pretty
+	url = https://github.com/PCSmithy/S8411-45R.pretty
