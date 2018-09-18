@@ -16,7 +16,7 @@ This is useful as you can easily keep a local copy of all the libraries, freeze 
 ### Initialization
 
 
-    git clone --branch kicad-5 https://github.com/monostable/kicad_footprints
+    git clone --branch kicad-5 https://github.com/kitspace/kicad_footprints
     cd kicad_footprints && ./init
 
 This downloads all the libraries in parallel but it can still take a while.
@@ -61,7 +61,7 @@ You will need to restart KiCAD for this change to take effect.
 
 ### Adding submodules
 
-If you know of any KiCAD footprint repositories that have not been added please [file an issue](https://github.com/monostable/kicad_footprints/issues) and I will add them.
+If you know of any KiCAD footprint repositories that have not been added please [file an issue](https://github.com/kitspace/kicad_footprints/issues) and I will add them.
 
 If you want to maintain a private fork of this repository with some private submodules you can add them simply by:
 
@@ -76,5 +76,5 @@ They should work fine with the rest of the scripts once they are added.
 
 Any scripts in this repository are MIT licensed. All the footprints have their own licenses of course.
 
-[travis-svg]: https://api.travis-ci.org/monostable/kicad_footprints.svg?branch=stable
-[travis]: https://travis-ci.org/monostable/kicad_footprints
+[travis-svg]: https://api.travis-ci.org/kitspace/kicad_footprints.svg?branch=kicad-5
+[travis]: https://travis-ci.org/kitspace/kicad_footprints
