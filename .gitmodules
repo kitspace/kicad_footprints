@@ -1426,3 +1426,63 @@
 [submodule "PCSmithy/S8411-45R.pretty"]
 	path = PCSmithy/S8411-45R.pretty
 	url = https://github.com/PCSmithy/S8411-45R.pretty
+[submodule "ai03-2725/random-keyboard-parts.pretty"]
+	path = ai03-2725/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "Icenowy/KiCad_Ingress_Biocard.pretty"]
+	path = Icenowy/KiCad_Ingress_Biocard.pretty
+	url = https://github.com/Icenowy/KiCad_Ingress_Biocard.pretty
+[submodule "mvbasov/MVB.pretty"]
+	path = mvbasov/MVB.pretty
+	url = https://github.com/mvbasov/MVB.pretty
+[submodule "av-p/Avp.pretty"]
+	path = av-p/Avp.pretty
+	url = https://github.com/av-p/Avp.pretty
+[submodule "gutierrezps/gtrzps.pretty"]
+	path = gutierrezps/gtrzps.pretty
+	url = https://github.com/gutierrezps/gtrzps.pretty
+[submodule "basepr1me/baseprime.pretty"]
+	path = basepr1me/baseprime.pretty
+	url = https://github.com/basepr1me/baseprime.pretty
+[submodule "t369e/pcbparts.pretty"]
+	path = t369e/pcbparts.pretty
+	url = https://github.com/t369e/pcbparts.pretty
+[submodule "bsakatu/kicad_parts_bsakatu.pretty"]
+	path = bsakatu/kicad_parts_bsakatu.pretty
+	url = https://github.com/bsakatu/kicad_parts_bsakatu.pretty
+[submodule "kubiX89/kiCAD.pretty"]
+	path = kubiX89/kiCAD.pretty
+	url = https://github.com/kubiX89/kiCAD.pretty
+[submodule "rigidus/kicad_my_library.pretty"]
+	path = rigidus/kicad_my_library.pretty
+	url = https://github.com/rigidus/kicad_my_library.pretty
+[submodule "mitaroThanken/Connector_Audio_Mod.pretty"]
+	path = mitaroThanken/Connector_Audio_Mod.pretty
+	url = https://github.com/mitaroThanken/Connector_Audio_Mod.pretty
+[submodule "FateNozomi/Fate_Parts.pretty"]
+	path = FateNozomi/Fate_Parts.pretty
+	url = https://github.com/FateNozomi/Fate_Parts.pretty
+[submodule "Dygmalab/raise_fp.pretty"]
+	path = Dygmalab/raise_fp.pretty
+	url = https://github.com/Dygmalab/raise_fp.pretty
+[submodule "ka2hiro/kagizaraya-parts.pretty"]
+	path = ka2hiro/kagizaraya-parts.pretty
+	url = https://github.com/ka2hiro/kagizaraya-parts.pretty
+[submodule "GodenX/KiCAD_MyLib.pretty"]
+	path = GodenX/KiCAD_MyLib.pretty
+	url = https://github.com/GodenX/KiCAD_MyLib.pretty
+[submodule "angustrau/MHS_Robotics.pretty"]
+	path = angustrau/MHS_Robotics.pretty
+	url = https://github.com/angustrau/MHS_Robotics.pretty
+[submodule "PCSmithy/G6B-2114-DC12_FP.pretty"]
+	path = PCSmithy/G6B-2114-DC12_FP.pretty
+	url = https://github.com/PCSmithy/G6B-2114-DC12_FP.pretty
+[submodule "johslarsen/Power_Module_SMD_Cyntec_MUN12AD.pretty"]
+	path = johslarsen/Power_Module_SMD_Cyntec_MUN12AD.pretty
+	url = https://github.com/johslarsen/Power_Module_SMD_Cyntec_MUN12AD.pretty
+[submodule "WurthElectronics/Transformers_WurthElektronik.pretty"]
+	path = WurthElectronics/Transformers_WurthElektronik.pretty
+	url = https://github.com/WurthElectronics/Transformers_WurthElektronik.pretty
+[submodule "gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty"]
+	path = gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
+	url = https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
