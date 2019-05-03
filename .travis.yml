@@ -1,3 +1,4 @@
+dist: xenial
 git:
   submodules: false
 language: generic
