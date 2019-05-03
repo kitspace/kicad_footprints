@@ -1,4 +1,3 @@
-dist: xenial
 git:
   submodules: false
 language: generic
@@ -6,7 +5,7 @@ matrix:
     include:
         - os: linux
           sudo: required
-          dist: trusty
+          dist: xenial
           env: LOAD_INTO_KICAD=true
           before_install:
             - sudo add-apt-repository ppa:js-reynaud/kicad-5.1 -y
