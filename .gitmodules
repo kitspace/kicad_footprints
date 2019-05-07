@@ -1444,9 +1444,6 @@
 [submodule "basepr1me/baseprime.pretty"]
 	path = basepr1me/baseprime.pretty
 	url = https://github.com/basepr1me/baseprime.pretty
-[submodule "t369e/pcbparts.pretty"]
-	path = t369e/pcbparts.pretty
-	url = https://github.com/t369e/pcbparts.pretty
 [submodule "bsakatu/kicad_parts_bsakatu.pretty"]
 	path = bsakatu/kicad_parts_bsakatu.pretty
 	url = https://github.com/bsakatu/kicad_parts_bsakatu.pretty
@@ -1474,9 +1471,6 @@
 [submodule "angustrau/MHS_Robotics.pretty"]
 	path = angustrau/MHS_Robotics.pretty
 	url = https://github.com/angustrau/MHS_Robotics.pretty
-[submodule "PCSmithy/G6B-2114-DC12_FP.pretty"]
-	path = PCSmithy/G6B-2114-DC12_FP.pretty
-	url = https://github.com/PCSmithy/G6B-2114-DC12_FP.pretty
 [submodule "johslarsen/Power_Module_SMD_Cyntec_MUN12AD.pretty"]
 	path = johslarsen/Power_Module_SMD_Cyntec_MUN12AD.pretty
 	url = https://github.com/johslarsen/Power_Module_SMD_Cyntec_MUN12AD.pretty

@@ -19,4 +19,5 @@ for dirname, dirnames, filenames in os.walk('./'):
 src_plugin = pcbnew.IO_MGR.PluginFind(1)
 
 for libpath in pretties:
+    print('Loading ' + libpath)
     list_of_footprints = src_plugin.FootprintEnumerate(libpath)
