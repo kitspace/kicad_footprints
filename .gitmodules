@@ -1153,6 +1153,9 @@
 [submodule "digikey/digikey-kicad-library"]
 	path = digikey/digikey-kicad-library
 	url = https://github.com/digikey/digikey-kicad-library
+[submodule "digikey/digikey-partner-kicad-library"]
+	path = digikey/digikey-partner-kicad-library
+	url = https://github.com/digikey/digikey-partner-kicad-library
 [submodule "PCSmithy/NeoPixel_FP.pretty"]
 	path = PCSmithy/NeoPixel_FP.pretty
 	url = https://github.com/PCSmithy/NeoPixel_FP.pretty
