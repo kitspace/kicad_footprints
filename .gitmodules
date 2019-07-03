@@ -793,9 +793,6 @@
 [submodule "rocketman768/nu9j-footprints.pretty"]
 	path = rocketman768/nu9j-footprints.pretty
 	url = https://github.com/rocketman768/nu9j-footprints.pretty.git
-[submodule "SchrodingersGat/Components.pretty"]
-	path = SchrodingersGat/Components.pretty
-	url = https://github.com/SchrodingersGat/Components.pretty.git
 [submodule "hairymnstr/Nathan_SMT_Conn.pretty"]
 	path = hairymnstr/Nathan_SMT_Conn.pretty
 	url = https://github.com/hairymnstr/Nathan_SMT_Conn.pretty.git
