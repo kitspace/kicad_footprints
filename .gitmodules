@@ -1054,9 +1054,6 @@
 [submodule "kicad-rleh/D-Sub-HD.pretty"]
 	path = kicad-rleh/D-Sub-HD.pretty
 	url = https://github.com/kicad-rleh/D-Sub-HD.pretty
-[submodule "Toroid-io/toroid-kicad.pretty"]
-	path = Toroid-io/toroid-kicad.pretty
-	url = https://github.com/Toroid-io/toroid-kicad.pretty
 [submodule "UofSSpaceTeam/USST-footprints.pretty"]
 	path = UofSSpaceTeam/USST-footprints.pretty
 	url = https://github.com/UofSSpaceTeam/USST-footprints.pretty
