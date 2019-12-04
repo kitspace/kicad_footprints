@@ -1435,9 +1435,6 @@
 [submodule "gutierrezps/gtrzps.pretty"]
 	path = gutierrezps/gtrzps.pretty
 	url = https://github.com/gutierrezps/gtrzps.pretty
-[submodule "basepr1me/baseprime.pretty"]
-	path = basepr1me/baseprime.pretty
-	url = https://github.com/basepr1me/baseprime.pretty
 [submodule "bsakatu/kicad_parts_bsakatu.pretty"]
 	path = bsakatu/kicad_parts_bsakatu.pretty
 	url = https://github.com/bsakatu/kicad_parts_bsakatu.pretty
