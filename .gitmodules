@@ -1474,6 +1474,3 @@
 [submodule "t369e/pcbparts.pretty"]
 	path = t369e/pcbparts.pretty
 	url = https://github.com/t369e/pcbparts.pretty
-[submodule "PCSmithy/G6B-2114-DC12_FP.pretty"]
-	path = PCSmithy/G6B-2114-DC12_FP.pretty
-	url = https://github.com/PCSmithy/G6B-2114-DC12_FP.pretty
