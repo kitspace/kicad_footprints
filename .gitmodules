@@ -1030,9 +1030,6 @@
 [submodule "axello/kicad"]
 	path = axello/kicad
 	url = https://github.com/axello/kicad
-[submodule "spoollord/baseprime.pretty"]
-	path = spoollord/baseprime.pretty
-	url = https://github.com/spoollord/baseprime.pretty
 [submodule "cschopfer/digipict-kicad-footprint.pretty"]
 	path = cschopfer/digipict-kicad-footprint.pretty
 	url = https://github.com/cschopfer/digipict-kicad-footprint.pretty
