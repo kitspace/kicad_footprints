@@ -1471,9 +1471,6 @@
 [submodule "gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty"]
 	path = gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
 	url = https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
-[submodule "t369e/pcbparts.pretty"]
-	path = t369e/pcbparts.pretty
-	url = https://github.com/t369e/pcbparts.pretty
 [submodule "arturo182/kicad-banana"]
 	path = arturo182/kicad-banana
 	url = https://github.com/arturo182/kicad-banana
