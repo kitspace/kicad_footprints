@@ -1474,3 +1474,6 @@
 [submodule "t369e/pcbparts.pretty"]
 	path = t369e/pcbparts.pretty
 	url = https://github.com/t369e/pcbparts.pretty
+[submodule "arturo182/kicad-banana"]
+	path = arturo182/kicad-banana
+	url = https://github.com/arturo182/kicad-banana
