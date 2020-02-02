@@ -9,8 +9,9 @@ matrix:
           env: LOAD_INTO_KICAD=true
           before_install:
             - sudo add-apt-repository ppa:js-reynaud/kicad-dev-nightly -y
+            - sudo add-apt-repository ppa:js-reynaud/kicad-5 -y
             - sudo apt-get update -q
-            - sudo apt-get install --no-install-recommends kicad-nightly -y
+            - sudo apt-get install --no-install-recommends kicad kicad-nightly -y
         - os: osx
           env: LOAD_INTO_KICAD=false
 script:
