@@ -1135,9 +1135,6 @@
 [submodule "Gijsco/Kicad_Footprint_Packages.pretty"]
 	path = Gijsco/Kicad_Footprint_Packages.pretty
 	url = https://github.com/Gijsco/Kicad_Footprint_Packages.pretty
-[submodule "Tiryoh/KiCad-lib.pretty"]
-	path = Tiryoh/KiCad-lib.pretty
-	url = https://github.com/Tiryoh/KiCad-lib.pretty
 [submodule "KiCad/kicad-footprints"]
 	path = KiCad/kicad-footprints
 	url = https://github.com/KiCad/kicad-footprints/
