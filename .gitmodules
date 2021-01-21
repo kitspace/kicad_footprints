@@ -1462,3 +1462,66 @@
 [submodule "gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty"]
 	path = gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
 	url = https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
+[submodule "Nathanjp91/NPFootprints.pretty"]
+	path = Nathanjp91/NPFootprints.pretty
+	url = https://github.com/Nathanjp91/NPFootprints.pretty
+[submodule "asukiaaa/my-kicad-footprints.pretty"]
+	path = asukiaaa/my-kicad-footprints.pretty
+	url = https://github.com/asukiaaa/my-kicad-footprints.pretty
+[submodule "AlasEyrd/nec.pretty"]
+	path = AlasEyrd/nec.pretty
+	url = https://github.com/AlasEyrd/nec.pretty
+[submodule "DonutCables/donutbrary.pretty"]
+	path = DonutCables/donutbrary.pretty
+	url = https://github.com/DonutCables/donutbrary.pretty
+[submodule "mhorimoto/HOLLY.pretty"]
+	path = mhorimoto/HOLLY.pretty
+	url = https://github.com/mhorimoto/HOLLY.pretty
+[submodule "vivitainc/KiCADfootprint.pretty"]
+	path = vivitainc/KiCADfootprint.pretty
+	url = https://github.com/vivitainc/KiCADfootprint.pretty
+[submodule "joem/jwm_kicad_footprints_misc.pretty"]
+	path = joem/jwm_kicad_footprints_misc.pretty
+	url = https://github.com/joem/jwm_kicad_footprints_misc.pretty
+[submodule "shelaf-dygma/raise_fp.pretty"]
+	path = shelaf-dygma/raise_fp.pretty
+	url = https://github.com/shelaf-dygma/raise_fp.pretty
+[submodule "DX-MON/rhais_package-qfn.pretty"]
+	path = DX-MON/rhais_package-qfn.pretty
+	url = https://github.com/DX-MON/rhais_package-qfn.pretty
+[submodule "DX-MON/rhais_usb.pretty"]
+	path = DX-MON/rhais_usb.pretty
+	url = https://github.com/DX-MON/rhais_usb.pretty
+[submodule "MechChurch/MechChurch-parts.pretty"]
+	path = MechChurch/MechChurch-parts.pretty
+	url = https://github.com/MechChurch/MechChurch-parts.pretty
+[submodule "dchwebb/Custom_Footprints.pretty"]
+	path = dchwebb/Custom_Footprints.pretty
+	url = https://github.com/dchwebb/Custom_Footprints.pretty
+[submodule "garrettsworkshop/stdpads.pretty"]
+	path = garrettsworkshop/stdpads.pretty
+	url = https://github.com/garrettsworkshop/stdpads.pretty
+[submodule "DX-MON/rhais_package-smd.pretty"]
+	path = DX-MON/rhais_package-smd.pretty
+	url = https://github.com/DX-MON/rhais_package-smd.pretty
+[submodule "aaarsene/MX_19mm.pretty"]
+	path = aaarsene/MX_19mm.pretty
+	url = https://github.com/aaarsene/MX_19mm.pretty
+[submodule "barafael/sdp8xx.pretty"]
+	path = barafael/sdp8xx.pretty
+	url = https://github.com/barafael/sdp8xx.pretty
+[submodule "DX-MON/rhais_led.pretty"]
+	path = DX-MON/rhais_led.pretty
+	url = https://github.com/DX-MON/rhais_led.pretty
+[submodule "DX-MON/rhais_osc.pretty"]
+	path = DX-MON/rhais_osc.pretty
+	url = https://github.com/DX-MON/rhais_osc.pretty
+[submodule "DX-MON/rhais_button-smd.pretty"]
+	path = DX-MON/rhais_button-smd.pretty
+	url = https://github.com/DX-MON/rhais_button-smd.pretty
+[submodule "DX-MON/rhais_rcl.pretty"]
+	path = DX-MON/rhais_rcl.pretty
+	url = https://github.com/DX-MON/rhais_rcl.pretty
+[submodule "AlasEyrd/hitek725.pretty"]
+	path = AlasEyrd/hitek725.pretty
+	url = https://github.com/AlasEyrd/hitek725.pretty

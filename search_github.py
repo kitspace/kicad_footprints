@@ -3,15 +3,20 @@ import json
 import math
 import subprocess
 import time
-import urllib2
 import os
+import sys
+
+if sys.version_info[0] < 3:
+    from urllib2 import urlopen
+else:
+    from urllib.request import urlopen
 
 PAGE_SIZE = 100
 TERM = 'pretty+kicad'
 
 def query(term, page):
     url = 'https://api.github.com/search/repositories?q={}&page={}&per_page={}'.format(term, page, PAGE_SIZE)
-    data = urllib2.urlopen(url).read()
+    data = urlopen(url).read()
     return json.loads(data)
 
 print('searching github for "{}"'.format(TERM))
