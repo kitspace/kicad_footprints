@@ -511,9 +511,6 @@
 [submodule "ruriwo/KiCad_Switches.pretty"]
 	path = ruriwo/KiCad_Switches.pretty
 	url = https://github.com/ruriwo/KiCad_Switches.pretty.git
-[submodule "GSMCustomEffects/kicad_other_footprint.pretty"]
-	path = GSMCustomEffects/kicad_other_footprint.pretty
-	url = https://github.com/GSMCustomEffects/kicad_other_footprint.pretty.git
 [submodule "samdolt/kicad-fp.pretty"]
 	path = samdolt/kicad-fp.pretty
 	url = https://github.com/samdolt/kicad-fp.pretty.git
@@ -1447,9 +1444,6 @@
 [submodule "FateNozomi/Fate_Parts.pretty"]
 	path = FateNozomi/Fate_Parts.pretty
 	url = https://github.com/FateNozomi/Fate_Parts.pretty
-[submodule "Dygmalab/raise_fp.pretty"]
-	path = Dygmalab/raise_fp.pretty
-	url = https://github.com/Dygmalab/raise_fp.pretty
 [submodule "ka2hiro/kagizaraya-parts.pretty"]
 	path = ka2hiro/kagizaraya-parts.pretty
 	url = https://github.com/ka2hiro/kagizaraya-parts.pretty
