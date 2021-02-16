@@ -1237,9 +1237,6 @@
 [submodule "ASoftTech/CAD.KiCad.Libs"]
 	path = ASoftTech/CAD.KiCad.Libs
 	url = https://github.com/ASoftTech/CAD.KiCad.Libs
-[submodule "liubenyuan/kicad-xeit"]
-	path = liubenyuan/kicad-xeit
-	url = https://github.com/liubenyuan/kicad-xeit
 [submodule "wykys/kicad"]
 	path = wykys/kicad
 	url = https://github.com/wykys/kicad
