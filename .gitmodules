@@ -370,9 +370,6 @@
 [submodule "coredump-ch/particle.pretty"]
 	path = coredump-ch/particle.pretty
 	url = https://github.com/coredump-ch/particle.pretty.git
-[submodule "myelin/myelin-kicad.pretty"]
-	path = myelin/myelin-kicad.pretty
-	url = https://github.com/myelin/myelin-kicad.pretty.git
 [submodule "rohbotics/IPC7351-Nominal.pretty"]
 	path = rohbotics/IPC7351-Nominal.pretty
 	url = https://github.com/rohbotics/IPC7351-Nominal.pretty.git
@@ -1522,3 +1519,6 @@
 [submodule "AlasEyrd/hitek725.pretty"]
 	path = AlasEyrd/hitek725.pretty
 	url = https://github.com/AlasEyrd/hitek725.pretty
+[submodule "myelin/myelin-kicad.pretty"]
+	path = myelin/myelin-kicad.pretty
+	url = https://github.com/myelin/myelin-kicad.pretty
