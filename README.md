@@ -1,8 +1,9 @@
 # KiCad footprint collection
-This is a collection of all the KiCad footprints I know of. If you know of any more, please let me know!
-All the official libraries are included in the `KiCad/` sub-directory.
 
-These are regularily checked with [the Github Action workflow](.github/workflows/load_into_kicad.yml) to make sure KiCad can load them. Personally I use this with the footprint search in KiCad.
+- This is a collection of all the KiCad footprints I know of. If you know of any more, please let me know! (Ideally by opening a pull-request or at least an issue on this repo.)
+- These footprints are regularily checked with [the Github Action workflow](.github/workflows/load_into_kicad.yml) to make sure KiCad can load them.
+- After you [Register them with KiCad](#registering-with-kicad) you can use the footprint filter in the footprint assignment tool to find what you want.
+
 ![](screenshot.png)
 
 This repo uses git submodules.
@@ -40,10 +41,13 @@ You could also use `generate_table` to generate an fp-lib-table, the file KiCad 
 You can use this to replace your existing fp-lib-table.
 You will need to restart KiCad for this change to take effect.
 
+_Warning: This will overwrite your existing fp-lib-table, discard any customization you made to it and also switch to using our copy of the "official" libraries included with KiCad (these arehenceforth prefixed with `KiCad/`). In our instructions below we make a backup copy of the fp-lib-table so can restore it if you need to._
+
 #### Linux
 
     cp ~/.config/kicad/6.0/fp-lib-table ~/.config/kicad/6.0/fp-lib-table.backup
     ./generate_table ~/.config/kicad/6.0/fp-lib-table
+
 
 #### Mac OS
 
@@ -54,6 +58,23 @@ You will need to restart KiCad for this change to take effect.
 
     cp ~/AppData/Roaming/kicad/6.0/fp-lib-table ~/AppData/Roaming/kicad/6.0/fp-lib-table.backup
     ./generate_table ~/AppData/Roaming/kicad/6.0/fp-lib-table
+
+#### Restoring original
+
+If you don't like the new way of organising footprint libs and want to restore your original fp-lib-table:
+
+##### Linux
+
+    cp ~/.config/kicad/6.0/fp-lib-table.backup ~/.config/kicad/6.0/fp-lib-table
+
+##### Mac OS
+
+    cp ~/Library/Preferences/kicad/6.0/fp-lib-table.backup ~/Library/Preferences/kicad/6.0/fp-lib-table
+
+##### Windows
+
+    cp ~/AppData/Roaming/kicad/6.0/fp-lib-table.backup ~/AppData/Roaming/kicad/6.0/fp-lib-table
+
 
 ### Adding submodules
 
