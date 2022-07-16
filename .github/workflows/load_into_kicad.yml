@@ -1,6 +1,8 @@
 name: Load into KiCad
 
 on:
+  # runs on push to every branch
+  push:
   # runs every monday at 6:21 UTC+0
   schedule:
     - cron: '21 6 * * MON'
