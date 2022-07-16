@@ -1708,3 +1708,6 @@
 [submodule "espressif/kicad-libraries"]
 	path = espressif/kicad-libraries
 	url = https://github.com/espressif/kicad-libraries
+[submodule "Seeed-Studio/OPL_Kicad_Library"]
+	path = Seeed-Studio/OPL_Kicad_Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
