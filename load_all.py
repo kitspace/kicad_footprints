@@ -1,9 +1,5 @@
 import pcbnew
-import sys
 import os
-
-reload(sys)
-sys.setdefaultencoding('utf8')
 
 pretties = []
 for dirname, dirnames, filenames in os.walk('./'):

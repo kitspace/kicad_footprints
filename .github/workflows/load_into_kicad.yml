@@ -1,0 +1,20 @@
+name: Load into KiCad
+
+on:
+  # runs every monday at 6:21 UTC+0
+  schedule:
+    - cron: '21 6 * * MON'
+  # allow triggers via button click
+  workflow_dispatch:
+
+jobs:
+  load_into_kicad:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v2
+      - run: apt-get update -qq
+      - run: apt-get install -qq -y software-properties-common curl
+      - run: add-apt-repository -qq -y ppa:kicad/kicad-6.0-releases
+      - run: apt-get update -qq
+      - run: apt-get install -qq -y --no-install-recommends kicad
+      - run: python load_all.py

@@ -1,27 +1,25 @@
-# KiCad footprint collection [![][travis-svg]][travis]
+# KiCad footprint collection
 This is a collection of all the KiCad footprints I know of. If you know of any more, please let me know!
 All the official libraries are included in the `KiCad/` sub-directory.
 
-These are fairly regularily checked with [Travis CI][travis] to make sure KiCad can load them.
-
-Personally I use this with the footprint search in KiCad 5.
+These are regularily checked with [the Github Action workflow](.github/workflows/load_into_kicad.yml) to make sure KiCad can load them. Personally I use this with the footprint search in KiCad.
 ![](screenshot.png)
 
 This repo uses git submodules.
 A submodule is a way of including another git repo in your repo holding it at a particular version until you want to update it.
-This is useful as you can easily keep a local copy of all the libraries, freeze them and only update when you want to.
+This is useful as you can keep a local copy of all the libraries, freeze them and only update when you want to.
 
 ## Usage
 
 ### Initialization
 
 
-    git clone --branch kicad-5 https://github.com/kitspace/kicad_footprints
+    git clone https://github.com/kitspace/kicad_footprints
     cd kicad_footprints && ./init
 
 This downloads all the libraries in parallel but it can still take a while.
 
-If you are stuck on KiCad version 4 you can replace `kicad-5` with `kicad-4` in the above, the `kicad-4` branch is not being updated though. If you use a KiCad nightly or development version you may get a few more footprints if you switch to the master branch:
+If you are stuck on KiCad version 4 or version 5 can use the `kicad-5` with `kicad-4` branches. These are not being updated though.
 
     git checkout master && ./init
 
@@ -37,12 +35,12 @@ If you want to pull in any libraries that have been added since your initial clo
 
     git pull && ./init
 
-### Registering with KiCAD
+### Registering with KiCad
 
-You can add these libraries manually through the KiCAD GUI of course.
-You could also use `generate_table` to generate an fp-lib-table, the file KiCAD uses as a footprint registry, with all the footprints from this repository.
+You can add these libraries manually through the KiCad GUI of course.
+You could also use `generate_table` to generate an fp-lib-table, the file KiCad uses as a footprint registry, with all the footprints from this repository.
 You can use this to replace your existing fp-lib-table.
-You will need to restart KiCAD for this change to take effect.
+You will need to restart KiCad for this change to take effect.
 
 #### Linux
 
@@ -61,7 +59,7 @@ You will need to restart KiCAD for this change to take effect.
 
 ### Adding submodules
 
-If you know of any KiCAD footprint repositories that have not been added please [file an issue](https://github.com/kitspace/kicad_footprints/issues) and I will add them.
+If you know of any KiCad footprint repositories that have not been added please [file an issue](https://github.com/kitspace/kicad_footprints/issues) and I will add them.
 
 If you want to maintain a private fork of this repository with some private submodules you can add them simply by:
 
@@ -75,6 +73,3 @@ They should work fine with the rest of the scripts once they are added.
 ## License
 
 Any scripts in this repository are MIT licensed. All the footprints have their own licenses of course.
-
-[travis-svg]: https://api.travis-ci.org/kitspace/kicad_footprints.svg?branch=kicad-5
-[travis]: https://travis-ci.org/kitspace/kicad_footprints
