@@ -21,4 +21,6 @@ jobs:
       - run: sudo apt-get install -qq -y --no-install-recommends kicad
       - run: ./init
       - run: ./update
-      - run: python load_all.py
+      - run: python3 load_all.py
+      - run: python3 rewrite_3d_model_paths.py
+      - run: python3 load_all.py
