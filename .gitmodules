@@ -1,238 +1,238 @@
-[submodule "Air_Coils_SML_NEOSID.pretty"]
+[submodule "kicad-legacy/Air_Coils_SML_NEOSID.pretty"]
 	path = kicad-legacy/Air_Coils_SML_NEOSID.pretty
 	url = https://github.com/KiCad/Air_Coils_SML_NEOSID.pretty/
-[submodule "Buttons_Switches_SMD.pretty"]
+[submodule "kicad-legacy/Buttons_Switches_SMD.pretty"]
 	path = kicad-legacy/Buttons_Switches_SMD.pretty
 	url = https://github.com/KiCad/Buttons_Switches_SMD.pretty/
-[submodule "Buttons_Switches_ThroughHole.pretty"]
+[submodule "kicad-legacy/Buttons_Switches_ThroughHole.pretty"]
 	path = kicad-legacy/Buttons_Switches_ThroughHole.pretty
 	url = https://github.com/KiCad/Buttons_Switches_ThroughHole.pretty/
-[submodule "Buzzers_Beepers.pretty"]
+[submodule "kicad-legacy/Buzzers_Beepers.pretty"]
 	path = kicad-legacy/Buzzers_Beepers.pretty
 	url = https://github.com/KiCad/Buzzers_Beepers.pretty/
-[submodule "Capacitors_SMD.pretty"]
+[submodule "kicad-legacy/Capacitors_SMD.pretty"]
 	path = kicad-legacy/Capacitors_SMD.pretty
 	url = https://github.com/KiCad/Capacitors_SMD.pretty/
-[submodule "Capacitors_Tantalum_SMD.pretty"]
+[submodule "kicad-legacy/Capacitors_Tantalum_SMD.pretty"]
 	path = kicad-legacy/Capacitors_Tantalum_SMD.pretty
 	url = https://github.com/KiCad/Capacitors_Tantalum_SMD.pretty/
-[submodule "Capacitors_ThroughHole.pretty"]
+[submodule "kicad-legacy/Capacitors_ThroughHole.pretty"]
 	path = kicad-legacy/Capacitors_ThroughHole.pretty
 	url = https://github.com/KiCad/Capacitors_ThroughHole.pretty/
-[submodule "Choke_Axial_ThroughHole.pretty"]
+[submodule "kicad-legacy/Choke_Axial_ThroughHole.pretty"]
 	path = kicad-legacy/Choke_Axial_ThroughHole.pretty
 	url = https://github.com/KiCad/Choke_Axial_ThroughHole.pretty/
-[submodule "Choke_Common-Mode_Wurth.pretty"]
+[submodule "kicad-legacy/Choke_Common-Mode_Wurth.pretty"]
 	path = kicad-legacy/Choke_Common-Mode_Wurth.pretty
 	url = https://github.com/KiCad/Choke_Common-Mode_Wurth.pretty/
-[submodule "Choke_Radial_ThroughHole.pretty"]
+[submodule "kicad-legacy/Choke_Radial_ThroughHole.pretty"]
 	path = kicad-legacy/Choke_Radial_ThroughHole.pretty
 	url = https://github.com/KiCad/Choke_Radial_ThroughHole.pretty/
-[submodule "Choke_SMD.pretty"]
+[submodule "kicad-legacy/Choke_SMD.pretty"]
 	path = kicad-legacy/Choke_SMD.pretty
 	url = https://github.com/KiCad/Choke_SMD.pretty/
-[submodule "Choke_Toroid_ThroughHole.pretty"]
+[submodule "kicad-legacy/Choke_Toroid_ThroughHole.pretty"]
 	path = kicad-legacy/Choke_Toroid_ThroughHole.pretty
 	url = https://github.com/KiCad/Choke_Toroid_ThroughHole.pretty/
-[submodule "Connectors_JST.pretty"]
+[submodule "kicad-legacy/Connectors_JST.pretty"]
 	path = kicad-legacy/Connectors_JST.pretty
 	url = https://github.com/KiCad/Connectors_JST.pretty/
-[submodule "Connectors_Molex.pretty"]
+[submodule "kicad-legacy/Connectors_Molex.pretty"]
 	path = kicad-legacy/Connectors_Molex.pretty
 	url = https://github.com/KiCad/Connectors_Molex.pretty/
-[submodule "Connectors_Multicomp.pretty"]
+[submodule "kicad-legacy/Connectors_Multicomp.pretty"]
 	path = kicad-legacy/Connectors_Multicomp.pretty
 	url = https://github.com/KiCad/Connectors_Multicomp.pretty/
-[submodule "Connect.pretty"]
+[submodule "kicad-legacy/Connect.pretty"]
 	path = kicad-legacy/Connect.pretty
 	url = https://github.com/KiCad/Connect.pretty/
-[submodule "Converters_DCDC_ACDC.pretty"]
+[submodule "kicad-legacy/Converters_DCDC_ACDC.pretty"]
 	path = kicad-legacy/Converters_DCDC_ACDC.pretty
 	url = https://github.com/KiCad/Converters_DCDC_ACDC.pretty/
-[submodule "Crystals.pretty"]
+[submodule "kicad-legacy/Crystals.pretty"]
 	path = kicad-legacy/Crystals.pretty
 	url = https://github.com/KiCad/Crystals.pretty/
-[submodule "Diodes_SMD.pretty"]
+[submodule "kicad-legacy/Diodes_SMD.pretty"]
 	path = kicad-legacy/Diodes_SMD.pretty
 	url = https://github.com/KiCad/Diodes_SMD.pretty/
-[submodule "Diodes_ThroughHole.pretty"]
+[submodule "kicad-legacy/Diodes_ThroughHole.pretty"]
 	path = kicad-legacy/Diodes_ThroughHole.pretty
 	url = https://github.com/KiCad/Diodes_ThroughHole.pretty/
-[submodule "Discret.pretty"]
+[submodule "kicad-legacy/Discret.pretty"]
 	path = kicad-legacy/Discret.pretty
 	url = https://github.com/KiCad/Discret.pretty/
-[submodule "Display.pretty"]
+[submodule "kicad-legacy/Display.pretty"]
 	path = kicad-legacy/Display.pretty
 	url = https://github.com/KiCad/Display.pretty/
-[submodule "Displays_7-Segment.pretty"]
+[submodule "kicad-legacy/Displays_7-Segment.pretty"]
 	path = kicad-legacy/Displays_7-Segment.pretty
 	url = https://github.com/KiCad/Displays_7-Segment.pretty/
-[submodule "Divers.pretty"]
+[submodule "kicad-legacy/Divers.pretty"]
 	path = kicad-legacy/Divers.pretty
 	url = https://github.com/KiCad/Divers.pretty/
-[submodule "EuroBoard_Outline.pretty"]
+[submodule "kicad-legacy/EuroBoard_Outline.pretty"]
 	path = kicad-legacy/EuroBoard_Outline.pretty
 	url = https://github.com/KiCad/EuroBoard_Outline.pretty/
-[submodule "Fiducials.pretty"]
+[submodule "kicad-legacy/Fiducials.pretty"]
 	path = kicad-legacy/Fiducials.pretty
 	url = https://github.com/KiCad/Fiducials.pretty/
-[submodule "Filters_HF_Coils_NEOSID.pretty"]
+[submodule "kicad-legacy/Filters_HF_Coils_NEOSID.pretty"]
 	path = kicad-legacy/Filters_HF_Coils_NEOSID.pretty
 	url = https://github.com/KiCad/Filters_HF_Coils_NEOSID.pretty/
-[submodule "Fuse_Holders_and_Fuses.pretty"]
+[submodule "kicad-legacy/Fuse_Holders_and_Fuses.pretty"]
 	path = kicad-legacy/Fuse_Holders_and_Fuses.pretty
 	url = https://github.com/KiCad/Fuse_Holders_and_Fuses.pretty/
-[submodule "Hall-Effect_Transducers_LEM.pretty"]
+[submodule "kicad-legacy/Hall-Effect_Transducers_LEM.pretty"]
 	path = kicad-legacy/Hall-Effect_Transducers_LEM.pretty
 	url = https://github.com/KiCad/Hall-Effect_Transducers_LEM.pretty/
-[submodule "Heatsinks.pretty"]
+[submodule "kicad-legacy/Heatsinks.pretty"]
 	path = kicad-legacy/Heatsinks.pretty
 	url = https://github.com/KiCad/Heatsinks.pretty/
-[submodule "Housings_DFN_QFN.pretty"]
+[submodule "kicad-legacy/Housings_DFN_QFN.pretty"]
 	path = kicad-legacy/Housings_DFN_QFN.pretty
 	url = https://github.com/KiCad/Housings_DFN_QFN.pretty/
-[submodule "Housings_DIP.pretty"]
+[submodule "kicad-legacy/Housings_DIP.pretty"]
 	path = kicad-legacy/Housings_DIP.pretty
 	url = https://github.com/KiCad/Housings_DIP.pretty/
-[submodule "Housings_QFP.pretty"]
+[submodule "kicad-legacy/Housings_QFP.pretty"]
 	path = kicad-legacy/Housings_QFP.pretty
 	url = https://github.com/KiCad/Housings_QFP.pretty/
-[submodule "Housings_SIP.pretty"]
+[submodule "kicad-legacy/Housings_SIP.pretty"]
 	path = kicad-legacy/Housings_SIP.pretty
 	url = https://github.com/KiCad/Housings_SIP.pretty/
-[submodule "Housings_SOIC.pretty"]
+[submodule "kicad-legacy/Housings_SOIC.pretty"]
 	path = kicad-legacy/Housings_SOIC.pretty
 	url = https://github.com/KiCad/Housings_SOIC.pretty/
-[submodule "Housings_SSOP.pretty"]
+[submodule "kicad-legacy/Housings_SSOP.pretty"]
 	path = kicad-legacy/Housings_SSOP.pretty
 	url = https://github.com/KiCad/Housings_SSOP.pretty/
-[submodule "Inductors_NEOSID.pretty"]
+[submodule "kicad-legacy/Inductors_NEOSID.pretty"]
 	path = kicad-legacy/Inductors_NEOSID.pretty
 	url = https://github.com/KiCad/Inductors_NEOSID.pretty/
-[submodule "Inductors.pretty"]
+[submodule "kicad-legacy/Inductors.pretty"]
 	path = kicad-legacy/Inductors.pretty
 	url = https://github.com/KiCad/Inductors.pretty/
-[submodule "IR-DirectFETs.pretty"]
+[submodule "kicad-legacy/IR-DirectFETs.pretty"]
 	path = kicad-legacy/IR-DirectFETs.pretty
 	url = https://github.com/KiCad/IR-DirectFETs.pretty/
-[submodule "Labels.pretty"]
+[submodule "kicad-legacy/Labels.pretty"]
 	path = kicad-legacy/Labels.pretty
 	url = https://github.com/KiCad/Labels.pretty/
-[submodule "LEDs.pretty"]
+[submodule "kicad-legacy/LEDs.pretty"]
 	path = kicad-legacy/LEDs.pretty
 	url = https://github.com/KiCad/LEDs.pretty/
-[submodule "Measurement_Points.pretty"]
+[submodule "kicad-legacy/Measurement_Points.pretty"]
 	path = kicad-legacy/Measurement_Points.pretty
 	url = https://github.com/KiCad/Measurement_Points.pretty/
-[submodule "Measurement_Scales.pretty"]
+[submodule "kicad-legacy/Measurement_Scales.pretty"]
 	path = kicad-legacy/Measurement_Scales.pretty
 	url = https://github.com/KiCad/Measurement_Scales.pretty/
-[submodule "Mechanical_Sockets.pretty"]
+[submodule "kicad-legacy/Mechanical_Sockets.pretty"]
 	path = kicad-legacy/Mechanical_Sockets.pretty
 	url = https://github.com/KiCad/Mechanical_Sockets.pretty/
-[submodule "Microwave.pretty"]
+[submodule "kicad-legacy/Microwave.pretty"]
 	path = kicad-legacy/Microwave.pretty
 	url = https://github.com/KiCad/Microwave.pretty/
-[submodule "Mounting_Holes.pretty"]
+[submodule "kicad-legacy/Mounting_Holes.pretty"]
 	path = kicad-legacy/Mounting_Holes.pretty
 	url = https://github.com/KiCad/Mounting_Holes.pretty/
-[submodule "NF-Transformers_ETAL.pretty"]
+[submodule "kicad-legacy/NF-Transformers_ETAL.pretty"]
 	path = kicad-legacy/NF-Transformers_ETAL.pretty
 	url = https://github.com/KiCad/NF-Transformers_ETAL.pretty/
-[submodule "Oddities.pretty"]
+[submodule "kicad-legacy/Oddities.pretty"]
 	path = kicad-legacy/Oddities.pretty
 	url = https://github.com/KiCad/Oddities.pretty/
-[submodule "Opto-Devices.pretty"]
+[submodule "kicad-legacy/Opto-Devices.pretty"]
 	path = kicad-legacy/Opto-Devices.pretty
 	url = https://github.com/KiCad/Opto-Devices.pretty/
-[submodule "Oscillators.pretty"]
+[submodule "kicad-legacy/Oscillators.pretty"]
 	path = kicad-legacy/Oscillators.pretty
 	url = https://github.com/KiCad/Oscillators.pretty/
-[submodule "PFF_PSF_PSS_Leadforms.pretty"]
+[submodule "kicad-legacy/PFF_PSF_PSS_Leadforms.pretty"]
 	path = kicad-legacy/PFF_PSF_PSS_Leadforms.pretty
 	url = https://github.com/KiCad/PFF_PSF_PSS_Leadforms.pretty/
-[submodule "Pin_Headers.pretty"]
+[submodule "kicad-legacy/Pin_Headers.pretty"]
 	path = kicad-legacy/Pin_Headers.pretty
 	url = https://github.com/KiCad/Pin_Headers.pretty/
-[submodule "Potentiometers.pretty"]
+[submodule "kicad-legacy/Potentiometers.pretty"]
 	path = kicad-legacy/Potentiometers.pretty
 	url = https://github.com/KiCad/Potentiometers.pretty/
-[submodule "Power_Integrations.pretty"]
+[submodule "kicad-legacy/Power_Integrations.pretty"]
 	path = kicad-legacy/Power_Integrations.pretty
 	url = https://github.com/KiCad/Power_Integrations.pretty/
-[submodule "Relays_ThroughHole.pretty"]
+[submodule "kicad-legacy/Relays_ThroughHole.pretty"]
 	path = kicad-legacy/Relays_ThroughHole.pretty
 	url = https://github.com/KiCad/Relays_ThroughHole.pretty/
-[submodule "Resistors_SMD.pretty"]
+[submodule "kicad-legacy/Resistors_SMD.pretty"]
 	path = kicad-legacy/Resistors_SMD.pretty
 	url = https://github.com/KiCad/Resistors_SMD.pretty/
-[submodule "Resistors_ThroughHole.pretty"]
+[submodule "kicad-legacy/Resistors_ThroughHole.pretty"]
 	path = kicad-legacy/Resistors_ThroughHole.pretty
 	url = https://github.com/KiCad/Resistors_ThroughHole.pretty/
-[submodule "Resistors_Universal.pretty"]
+[submodule "kicad-legacy/Resistors_Universal.pretty"]
 	path = kicad-legacy/Resistors_Universal.pretty
 	url = https://github.com/KiCad/Resistors_Universal.pretty/
-[submodule "RF_Modules.pretty"]
+[submodule "kicad-legacy/RF_Modules.pretty"]
 	path = kicad-legacy/RF_Modules.pretty
 	url = https://github.com/KiCad/RF_Modules.pretty/
-[submodule "SMD_Packages.pretty"]
+[submodule "kicad-legacy/SMD_Packages.pretty"]
 	path = kicad-legacy/SMD_Packages.pretty
 	url = https://github.com/KiCad/SMD_Packages.pretty/
-[submodule "Sockets_BNC.pretty"]
+[submodule "kicad-legacy/Sockets_BNC.pretty"]
 	path = kicad-legacy/Sockets_BNC.pretty
 	url = https://github.com/KiCad/Sockets_BNC.pretty/
-[submodule "Sockets_Mini-Universal.pretty"]
+[submodule "kicad-legacy/Sockets_Mini-Universal.pretty"]
 	path = kicad-legacy/Sockets_Mini-Universal.pretty
 	url = https://github.com/KiCad/Sockets_Mini-Universal.pretty/
-[submodule "Sockets_MOLEX_KK-System.pretty"]
+[submodule "kicad-legacy/Sockets_MOLEX_KK-System.pretty"]
 	path = kicad-legacy/Sockets_MOLEX_KK-System.pretty
 	url = https://github.com/KiCad/Sockets_MOLEX_KK-System.pretty/
-[submodule "Sockets.pretty"]
+[submodule "kicad-legacy/Sockets.pretty"]
 	path = kicad-legacy/Sockets.pretty
 	url = https://github.com/KiCad/Sockets.pretty/
-[submodule "Socket_Strips.pretty"]
+[submodule "kicad-legacy/Socket_Strips.pretty"]
 	path = kicad-legacy/Socket_Strips.pretty
 	url = https://github.com/KiCad/Socket_Strips.pretty/
-[submodule "Sockets_WAGO734.pretty"]
+[submodule "kicad-legacy/Sockets_WAGO734.pretty"]
 	path = kicad-legacy/Sockets_WAGO734.pretty
 	url = https://github.com/KiCad/Sockets_WAGO734.pretty/
-[submodule "Symbols.pretty"]
+[submodule "kicad-legacy/Symbols.pretty"]
 	path = kicad-legacy/Symbols.pretty
 	url = https://github.com/KiCad/Symbols.pretty/
-[submodule "Terminal_Blocks.pretty"]
+[submodule "kicad-legacy/Terminal_Blocks.pretty"]
 	path = kicad-legacy/Terminal_Blocks.pretty
 	url = https://github.com/KiCad/Terminal_Blocks.pretty/
-[submodule "TO_SOT_Packages_SMD.pretty"]
+[submodule "kicad-legacy/TO_SOT_Packages_SMD.pretty"]
 	path = kicad-legacy/TO_SOT_Packages_SMD.pretty
 	url = https://github.com/KiCad/TO_SOT_Packages_SMD.pretty/
-[submodule "TO_SOT_Packages_THT.pretty"]
+[submodule "kicad-legacy/TO_SOT_Packages_THT.pretty"]
 	path = kicad-legacy/TO_SOT_Packages_THT.pretty
 	url = https://github.com/KiCad/TO_SOT_Packages_THT.pretty/
-[submodule "Transformers_CHK.pretty"]
+[submodule "kicad-legacy/Transformers_CHK.pretty"]
 	path = kicad-legacy/Transformers_CHK.pretty
 	url = https://github.com/KiCad/Transformers_CHK.pretty/
-[submodule "Transformers_SMPS_ThroughHole.pretty"]
+[submodule "kicad-legacy/Transformers_SMPS_ThroughHole.pretty"]
 	path = kicad-legacy/Transformers_SMPS_ThroughHole.pretty
 	url = https://github.com/KiCad/Transformers_SMPS_ThroughHole.pretty/
-[submodule "Transistors_OldSowjetAera.pretty"]
+[submodule "kicad-legacy/Transistors_OldSowjetAera.pretty"]
 	path = kicad-legacy/Transistors_OldSowjetAera.pretty
 	url = https://github.com/KiCad/Transistors_OldSowjetAera.pretty/
-[submodule "Valves.pretty"]
+[submodule "kicad-legacy/Valves.pretty"]
 	path = kicad-legacy/Valves.pretty
 	url = https://github.com/KiCad/Valves.pretty/
-[submodule "Varistors.pretty"]
+[submodule "kicad-legacy/Varistors.pretty"]
 	path = kicad-legacy/Varistors.pretty
 	url = https://github.com/KiCad/Varistors.pretty/
-[submodule "Wire_Connections_Bridges.pretty"]
+[submodule "kicad-legacy/Wire_Connections_Bridges.pretty"]
 	path = kicad-legacy/Wire_Connections_Bridges.pretty
 	url = https://github.com/KiCad/Wire_Connections_Bridges.pretty/
-[submodule "Wire_Pads.pretty"]
+[submodule "kicad-legacy/Wire_Pads.pretty"]
 	path = kicad-legacy/Wire_Pads.pretty
 	url = https://github.com/KiCad/Wire_Pads.pretty/
-[submodule "kicad-libraries"]
+[submodule "Tinkerforge/kicad-libraries"]
 	path = Tinkerforge/kicad-libraries
 	url = https://github.com/Tinkerforge/kicad-libraries
-[submodule "kicad-open-modules"]
+[submodule "bronoeagle/kicad-open-modules"]
 	path = brunoeagle/kicad-open-modules
 	url = https://github.com/brunoeagle/kicad-open-modules
 [submodule "StefanHamminga/SH_Antennas.pretty"]
@@ -1702,6 +1702,6 @@
 [submodule "toka-eisos/Transformers_WurthElektronik.pretty"]
 	path = toka-eisos/Transformers_WurthElektronik.pretty
 	url = https://github.com/toka-eisos/Transformers_WurthElektronik.pretty
-[submodule "kicad/libraries/kicad-footprints"]
+[submodule "kicad-official"]
 	path = kicad-official
 	url = https://gitlab.com/kicad/libraries/kicad-footprints
