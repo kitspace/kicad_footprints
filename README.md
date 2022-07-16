@@ -7,7 +7,7 @@ These are regularily checked with [the Github Action workflow](.github/workflows
 
 This repo uses git submodules.
 A submodule is a way of including another git repo in your repo holding it at a particular version until you want to update it.
-This is useful as you can keep a local copy of all the libraries, freeze them and only update when you want to.
+This is useful as you can keep a local copy of all the libraries and only update them when you want to.
 
 ## Usage
 
@@ -19,9 +19,7 @@ This is useful as you can keep a local copy of all the libraries, freeze them an
 
 This downloads all the libraries in parallel but it can still take a while.
 
-If you are stuck on KiCad version 4 or version 5 can use the `kicad-4` or `kicad-5` branch. These branches are not being updated though.
-
-    git checkout master && ./init
+If you are stuck on KiCad version 4 or version 5 can use the `kicad-4` or the `kicad-5` branch. These branches are not being updated though.
 
 ### Updating
 
