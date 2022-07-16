@@ -19,4 +19,6 @@ jobs:
       - run: sudo add-apt-repository -y ppa:kicad/kicad-6.0-releases
       - run: sudo apt-get update -qq
       - run: sudo apt-get install -qq -y --no-install-recommends kicad
+      - run: ./init
+      - run: ./update
       - run: python load_all.py
