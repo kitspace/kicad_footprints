@@ -1,9 +1,8 @@
 # KiCad footprint collection
+This is a collection of all the KiCad footprints I know of. If you know of any more, please let me know!
+All the official libraries are included in the `KiCad/` sub-directory.
 
-- This is a collection of all the KiCad footprints I know of. If you know of any more, please let me know! (Ideally by opening a pull-request or at least an issue on this repo.)
-- These are regularily checked with [the Github Action workflow](.github/workflows/load_into_kicad.yml) to make sure KiCad can load them.
-- After you [Register them with KiCad](#registering-with-kicad) you can use the footprint filter in the footprint assignment tool to find what you want.
-
+These are regularily checked with [the Github Action workflow](.github/workflows/load_into_kicad.yml) to make sure KiCad can load them. Personally I use this with the footprint search in KiCad.
 ![](screenshot.png)
 
 This repo uses git submodules.
