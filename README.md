@@ -76,6 +76,19 @@ If you don't like the new way of organizing footprint libs and want to restore y
     cp ~/AppData/Roaming/kicad/6.0/fp-lib-table.backup ~/AppData/Roaming/kicad/6.0/fp-lib-table
 
 
+### 3D models
+
+You can try and hack the 3D models to be correctly associated to the footprints through absolute paths by running this script:
+
+```
+python3 rewrite_3d_model_paths.py
+```
+
+- This script uses dirty regexes to re-write the paths when it finds models of the same name in the same sub-module repository.
+- It can take up to 5 minutes on my machine.
+- If you ever run `./update` you have to run `rewrite_3d_model_paths.py` again.
+
+
 ### Adding submodules
 
 If you know of any KiCad footprint repositories that have not been added please [file an issue](https://github.com/kitspace/kicad_footprints/issues) and I will add them.

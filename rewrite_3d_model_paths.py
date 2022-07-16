@@ -1,11 +1,10 @@
-'''
+"""
 replaces paths for 3d models in the footprints with actual 3d files when we can
 find them
-'''
+"""
 
 import os
 import re
-from kiutils.footprint import Footprint
 
 mods = []
 git_root = None
@@ -30,24 +29,28 @@ for dirname, dirnames, filenames in os.walk("./"):
 
 
 for git_root, mod in mods:
+    model_paths = []
     try:
-        footprint = Footprint.from_file(mod)
+        with open(mod, "r") as f:
+            text = f.read()
+            new_text = text
+            model_paths = re.findall(r"\(model \"?(.+?)\"?\n", text)
+            for path in model_paths:
+                model_filename = os.path.basename(path)
+                new_path = None
+                for dirname, dirnames, filenames in os.walk(git_root):
+                    for filename in filenames:
+                        if model_filename == filename:
+                            new_path = os.path.join(git_root, dirname, filename)
+                            new_text = new_text.replace(path, new_path)
+                            break
+                    if new_path is not None:
+                        break
+
+        if new_text != text:
+            print("Replacing 3d model path for {}".format(mod))
+            with open(mod, "w") as f:
+                f.write(new_text)
+
     except Exception as e:
         print("Could not parse {}: {}".format(mod, e))
-    else:
-        for model in footprint.models:
-            model_filename = os.path.basename(model.path)
-            found = False
-            for dirname, dirnames, filenames in os.walk(git_root):
-                for filename in filenames:
-                    if model_filename == filename:
-                        found = True
-                        model.path = os.path.join(git_root, dirname, filename)
-                        break
-                if found:
-                    break
-
-            if found:
-                print("Replacing 3d model path for {}".format(mod))
-                footprint.to_file(mod)
-
