@@ -1705,3 +1705,6 @@
 [submodule "kicad-official"]
 	path = kicad-official
 	url = https://gitlab.com/kicad/libraries/kicad-footprints
+[submodule "espressif/kicad-libraries"]
+	path = espressif/kicad-libraries
+	url = https://github.com/espressif/kicad-libraries
