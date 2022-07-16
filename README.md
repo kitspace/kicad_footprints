@@ -2,7 +2,7 @@
 
 - This is a collection of all the KiCad footprints I know of. If you know of any more, please let me know! (Ideally by opening a pull-request or at least an issue on this repo.)
 - These footprints are regularily checked with [the Github Action workflow](.github/workflows/load_into_kicad.yml) to make sure KiCad can load them.
-- After you [Register them with KiCad](#registering-with-kicad) you can use the footprint filter in the footprint assignment tool to find what you want.
+- After you [register them with KiCad](#registering-with-kicad) you can use the footprint filter in the footprint assignment tool to find what you want.
 
 ![](screenshot.png)
 
@@ -41,7 +41,7 @@ You could also use `generate_table` to generate an fp-lib-table, the file KiCad 
 You can use this to replace your existing fp-lib-table.
 You will need to restart KiCad for this change to take effect.
 
-_Warning: This will overwrite your existing fp-lib-table, discard any customization you made to it and also switch to using our copy of the "official" libraries included with KiCad (these arehenceforth prefixed with `KiCad/`). In our instructions below we make a backup copy of the fp-lib-table so can restore it if you need to._
+_Warning: This will overwrite your existing fp-lib-table, discard any customization you made to it and also switch to using our copy of the "official" libraries included with KiCad (these are henceforth prefixed with `KiCad/`). In our instructions below we make a backup copy of the fp-lib-table so can restore it if you need to._
 
 #### Linux
 
@@ -61,7 +61,7 @@ _Warning: This will overwrite your existing fp-lib-table, discard any customizat
 
 #### Restoring original
 
-If you don't like the new way of organising footprint libs and want to restore your original fp-lib-table:
+If you don't like the new way of organizing footprint libs and want to restore your original fp-lib-table:
 
 ##### Linux
 
