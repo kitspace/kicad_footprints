@@ -41,7 +41,7 @@ You could also use `generate_table` to generate an fp-lib-table, the file KiCad 
 You can use this to replace your existing fp-lib-table.
 You will need to restart KiCad for this change to take effect.
 
-_Warning: This will overwrite your existing fp-lib-table, discard any customization you made to it and also switch to using our copy of the "official" libraries included with KiCad (these are henceforth prefixed with `KiCad/`). In our instructions below we make a backup copy of the fp-lib-table so can restore it if you need to._
+_Warning: This will overwrite your existing fp-lib-table, discard any customization you made to it and also switch to using our copy of the "official" libraries included with KiCad (these are henceforth prefixed with `kicad-official/`). In our instructions below we make a backup copy of the fp-lib-table so can restore it if you need to._
 
 #### Linux
 
