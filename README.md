@@ -19,7 +19,7 @@ This is useful as you can keep a local copy of all the libraries, freeze them an
 
 This downloads all the libraries in parallel but it can still take a while.
 
-If you are stuck on KiCad version 4 or version 5 can use the `kicad-5` with `kicad-4` branches. These are not being updated though.
+If you are stuck on KiCad version 4 or version 5 can use the `kicad-4` or `kicad-5` branch. These branches are not being updated though.
 
     git checkout master && ./init
 
