@@ -361,9 +361,6 @@
 [submodule "tmk/keyboard_parts.pretty"]
 	path = tmk/keyboard_parts.pretty
 	url = https://github.com/tmk/keyboard_parts.pretty.git
-[submodule "g4lvanix/kilibs.pretty"]
-	path = g4lvanix/kilibs.pretty
-	url = https://github.com/g4lvanix/kilibs.pretty.git
 [submodule "madworm/Panelization.pretty"]
 	path = madworm/Panelization.pretty
 	url = https://github.com/madworm/Panelization.pretty.git
@@ -373,9 +370,6 @@
 [submodule "rohbotics/IPC7351-Nominal.pretty"]
 	path = rohbotics/IPC7351-Nominal.pretty
 	url = https://github.com/rohbotics/IPC7351-Nominal.pretty.git
-[submodule "andybest/Kicad.pretty"]
-	path = andybest/Kicad.pretty
-	url = https://github.com/andybest/Kicad.pretty.git
 [submodule "codemercenary-os/kicad.pretty"]
 	path = codemercenary-os/kicad.pretty
 	url = https://github.com/codemercenary-os/kicad.pretty.git
@@ -484,9 +478,6 @@
 [submodule "stubbyone/kicad-footprints.pretty"]
 	path = stubbyone/kicad-footprints.pretty
 	url = https://github.com/stubbyone/kicad-footprints.pretty.git
-[submodule "asensar/kicad-asensar-library.pretty"]
-	path = asensar/kicad-asensar-library.pretty
-	url = https://github.com/asensar/kicad-asensar-library.pretty.git
 [submodule "usagi1975/kicad_mod.pretty"]
 	path = usagi1975/kicad_mod.pretty
 	url = https://github.com/usagi1975/kicad_mod.pretty.git
@@ -973,9 +964,6 @@
 [submodule "esden/pretty-kicad-libs"]
 	path = esden/pretty-kicad-libs
 	url = https://github.com/esden/pretty-kicad-libs
-[submodule "liftoff-sr/pretty_footprints"]
-	path = liftoff-sr/pretty_footprints
-	url = https://github.com/liftoff-sr/pretty_footprints
 [submodule "ContextualElectronics/CE_KiCadLib"]
 	path = ContextualElectronics/CE_KiCadLib
 	url = https://github.com/ContextualElectronics/CE_KiCadLib
@@ -1033,9 +1021,6 @@
 [submodule "PatrickBaus/footprints.pretty"]
 	path = PatrickBaus/footprints.pretty
 	url = https://github.com/PatrickBaus/footprints.pretty
-[submodule "TheronRogers/Guitar.pretty"]
-	path = TheronRogers/Guitar.pretty
-	url = https://github.com/TheronRogers/Guitar.pretty
 [submodule "Drc3p0/Prototyping_Workshop"]
 	path = Drc3p0/Prototyping_Workshop
 	url = https://github.com/Drc3p0/Prototyping_Workshop
@@ -1063,9 +1048,6 @@
 [submodule "ai03-2725/MX_Alps_Hybrid.pretty"]
 	path = ai03-2725/MX_Alps_Hybrid.pretty
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
-[submodule "vargavik/Sajat.pretty"]
-	path = vargavik/Sajat.pretty
-	url = https://github.com/vargavik/Sajat.pretty
 [submodule "bveenema/USB.pretty"]
 	path = bveenema/USB.pretty
 	url = https://github.com/bveenema/USB.pretty
