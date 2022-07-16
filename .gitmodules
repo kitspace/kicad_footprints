@@ -1504,3 +1504,201 @@
 [submodule "myelin/myelin-kicad.pretty"]
 	path = myelin/myelin-kicad.pretty
 	url = https://github.com/myelin/myelin-kicad.pretty
+[submodule "ebastler/kicad-keyboard-parts.pretty"]
+	path = ebastler/kicad-keyboard-parts.pretty
+	url = https://github.com/ebastler/kicad-keyboard-parts.pretty
+[submodule "devbisme/RPi_Hat.pretty"]
+	path = devbisme/RPi_Hat.pretty
+	url = https://github.com/devbisme/RPi_Hat.pretty
+[submodule "50an6xy06r6n/keyboard_reversible.pretty"]
+	path = 50an6xy06r6n/keyboard_reversible.pretty
+	url = https://github.com/50an6xy06r6n/keyboard_reversible.pretty
+[submodule "nqbit/nqbit.pretty"]
+	path = nqbit/nqbit.pretty
+	url = https://github.com/nqbit/nqbit.pretty
+[submodule "nxmq/animegirlsare.pretty"]
+	path = nxmq/animegirlsare.pretty
+	url = https://github.com/nxmq/animegirlsare.pretty
+[submodule "TakeshiOnagawa/Kicad_GSM_Footprint.pretty"]
+	path = TakeshiOnagawa/Kicad_GSM_Footprint.pretty
+	url = https://github.com/TakeshiOnagawa/Kicad_GSM_Footprint.pretty
+[submodule "marf41/railtec.pretty"]
+	path = marf41/railtec.pretty
+	url = https://github.com/marf41/railtec.pretty
+[submodule "Alasofia/hitek725.pretty"]
+	path = Alasofia/hitek725.pretty
+	url = https://github.com/Alasofia/hitek725.pretty
+[submodule "marf41/MF-conn.pretty"]
+	path = marf41/MF-conn.pretty
+	url = https://github.com/marf41/MF-conn.pretty
+[submodule "AcheronProject/acheron_Hardware.pretty"]
+	path = AcheronProject/acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty
+[submodule "quinkennedy/chillpizza.pretty"]
+	path = quinkennedy/chillpizza.pretty
+	url = https://github.com/quinkennedy/chillpizza.pretty
+[submodule "servomouse/servomouse.pretty"]
+	path = servomouse/servomouse.pretty
+	url = https://github.com/servomouse/servomouse.pretty
+[submodule "rudiloos/kilibs.pretty"]
+	path = rudiloos/kilibs.pretty
+	url = https://github.com/rudiloos/kilibs.pretty
+[submodule "jmding8/keebee.pretty"]
+	path = jmding8/keebee.pretty
+	url = https://github.com/jmding8/keebee.pretty
+[submodule "tamu21131/mymod.pretty"]
+	path = tamu21131/mymod.pretty
+	url = https://github.com/tamu21131/mymod.pretty
+[submodule "jakobkg/footprints.pretty"]
+	path = jakobkg/footprints.pretty
+	url = https://github.com/jakobkg/footprints.pretty
+[submodule "newAM/newam.pretty"]
+	path = newAM/newam.pretty
+	url = https://github.com/newAM/newam.pretty
+[submodule "sasaplus1/kicad-footprints.pretty"]
+	path = sasaplus1/kicad-footprints.pretty
+	url = https://github.com/sasaplus1/kicad-footprints.pretty
+[submodule "Toroid-io/toroid-kicad.pretty"]
+	path = Toroid-io/toroid-kicad.pretty
+	url = https://github.com/Toroid-io/toroid-kicad.pretty
+[submodule "Gigahawk/Gigahawk.pretty"]
+	path = Gigahawk/Gigahawk.pretty
+	url = https://github.com/Gigahawk/Gigahawk.pretty
+[submodule "audrentis/MX_Plate_Footprints.pretty"]
+	path = audrentis/MX_Plate_Footprints.pretty
+	url = https://github.com/audrentis/MX_Plate_Footprints.pretty
+[submodule "AcheronProject/acheron_MX.pretty"]
+	path = AcheronProject/acheron_MX.pretty
+	url = https://github.com/AcheronProject/acheron_MX.pretty
+[submodule "asukiaaa/asukiaaa-kicad-footprints.pretty"]
+	path = asukiaaa/asukiaaa-kicad-footprints.pretty
+	url = https://github.com/asukiaaa/asukiaaa-kicad-footprints.pretty
+[submodule "JEON-KS/Kicad_Footprint.pretty"]
+	path = JEON-KS/Kicad_Footprint.pretty
+	url = https://github.com/JEON-KS/Kicad_Footprint.pretty
+[submodule "Alasofia/nec.pretty"]
+	path = Alasofia/nec.pretty
+	url = https://github.com/Alasofia/nec.pretty
+[submodule "leptun/leptunKicadLib.pretty"]
+	path = leptun/leptunKicadLib.pretty
+	url = https://github.com/leptun/leptunKicadLib.pretty
+[submodule "kuresaru/KiCAD-Connector_KF301.pretty"]
+	path = kuresaru/KiCAD-Connector_KF301.pretty
+	url = https://github.com/kuresaru/KiCAD-Connector_KF301.pretty
+[submodule "dragonmux/rhais_coilcraft.pretty"]
+	path = dragonmux/rhais_coilcraft.pretty
+	url = https://github.com/dragonmux/rhais_coilcraft.pretty
+[submodule "dragonmux/rhais_bourns.pretty"]
+	path = dragonmux/rhais_bourns.pretty
+	url = https://github.com/dragonmux/rhais_bourns.pretty
+[submodule "dragonmux/rhais_package-qfn.pretty"]
+	path = dragonmux/rhais_package-qfn.pretty
+	url = https://github.com/dragonmux/rhais_package-qfn.pretty
+[submodule "dragonmux/rhais_switch.pretty"]
+	path = dragonmux/rhais_switch.pretty
+	url = https://github.com/dragonmux/rhais_switch.pretty
+[submodule "ziteh/key-switches.pretty"]
+	path = ziteh/key-switches.pretty
+	url = https://github.com/ziteh/key-switches.pretty
+[submodule "dragonmux/rhais_cherry.pretty"]
+	path = dragonmux/rhais_cherry.pretty
+	url = https://github.com/dragonmux/rhais_cherry.pretty
+[submodule "dragonmux/rhais_relay.pretty"]
+	path = dragonmux/rhais_relay.pretty
+	url = https://github.com/dragonmux/rhais_relay.pretty
+[submodule "dragonmux/rhais_diode.pretty"]
+	path = dragonmux/rhais_diode.pretty
+	url = https://github.com/dragonmux/rhais_diode.pretty
+[submodule "notsockx/kiboard.pretty"]
+	path = notsockx/kiboard.pretty
+	url = https://github.com/notsockx/kiboard.pretty
+[submodule "notmart/eurorack.pretty"]
+	path = notmart/eurorack.pretty
+	url = https://github.com/notmart/eurorack.pretty
+[submodule "dragonmux/rhais_package-smd.pretty"]
+	path = dragonmux/rhais_package-smd.pretty
+	url = https://github.com/dragonmux/rhais_package-smd.pretty
+[submodule "dragonmux/rhais_osc.pretty"]
+	path = dragonmux/rhais_osc.pretty
+	url = https://github.com/dragonmux/rhais_osc.pretty
+[submodule "Alasofia/MXMountLP.pretty"]
+	path = Alasofia/MXMountLP.pretty
+	url = https://github.com/Alasofia/MXMountLP.pretty
+[submodule "dragonmux/rhais_connector-lumberg.pretty"]
+	path = dragonmux/rhais_connector-lumberg.pretty
+	url = https://github.com/dragonmux/rhais_connector-lumberg.pretty
+[submodule "dragonmux/rhais_usb.pretty"]
+	path = dragonmux/rhais_usb.pretty
+	url = https://github.com/dragonmux/rhais_usb.pretty
+[submodule "dragonmux/rhais_connector-optical.pretty"]
+	path = dragonmux/rhais_connector-optical.pretty
+	url = https://github.com/dragonmux/rhais_connector-optical.pretty
+[submodule "dragonmux/rhais_package-vishay.pretty"]
+	path = dragonmux/rhais_package-vishay.pretty
+	url = https://github.com/dragonmux/rhais_package-vishay.pretty
+[submodule "emilytrau/MHS_Robotics.pretty"]
+	path = emilytrau/MHS_Robotics.pretty
+	url = https://github.com/emilytrau/MHS_Robotics.pretty
+[submodule "dragonmux/rhais_connector-te.pretty"]
+	path = dragonmux/rhais_connector-te.pretty
+	url = https://github.com/dragonmux/rhais_connector-te.pretty
+[submodule "dragonmux/rhais_diodes_inc.pretty"]
+	path = dragonmux/rhais_diodes_inc.pretty
+	url = https://github.com/dragonmux/rhais_diodes_inc.pretty
+[submodule "dragonmux/rhais_switch-cherry.pretty"]
+	path = dragonmux/rhais_switch-cherry.pretty
+	url = https://github.com/dragonmux/rhais_switch-cherry.pretty
+[submodule "dragonmux/rhais_connector-jack.pretty"]
+	path = dragonmux/rhais_connector-jack.pretty
+	url = https://github.com/dragonmux/rhais_connector-jack.pretty
+[submodule "dragonmux/rhais_led.pretty"]
+	path = dragonmux/rhais_led.pretty
+	url = https://github.com/dragonmux/rhais_led.pretty
+[submodule "dragonmux/rhais_package-to.pretty"]
+	path = dragonmux/rhais_package-to.pretty
+	url = https://github.com/dragonmux/rhais_package-to.pretty
+[submodule "AcheronProject/acheron_MountingHoles.pretty"]
+	path = AcheronProject/acheron_MountingHoles.pretty
+	url = https://github.com/AcheronProject/acheron_MountingHoles.pretty
+[submodule "AcheronProject/acheron_Connectors.pretty"]
+	path = AcheronProject/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty
+[submodule "dragonmux/rhais_button-smd.pretty"]
+	path = dragonmux/rhais_button-smd.pretty
+	url = https://github.com/dragonmux/rhais_button-smd.pretty
+[submodule "dragonmux/rhais_connector-multicomp.pretty"]
+	path = dragonmux/rhais_connector-multicomp.pretty
+	url = https://github.com/dragonmux/rhais_connector-multicomp.pretty
+[submodule "AcheronProject/acheron_Logos.pretty"]
+	path = AcheronProject/acheron_Logos.pretty
+	url = https://github.com/AcheronProject/acheron_Logos.pretty
+[submodule "AcheronProject/acheron_EC.pretty"]
+	path = AcheronProject/acheron_EC.pretty
+	url = https://github.com/AcheronProject/acheron_EC.pretty
+[submodule "dragonmux/rhais_rcl.pretty"]
+	path = dragonmux/rhais_rcl.pretty
+	url = https://github.com/dragonmux/rhais_rcl.pretty
+[submodule "TahuTech/tahutech.pretty"]
+	path = TahuTech/tahutech.pretty
+	url = https://github.com/TahuTech/tahutech.pretty
+[submodule "AcheronProject/acheron_MXH_metalrings.pretty"]
+	path = AcheronProject/acheron_MXH_metalrings.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_metalrings.pretty
+[submodule "AcheronProject/acheron_Graphics.pretty"]
+	path = AcheronProject/acheron_Graphics.pretty
+	url = https://github.com/AcheronProject/acheron_Graphics.pretty
+[submodule "AcheronProject/acheron_MXH.pretty"]
+	path = AcheronProject/acheron_MXH.pretty
+	url = https://github.com/AcheronProject/acheron_MXH.pretty
+[submodule "AcheronProject/acheron_MXO.pretty"]
+	path = AcheronProject/acheron_MXO.pretty
+	url = https://github.com/AcheronProject/acheron_MXO.pretty
+[submodule "AcheronProject/acheron_Components.pretty"]
+	path = AcheronProject/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty
+[submodule "AcheronProject/acheron_MX_PlateSlots.pretty"]
+	path = AcheronProject/acheron_MX_PlateSlots.pretty
+	url = https://github.com/AcheronProject/acheron_MX_PlateSlots.pretty
+[submodule "toka-eisos/Transformers_WurthElektronik.pretty"]
+	path = toka-eisos/Transformers_WurthElektronik.pretty
+	url = https://github.com/toka-eisos/Transformers_WurthElektronik.pretty
