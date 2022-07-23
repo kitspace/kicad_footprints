@@ -478,9 +478,6 @@
 [submodule "stubbyone/kicad-footprints.pretty"]
 	path = stubbyone/kicad-footprints.pretty
 	url = https://github.com/stubbyone/kicad-footprints.pretty.git
-[submodule "usagi1975/kicad_mod.pretty"]
-	path = usagi1975/kicad_mod.pretty
-	url = https://github.com/usagi1975/kicad_mod.pretty.git
 [submodule "madworm/KiCad-Footprints.pretty"]
 	path = madworm/KiCad-Footprints.pretty
 	url = https://github.com/madworm/KiCad-Footprints.pretty.git
