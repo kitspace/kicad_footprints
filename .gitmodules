@@ -1207,9 +1207,6 @@
 [submodule "kichMan/JDY-08"]
 	path = kichMan/JDY-08
 	url = https://github.com/kichMan/JDY-08
-[submodule "loiclefort/kicad-library"]
-	path = loiclefort/kicad-library
-	url = https://github.com/loiclefort/kicad-library
 [submodule "ASoftTech/CAD.KiCad.Libs"]
 	path = ASoftTech/CAD.KiCad.Libs
 	url = https://github.com/ASoftTech/CAD.KiCad.Libs
@@ -1348,9 +1345,6 @@
 [submodule "CarnivalBen/custom-kicadlib.pretty"]
 	path = CarnivalBen/custom-kicadlib.pretty
 	url = https://github.com/CarnivalBen/custom-kicadlib.pretty
-[submodule "fredoh3uu0w/Kicad_CFPT.pretty"]
-	path = fredoh3uu0w/Kicad_CFPT.pretty
-	url = https://github.com/fredoh3uu0w/Kicad_CFPT.pretty
 [submodule "sergiu46/KiCadParts.pretty"]
 	path = sergiu46/KiCadParts.pretty
 	url = https://github.com/sergiu46/KiCadParts.pretty
