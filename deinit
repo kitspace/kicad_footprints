@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+set -eu
+
+max_parallel_tasks=10
+ignore_file='ignore_modules.txt'
+test -f $ignore_file || touch $ignore_file
+
+
+git submodule | awk '{ print $2 }' | grep  --fixed-strings --file=$ignore_file \
+  | xargs -I'{}' -P$max_parallel_tasks git submodule deinit -f '{}'
