@@ -778,9 +778,6 @@
 [submodule "hairymnstr/Nathan_SMT_Conn.pretty"]
 	path = hairymnstr/Nathan_SMT_Conn.pretty
 	url = https://github.com/hairymnstr/Nathan_SMT_Conn.pretty.git
-[submodule "madworm/DIL-Headers.pretty"]
-	path = madworm/DIL-Headers.pretty
-	url = https://github.com/madworm/DIL-Headers.pretty.git
 [submodule "apexelectrix/apex-pin-connectors.pretty"]
 	path = apexelectrix/apex-pin-connectors.pretty
 	url = https://github.com/apexelectrix/apex-pin-connectors.pretty.git
