@@ -22,6 +22,10 @@ This downloads all the libraries in parallel but it can still take a while.
 
 If you are stuck on KiCad version 4 or version 5 can use the `kicad-4` or the `kicad-5` branch. These branches are not being updated though.
 
+#### Ignoring Modules
+
+Create a file 'ignore_modules'. Add regexp patterns per line for module names to ignore. If doing this having already run './init', create the ignore file, then run './deinit'
+
 ### Updating
 
 If you want to update all libraries to their latest versions do:
@@ -48,7 +52,6 @@ _Warning: This will overwrite your existing fp-lib-table, discard any customizat
     cp ~/.config/kicad/6.0/fp-lib-table ~/.config/kicad/6.0/fp-lib-table.backup
     ./generate_table ~/.config/kicad/6.0/fp-lib-table
 
-
 #### Mac OS
 
     cp ~/Library/Preferences/kicad/6.0/fp-lib-table ~/Library/Preferences/kicad/6.0/fp-lib-table.backup
@@ -74,7 +77,6 @@ If you don't like the new way of organizing footprint libs and want to restore y
 ##### Windows
 
     cp ~/AppData/Roaming/kicad/6.0/fp-lib-table.backup ~/AppData/Roaming/kicad/6.0/fp-lib-table
-
 
 ### 3D models
 
