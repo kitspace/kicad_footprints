@@ -24,7 +24,11 @@ If you are stuck on KiCad version 4 or version 5 can use the `kicad-4` or the `k
 
 #### Ignoring Modules
 
-Create a file 'ignore_modules'. Add regexp patterns per line for module names to ignore. If doing this having already run './init', create the ignore file, then run './deinit'
+Create a file `ignore_modules.txt` and add a sub-string to match per line for module names to ignore. For example to ignore the official KiCad modules from this repo (since they are already included with KiCad) `ignore_modules.txt` would be:
+
+    kicad-official
+
+If adding lines to `ignore_modules.txt` having already run `./init` then run `./deinit` to de-register the modules affected by the lines. 
 
 ### Updating
 
