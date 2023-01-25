@@ -14,11 +14,11 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
+      # commenting out ppa due to seg-faults in latest kicad 6
+      # - run: sudo apt-get install -qq -y software-properties-common
+      # - run: sudo add-apt-repository -y ppa:kicad/kicad-6.0-releases
       - run: sudo apt-get update -qq
-      - run: sudo apt-get install -qq -y software-properties-common
-      - run: sudo add-apt-repository -y ppa:kicad/kicad-6.0-releases
-      - run: sudo apt-get update -qq
-      - run: sudo apt-get install -qq -y --no-install-recommends kicad
+      - run: sudo apt-get install -qq -y --no-install-recommends 'kicad=6.0.2+dfsg-1'
       - run: ./init
       - run: ./update
       - run: python3 load_all.py
